@@ -1,6 +1,4 @@
 
-Here’s an expanded, polished README you can drop into your GitHub repo:
-
 ---
 
 # 📊 Forecasting Community Representation in Media
@@ -54,7 +52,7 @@ A deep‐learning-powered toolkit for modeling and predicting how different comm
 1. **Clone & install**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/your-repo.git  
+   git clone https://github.com/Siddharth7269/Community-Future-Prediction.git  
    cd your-repo  
    python3 -m venv venv  
    source venv/bin/activate  
@@ -126,9 +124,9 @@ A deep‐learning-powered toolkit for modeling and predicting how different comm
 ## 📄 Cite This Project
 
 ```bibtex
-@article{yourname2025diversityforecast,
+@article{Siddharth2025diversityforecast,
   title   = {Forecasting Community Representation in Media with LSTM},
-  author  = {Your Name and Collaborators},
+  author  = {Siddharth Yadav,Rezza Moieni,Nabi Zamani and Nicole Lee},
   journal = {DiversityAtlas Tech Report},
   year    = {2025},
   url     = {http://sidmediadr.diversityatlas.io:5000/}
