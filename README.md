@@ -1,4 +1,4 @@
----
+
 
 # 📊 Forecasting Community Representation in Media
 
@@ -6,7 +6,7 @@ A deep‐learning toolkit to model and predict how diverse communities (African,
 
 🔗 **Live Demo**: [http://sidmediadr.diversityatlas.io:5000/](http://sidmediadr.diversityatlas.io:5000/)
 
----
+
 
 ## 🏆 Highlights
 
