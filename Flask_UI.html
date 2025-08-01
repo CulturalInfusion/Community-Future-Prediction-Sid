@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Media Representation Future Forecast For Different Communities</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: #f9f9f9;
+    }
+    h1, h2 {
+      color: #333;
+    }
+    input, textarea, select, button {
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+      font-size: 16px;
+    }
+    textarea::placeholder {
+      color: #888;
+    }
+    textarea:hover::after {
+      content: attr(title);
+      display: block;
+      position: absolute;
+      background: #eee;
+      padding: 5px;
+      border-radius: 5px;
+      font-size: 14px;
+    }
+    button {
+      background-color: #007BFF;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    .section {
+      margin-bottom: 40px;
+      padding: 20px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    #result {
+      margin-top: 20px;
+      font-weight: bold;
+      color: green;
+    }
+  </style>
+</head>
+<body>
+  <h1>📈 Community Representation Future Forecast For Different Communities</h1>
+
+  <div class="section">
+    <h2>📰 News Channels</h2>
+    <form class="forecastForm" data-type="news">
+      <label>Community:</label>
+      <select name="community">
+        <option value="African">African</option>
+        <option value="Asian">Asian</option>
+        <option value="Middle Eastern">Middle Eastern</option>
+        <option value="Indigenous">Indigenous</option>
+        <option value="European">European</option>
+      </select>
+
+      <label>News Channel:</label>
+      <select name="channel">
+        <option value="BBC">BBC</option>
+        <option value="CNN">CNN</option>
+        <option value="Fox News">Fox News</option>
+        <option value="Al Jazeera">Al Jazeera</option>
+        <option value="ABC">ABC</option>
+      </select>
+
+      <label>Input Last 20 Years of Representation (%):</label>
+      <textarea name="values" placeholder="Enter the past 20 years data individually" title="Example: For year(2011-Enter 3,2012-Enter 1,2013-Enter 19,2014-Enter 13,2015- >
+      <button type="submit">Predict News</button>
+      <div class="result"></div>
+    </form>
+  </div>
+  <div class="section">
+    <h2>💬 Social Media Platforms</h2>
+    <form class="forecastForm" data-type="social">
+      <label>Community:</label>
+      <select name="community">
+        <option value="African">African</option>
+        <option value="Asian">Asian</option>
+        <option value="Middle Eastern">Middle Eastern</option>
+        <option value="Indigenous">Indigenous</option>
+        <option value="European">European</option>
+      </select>
+
+      <label>Platform:</label>
+      <select name="platform">
+        <option value="Twitter">Twitter</option>
+        <option value="Facebook">Facebook</option>
+        <option value="Instagram">Instagram</option>
+        <option value="YouTube">YouTube</option>
+        <option value="Reddit">Reddit</option>
+      </select>
+
+      <label>Input Last 20 Years of Representation (%):</label>
+      <textarea name="values" placeholder="Enter the past 20 years data individually" title="Example: For year(2011-Enter 23,2012-Enter 10,2013-Enter 9,2014-Enter 23,2015->
+      <button type="submit">Predict Social Media</button>
+      <div class="result"></div>
+    </form>
+  </div>
+
+  <div class="section">
+    <h2>🎬 Entertainment Media (TV, Movies)</h2>
+    <form class="forecastForm" data-type="entertainment">
+      <label>Community:</label>
+      <select name="community">
+        <option value="African">African</option>
+        <option value="Asian">Asian</option>
+        <option value="Middle Eastern">Middle Eastern</option>
+        <option value="Indigenous">Indigenous</option>
+        <option value="European">European</option>
+      </select>
+
+      <label>Entertainment Type:</label>
+      <select name="entertainment">
+        <option value="Hollywood">Hollywood</option>
+        <option value="Bollywood">Bollywood</option>
+        <option value="Spanish TV Shows">Spanish TV Shows</option>
+        <option value="K-Dramas">K-Dramas</option>
+        <option value="Nigerian Cinema">Nigerian Cinema</option>
+      </select>
+
+      <label>Input Last 20 Years of Representation (%):</label>
+      <textarea name="values" placeholder="Enter the past 20 years data individually" title="Example: For year(2011- Enter 14,2012-Enter 17,2013-Enter 19,2014-Enter 21,201>
+      <button type="submit">Predict Entertainment</button>
+      <div class="result"></div>
+    </form>
+  </div>
+
+  <script>
+    document.querySelectorAll(".forecastForm").forEach(form => {
+      form.addEventListener("submit", async function(e) {
+        e.preventDefault();
+
+        const community = this.querySelector("select[name='community']").value;
+        const valuesText = this.querySelector("textarea").value;
+        const resultBox = this.querySelector(".result");
+        const values = valuesText.split(',').map(v => parseFloat(v.trim()));
+
+        if (values.length !== 20 || values.some(isNaN)) {
+          alert("Please enter exactly 20 valid numeric values.");
+          return;
+        }
+
+        const response = await fetch("/predict", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ input: values, community })
+        });
+
+        const data = await response.json();
+        resultBox.innerText = data.prediction
+          ? `Predicted Next-Year Representation: ${data.prediction.toFixed(2)}%`
+          : `Error: ${data.error}`;
+      });
+    });
+  </script>
+</body>
