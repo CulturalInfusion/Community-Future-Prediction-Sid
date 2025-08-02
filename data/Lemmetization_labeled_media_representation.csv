@@ -1,0 +1,2521 @@
+Year,community ,news_article_text,Positive Representation (%),Neutral Representation (%),Negative Representation (%),Media Platform,Label
+2004,hispanic,1807,51.43,30.21,18.36,le monde,hispanic_le monde_
+2004,european,3623,37.47,22.88,39.66,times,european_the times_
+2004,indigenous,4856,40.11,44.5,15.39,ny times,indigenous_ny times_
+2004,european,1152,32.2,40.86,26.94,deutsche welle,european_deutsche welle_
+2004,african,2928,36.66,26.91,36.43,guardian,african_the guardian_
+2004,asian,690,18.26,48.36,33.38,cbs news,asian_cbs news_
+2004,indigenous,1781,16.28,31.77,51.96,ny times,indigenous_ny times_
+2004,european,3442,10.57,28.55,60.88,times,european_the times_
+2004,indigenous,1934,18.34,27.86,53.8,deutsche welle,indigenous_deutsche welle_
+2004,indigenous,4949,25.08,40.76,34.16,ny times,indigenous_ny times_
+2004,asian,2866,12.04,30.95,57.01,washington post,asian_washington post_
+2004,indigenous,4749,23.32,48.05,28.63,fox news,indigenous_fox news_
+2004,asian,1043,53.68,45.22,1.1,times,asian_the times_
+2004,asian,1092,50.04,36.86,13.1,bbc,asian_bbc_
+2004,hispanic,2750,31.73,27.54,40.73,guardian,hispanic_the guardian_
+2004,hispanic,851,24.98,38.37,36.65,al jazeera,hispanic_al jazeera_
+2004,asian,4683,41.26,45.93,12.82,washington post,asian_washington post_
+2004,middle eastern,3137,51.39,36.73,11.88,le monde,middle eastern_le monde_
+2004,middle eastern,2541,22.82,42.69,34.49,bbc,middle eastern_bbc_
+2004,asian,1976,40.52,32.36,27.11,bloomberg,asian_bloomberg_
+2004,hispanic,897,15,21.32,63.67,abc news,hispanic_abc news_
+2004,asian,919,37.24,35.73,27.03,bbc,asian_bbc_
+2004,indigenous,1495,15.77,47.15,37.08,abc news,indigenous_abc news_
+2004,asian,880,37.99,49.34,12.68,le monde,asian_le monde_
+2004,indigenous,2650,43.52,34.74,21.74,nbc news,indigenous_nbc news_
+2004,hispanic,2639,17.12,41.18,41.7,hindu,hispanic_the hindu_
+2004,african,2727,44.61,29.08,26.32,le monde,african_le monde_
+2004,middle eastern,1327,26.26,35.27,38.47,guardian,middle eastern_the guardian_
+2004,european,2715,17.45,47.25,35.3,cbs news,european_cbs news_
+2004,asian,1995,51.96,21.99,26.05,cbs news,asian_cbs news_
+2004,european,4578,33.75,22.19,44.06,guardian,european_the guardian_
+2004,african,3283,38.3,20.48,41.22,deutsche welle,african_deutsche welle_
+2004,middle eastern,2558,24.2,33.56,42.24,abc news,middle eastern_abc news_
+2004,african,4068,57.69,21.91,20.39,guardian,african_the guardian_
+2004,asian,2302,20.51,26.16,53.34,al jazeera,asian_al jazeera_
+2004,european,3042,28.87,34.48,36.66,bbc,european_bbc_
+2004,african,3635,59,42.73,-1.73,reuters,african_reuters_
+2004,indigenous,1888,22.44,36.13,41.43,guardian,indigenous_the guardian_
+2004,asian,719,27.26,40.28,32.46,associated press,asian_associated press_
+2004,asian,3443,38.86,39.29,21.85,al jazeera,asian_al jazeera_
+2004,middle eastern,685,23.01,25.32,51.67,bloomberg,middle eastern_bloomberg_
+2004,african,609,24.93,29.27,45.79,reuters,african_reuters_
+2004,indigenous,2812,57.84,30.62,11.54,cnn,indigenous_cnn_
+2004,asian,3025,31.75,47.72,20.54,abc news,asian_abc news_
+2004,european,4364,16.27,43.28,40.45,reuters,european_reuters_
+2004,middle eastern,2535,12.29,24.07,63.64,bloomberg,middle eastern_bloomberg_
+2004,hispanic,1753,56.91,22.64,20.45,fox news,hispanic_fox news_
+2004,middle eastern,2130,50.18,44.91,4.91,al jazeera,middle eastern_al jazeera_
+2004,african,4263,15.72,31.67,52.61,associated press,african_associated press_
+2004,middle eastern,1203,18.04,20.78,61.17,deutsche welle,middle eastern_deutsche welle_
+2004,hispanic,1109,55.19,26.7,18.11,guardian,hispanic_the guardian_
+2004,middle eastern,1652,46.63,37.69,15.69,bloomberg,middle eastern_bloomberg_
+2004,african,3146,37.1,31.03,31.87,bloomberg,african_bloomberg_
+2004,middle eastern,2880,37.16,46.68,16.17,reuters,middle eastern_reuters_
+2004,hispanic,3992,24.23,39.94,35.83,times,hispanic_the times_
+2004,hispanic,2034,19.64,26.56,53.8,cnn,hispanic_cnn_
+2004,european,1941,21.98,38.65,39.37,le monde,european_le monde_
+2004,european,3112,20.71,34.48,44.81,nbc news,european_nbc news_
+2004,hispanic,4806,53.96,35.22,10.82,times,hispanic_the times_
+2004,african,2118,23.41,37.68,38.91,abc news,african_abc news_
+2004,middle eastern,1800,56.22,44.3,-0.51,abc news,middle eastern_abc news_
+2004,middle eastern,1756,51.45,43.08,5.48,al jazeera,middle eastern_al jazeera_
+2004,indigenous,3867,30.15,36.47,33.38,fox news,indigenous_fox news_
+2004,asian,4367,53.28,45.47,1.24,fox news,asian_fox news_
+2004,hispanic,1691,50.85,23.27,25.88,al jazeera,hispanic_al jazeera_
+2004,indigenous,1383,46.06,37.91,16.04,nbc news,indigenous_nbc news_
+2004,african,2162,24.47,25.51,50.02,bbc,african_bbc_
+2004,african,3987,11.35,21.99,66.66,cnn,african_cnn_
+2004,asian,3213,33.43,40.71,25.85,cnn,asian_cnn_
+2004,asian,1591,49.69,43.64,6.67,abc news,asian_abc news_
+2004,indigenous,4108,32.16,46.07,21.77,al jazeera,indigenous_al jazeera_
+2004,asian,4104,33.33,22.25,44.41,cnn,asian_cnn_
+2004,european,3243,56.76,31.83,11.42,washington post,european_washington post_
+2004,european,1684,57.81,27.15,15.04,washington post,european_washington post_
+2004,middle eastern,1025,48.81,48.8,2.39,fox news,middle eastern_fox news_
+2004,asian,2435,46.53,48.71,4.77,nbc news,asian_nbc news_
+2004,asian,3046,35,30.81,34.19,cbs news,asian_cbs news_
+2004,asian,1192,29.36,34.27,36.38,cnn,asian_cnn_
+2004,asian,1561,18.09,28.36,53.54,ny times,asian_ny times_
+2004,middle eastern,3978,29.19,31.27,39.54,associated press,middle eastern_associated press_
+2004,middle eastern,4068,46.68,29.49,23.82,fox news,middle eastern_fox news_
+2004,asian,3679,41.47,41.31,17.22,abc news,asian_abc news_
+2004,hispanic,3035,59.53,40.75,-0.28,washington post,hispanic_washington post_
+2004,african,1648,32.09,25.71,42.2,cnn,african_cnn_
+2004,hispanic,3522,40.7,32.66,26.64,associated press,hispanic_associated press_
+2004,middle eastern,1698,28.76,38.01,33.23,bloomberg,middle eastern_bloomberg_
+2004,indigenous,3703,21.51,48.34,30.15,abc news,indigenous_abc news_
+2004,indigenous,3586,16.58,49.43,33.99,fox news,indigenous_fox news_
+2004,indigenous,2665,41.17,36.23,22.6,bbc,indigenous_bbc_
+2004,african,1732,44.68,33.53,21.79,times,african_the times_
+2004,european,2322,50.42,25.35,24.23,bbc,european_bbc_
+2004,hispanic,2720,31.43,20.29,48.27,washington post,hispanic_washington post_
+2004,african,2902,16.14,46.94,36.92,reuters,african_reuters_
+2004,asian,3828,11.57,41.68,46.75,times,asian_the times_
+2004,asian,3563,29.56,20.19,50.25,fox news,asian_fox news_
+2004,hispanic,3207,29.5,48.36,22.15,associated press,hispanic_associated press_
+2004,asian,2364,57,33.4,9.6,washington post,asian_washington post_
+2004,hispanic,3424,50.18,43.26,6.56,cnn,hispanic_cnn_
+2004,asian,3118,45.64,20.55,33.82,abc news,asian_abc news_
+2004,hispanic,4569,49.61,21.77,28.62,hindu,hispanic_the hindu_
+2004,asian,4501,19.84,36.66,43.5,cnn,asian_cnn_
+2004,european,636,49.58,46,4.42,al jazeera,european_al jazeera_
+2004,middle eastern,1660,41.27,48.56,10.17,ny times,middle eastern_ny times_
+2004,indigenous,2287,17.47,33.06,49.47,hindu,indigenous_the hindu_
+2004,european,1188,26.16,49.12,24.72,nbc news,european_nbc news_
+2004,indigenous,1230,12.47,42.88,44.65,ny times,indigenous_ny times_
+2004,asian,4849,48.42,38.94,12.64,ny times,asian_ny times_
+2004,asian,4918,37.21,43.38,19.4,deutsche welle,asian_deutsche welle_
+2004,african,1404,44.49,38.15,17.36,bbc,african_bbc_
+2004,european,2301,10.5,41.47,48.03,al jazeera,european_al jazeera_
+2004,middle eastern,4394,20.66,39.48,39.86,hindu,middle eastern_the hindu_
+2004,indigenous,4946,59.83,48.43,-8.26,guardian,indigenous_the guardian_
+2004,hispanic,2434,41.73,31.06,27.21,reuters,hispanic_reuters_
+2004,hispanic,3285,43.92,22.65,33.43,bloomberg,hispanic_bloomberg_
+2004,african,2005,10.47,30.1,59.43,bbc,african_bbc_
+2004,african,3474,50.26,24.88,24.86,washington post,african_washington post_
+2004,asian,1999,52.29,36.28,11.43,hindu,asian_the hindu_
+2004,asian,2212,24.09,32.65,43.26,reuters,asian_reuters_
+2004,middle eastern,2555,59.81,42.25,-2.05,bloomberg,middle eastern_bloomberg_
+2004,indigenous,4065,10.13,20.98,68.9,cnn,indigenous_cnn_
+2005,middle eastern,4404,12.07,22.55,65.38,abc news,middle eastern_abc news_
+2005,asian,3496,19.13,30.83,50.04,fox news,asian_fox news_
+2005,indigenous,1520,50.66,38.24,11.1,le monde,indigenous_le monde_
+2005,indigenous,3012,35.8,48,16.19,ny times,indigenous_ny times_
+2005,middle eastern,3132,31.29,40.31,28.4,washington post,middle eastern_washington post_
+2005,middle eastern,4084,12.6,45.12,42.28,times,middle eastern_the times_
+2005,middle eastern,1904,41.75,45.34,12.91,fox news,middle eastern_fox news_
+2005,african,4751,29.19,47.05,23.76,bbc,african_bbc_
+2005,middle eastern,4111,57.23,44,-1.22,bloomberg,middle eastern_bloomberg_
+2005,asian,1789,50.7,37.8,11.5,al jazeera,asian_al jazeera_
+2005,middle eastern,1073,57.39,20.24,22.37,deutsche welle,middle eastern_deutsche welle_
+2005,african,3727,44.98,34.35,20.67,reuters,african_reuters_
+2005,middle eastern,1619,16.28,37.87,45.85,guardian,middle eastern_the guardian_
+2005,middle eastern,1115,31.72,20.88,47.4,bloomberg,middle eastern_bloomberg_
+2005,asian,4277,11.17,30.96,57.88,times,asian_the times_
+2005,european,4755,12.3,38.97,48.73,cbs news,european_cbs news_
+2005,middle eastern,4802,13.78,43.3,42.92,reuters,middle eastern_reuters_
+2005,middle eastern,4973,54.33,40.59,5.08,times,middle eastern_the times_
+2005,hispanic,3454,46.32,25.41,28.27,guardian,hispanic_the guardian_
+2005,middle eastern,4566,58.98,25.54,15.48,abc news,middle eastern_abc news_
+2005,hispanic,652,11.91,45.51,42.58,bloomberg,hispanic_bloomberg_
+2005,middle eastern,4924,37.85,26.84,35.31,al jazeera,middle eastern_al jazeera_
+2005,hispanic,644,20.3,44.61,35.08,associated press,hispanic_associated press_
+2005,african,1764,44.95,44.71,10.34,al jazeera,african_al jazeera_
+2005,asian,4231,23.08,49.16,27.76,fox news,asian_fox news_
+2005,hispanic,506,30.81,45.77,23.41,bbc,hispanic_bbc_
+2005,asian,2335,48.59,35.96,15.45,reuters,asian_reuters_
+2005,middle eastern,1567,51.46,34.63,13.92,washington post,middle eastern_washington post_
+2005,asian,1801,15.21,30.1,54.68,cnn,asian_cnn_
+2005,african,3485,25.61,36.18,38.21,washington post,african_washington post_
+2005,european,869,13.58,45.55,40.87,cnn,european_cnn_
+2005,asian,2555,58.4,20.59,21,le monde,asian_le monde_
+2005,african,3954,40.42,42.25,17.34,le monde,african_le monde_
+2005,asian,4658,40.94,27.06,32.01,al jazeera,asian_al jazeera_
+2005,indigenous,4309,25.96,24.2,49.84,bbc,indigenous_bbc_
+2005,african,4647,46.74,26.73,26.53,ny times,african_ny times_
+2005,european,3551,19.96,48.06,31.99,times,european_the times_
+2005,asian,2315,53.43,49.91,-3.34,washington post,asian_washington post_
+2005,european,2480,35.51,29.74,34.75,bloomberg,european_bloomberg_
+2005,asian,2656,50.77,40.26,8.97,al jazeera,asian_al jazeera_
+2005,indigenous,4009,43.27,48.02,8.71,fox news,indigenous_fox news_
+2005,indigenous,1768,24.86,42.48,32.66,cnn,indigenous_cnn_
+2005,middle eastern,4658,20.53,43.58,35.9,le monde,middle eastern_le monde_
+2005,indigenous,1581,52.69,25.37,21.93,bloomberg,indigenous_bloomberg_
+2005,asian,3951,27.8,40.2,32,al jazeera,asian_al jazeera_
+2005,indigenous,3416,16.67,40.48,42.85,cnn,indigenous_cnn_
+2005,african,3225,12.43,26.95,60.62,abc news,african_abc news_
+2005,hispanic,3800,57.77,39.02,3.21,cnn,hispanic_cnn_
+2005,indigenous,1999,43.81,35.07,21.12,deutsche welle,indigenous_deutsche welle_
+2005,hispanic,3260,14.53,45.97,39.5,le monde,hispanic_le monde_
+2005,european,1654,28.34,36.11,35.55,washington post,european_washington post_
+2005,hispanic,4820,13.57,33.43,53,bbc,hispanic_bbc_
+2005,asian,4794,20.3,43.99,35.71,cnn,asian_cnn_
+2005,european,2809,50.2,24.47,25.33,nbc news,european_nbc news_
+2005,asian,1242,50.36,27.28,22.35,cbs news,asian_cbs news_
+2005,african,1877,29.11,36.6,34.29,al jazeera,african_al jazeera_
+2005,african,628,29.12,30.3,40.58,washington post,african_washington post_
+2005,european,1037,57.24,28.68,14.08,le monde,european_le monde_
+2005,european,4929,39.64,37.53,22.83,ny times,european_ny times_
+2005,hispanic,4961,28.79,41.43,29.79,washington post,hispanic_washington post_
+2005,african,2664,45.07,42.71,12.21,fox news,african_fox news_
+2005,indigenous,4790,49.1,31.94,18.96,guardian,indigenous_the guardian_
+2005,african,691,52.32,47.89,-0.22,associated press,african_associated press_
+2005,middle eastern,4967,27.72,27.96,44.32,abc news,middle eastern_abc news_
+2005,european,2905,49.98,30.19,19.83,al jazeera,european_al jazeera_
+2005,hispanic,580,49.04,46.4,4.56,times,hispanic_the times_
+2005,hispanic,2230,23.78,29.69,46.53,cbs news,hispanic_cbs news_
+2005,european,3748,10.08,25.23,64.69,ny times,european_ny times_
+2005,european,2654,58.84,27.82,13.34,nbc news,european_nbc news_
+2005,european,1787,33.62,29.56,36.82,washington post,european_washington post_
+2005,african,4682,48.74,24.95,26.31,le monde,african_le monde_
+2005,hispanic,1152,14.54,21.02,64.45,reuters,hispanic_reuters_
+2005,asian,516,50.42,35.67,13.92,ny times,asian_ny times_
+2005,african,1169,21.95,31.41,46.64,fox news,african_fox news_
+2005,european,3924,39.26,48.34,12.4,guardian,european_the guardian_
+2005,european,3722,30.61,43,26.4,le monde,european_le monde_
+2005,european,1821,23.51,40.55,35.94,cnn,european_cnn_
+2005,european,3815,46.4,42.9,10.7,guardian,european_the guardian_
+2005,hispanic,902,13.22,47.36,39.42,nbc news,hispanic_nbc news_
+2005,african,1765,29.24,39.39,31.37,abc news,african_abc news_
+2005,middle eastern,3701,57.53,45.88,-3.41,hindu,middle eastern_the hindu_
+2005,african,1496,43.69,24.64,31.67,guardian,african_the guardian_
+2005,hispanic,2619,34.84,46.25,18.91,bloomberg,hispanic_bloomberg_
+2005,asian,4372,36.66,28.03,35.31,al jazeera,asian_al jazeera_
+2005,asian,3237,20.67,47.34,31.99,reuters,asian_reuters_
+2005,indigenous,2269,41.38,47.4,11.22,nbc news,indigenous_nbc news_
+2005,asian,2446,11.86,45.27,42.88,cbs news,asian_cbs news_
+2005,hispanic,1146,39.77,37.89,22.34,deutsche welle,hispanic_deutsche welle_
+2005,middle eastern,991,11.78,22.77,65.45,fox news,middle eastern_fox news_
+2005,indigenous,3939,16.26,35.97,47.78,bloomberg,indigenous_bloomberg_
+2005,african,4897,18.66,33.92,47.42,bloomberg,african_bloomberg_
+2005,hispanic,4821,44.64,28.99,26.37,al jazeera,hispanic_al jazeera_
+2005,african,782,43.36,29.51,27.13,le monde,african_le monde_
+2005,middle eastern,1433,32.09,26.3,41.61,fox news,middle eastern_fox news_
+2005,indigenous,4833,38.47,30.39,31.13,al jazeera,indigenous_al jazeera_
+2005,indigenous,4157,39.09,24.91,36,reuters,indigenous_reuters_
+2005,european,2998,21.35,30.22,48.43,cbs news,european_cbs news_
+2005,hispanic,3183,13.48,29.58,56.94,bbc,hispanic_bbc_
+2005,middle eastern,2436,55.6,43.21,1.18,times,middle eastern_the times_
+2005,hispanic,1942,52.73,23.74,23.53,washington post,hispanic_washington post_
+2005,middle eastern,3766,33.25,23.04,43.72,cnn,middle eastern_cnn_
+2005,hispanic,4311,32.3,42.94,24.77,al jazeera,hispanic_al jazeera_
+2005,hispanic,2092,43.85,45.55,10.6,deutsche welle,hispanic_deutsche welle_
+2005,european,4098,30.82,21.74,47.44,fox news,european_fox news_
+2005,middle eastern,3779,41.71,24.82,33.47,hindu,middle eastern_the hindu_
+2005,middle eastern,2093,56.52,27.44,16.05,al jazeera,middle eastern_al jazeera_
+2005,hispanic,3583,35.72,20.27,44.01,times,hispanic_the times_
+2005,middle eastern,969,32.92,34.87,32.21,deutsche welle,middle eastern_deutsche welle_
+2005,asian,1520,43.58,20.58,35.84,abc news,asian_abc news_
+2005,african,929,44.65,28.15,27.19,deutsche welle,african_deutsche welle_
+2005,european,2494,57.31,43.3,-0.61,cbs news,european_cbs news_
+2005,indigenous,2339,40.47,31.18,28.35,times,indigenous_the times_
+2005,african,515,12.7,23.65,63.65,hindu,african_the hindu_
+2005,indigenous,3930,59.88,41.35,-1.23,cnn,indigenous_cnn_
+2005,indigenous,4193,24.01,42.16,33.83,hindu,indigenous_the hindu_
+2005,european,1489,23.48,31.77,44.75,ny times,european_ny times_
+2005,middle eastern,2516,48.17,20.2,31.63,guardian,middle eastern_the guardian_
+2005,middle eastern,2114,56.68,49.41,-6.09,le monde,middle eastern_le monde_
+2005,indigenous,4021,38.32,33.75,27.93,abc news,indigenous_abc news_
+2005,european,3901,27.71,40.46,31.83,bloomberg,european_bloomberg_
+2006,european,1068,48.16,45.93,5.91,bbc,european_bbc_
+2006,middle eastern,1077,18.96,37.47,43.57,le monde,middle eastern_le monde_
+2006,african,3458,58.11,22.07,19.82,guardian,african_the guardian_
+2006,hispanic,1270,57.26,43.66,-0.92,bloomberg,hispanic_bloomberg_
+2006,middle eastern,2107,45.03,49.24,5.72,ny times,middle eastern_ny times_
+2006,indigenous,3919,43.92,33.12,22.95,al jazeera,indigenous_al jazeera_
+2006,asian,1214,21.63,21.08,57.29,bloomberg,asian_bloomberg_
+2006,middle eastern,857,43.19,20.54,36.28,deutsche welle,middle eastern_deutsche welle_
+2006,middle eastern,3828,29.82,46.78,23.39,bloomberg,middle eastern_bloomberg_
+2006,middle eastern,2569,43.39,23.42,33.19,reuters,middle eastern_reuters_
+2006,european,2724,52.47,20.38,27.15,bloomberg,european_bloomberg_
+2006,middle eastern,4888,49.02,24.23,26.74,bloomberg,middle eastern_bloomberg_
+2006,indigenous,3715,20.79,32.68,46.53,nbc news,indigenous_nbc news_
+2006,indigenous,1722,49.7,31.54,18.77,abc news,indigenous_abc news_
+2006,asian,4045,57.58,34.62,7.8,bloomberg,asian_bloomberg_
+2006,asian,2114,33.81,42.01,24.19,associated press,asian_associated press_
+2006,middle eastern,2606,56.99,48.29,-5.29,fox news,middle eastern_fox news_
+2006,hispanic,3707,36.79,47.62,15.59,reuters,hispanic_reuters_
+2006,asian,1874,38.96,33.54,27.49,abc news,asian_abc news_
+2006,middle eastern,2857,34.67,23.8,41.53,le monde,middle eastern_le monde_
+2006,indigenous,937,21.25,20.01,58.74,deutsche welle,indigenous_deutsche welle_
+2006,african,921,44.18,48.16,7.66,deutsche welle,african_deutsche welle_
+2006,middle eastern,724,11.58,22.36,66.05,cnn,middle eastern_cnn_
+2006,indigenous,4558,51.12,33.03,15.84,washington post,indigenous_washington post_
+2006,hispanic,3486,14.52,30.66,54.83,reuters,hispanic_reuters_
+2006,middle eastern,1389,46.42,42.05,11.53,reuters,middle eastern_reuters_
+2006,hispanic,4793,46.11,26.45,27.44,nbc news,hispanic_nbc news_
+2006,african,2078,30.67,38.84,30.49,guardian,african_the guardian_
+2006,european,1972,40.78,48.61,10.61,cnn,european_cnn_
+2006,middle eastern,1996,44.58,46.87,8.54,ny times,middle eastern_ny times_
+2006,african,843,11.56,27.4,61.04,times,african_the times_
+2006,indigenous,1576,10.8,30.07,59.13,le monde,indigenous_le monde_
+2006,hispanic,1203,47.79,22.81,29.4,abc news,hispanic_abc news_
+2006,hispanic,4807,59.27,44.79,-4.05,times,hispanic_the times_
+2006,european,1101,52.77,28.77,18.46,fox news,european_fox news_
+2006,middle eastern,2172,17.66,42.13,40.21,guardian,middle eastern_the guardian_
+2006,middle eastern,4305,26.38,29.06,44.55,fox news,middle eastern_fox news_
+2006,middle eastern,1727,11.05,30.98,57.97,washington post,middle eastern_washington post_
+2006,european,4825,53.43,21.51,25.06,cnn,european_cnn_
+2006,asian,1663,42.73,47.21,10.06,ny times,asian_ny times_
+2006,hispanic,1299,54.82,27.34,17.84,washington post,hispanic_washington post_
+2006,hispanic,4536,30.05,34.14,35.81,bbc,hispanic_bbc_
+2006,african,1512,46.37,25.99,27.64,reuters,african_reuters_
+2006,hispanic,2665,20.09,39.71,40.2,times,hispanic_the times_
+2006,middle eastern,3980,44.68,43.36,11.96,reuters,middle eastern_reuters_
+2006,hispanic,2951,12.55,27.24,60.21,cnn,hispanic_cnn_
+2006,african,2606,11.63,22.67,65.7,bloomberg,african_bloomberg_
+2006,european,1686,38.76,44.81,16.43,times,european_the times_
+2006,african,2381,26.66,41.57,31.77,nbc news,african_nbc news_
+2006,african,2645,23.23,26,50.78,cnn,african_cnn_
+2006,middle eastern,677,50.42,48,1.58,times,middle eastern_the times_
+2006,hispanic,2373,25.95,23.24,50.81,guardian,hispanic_the guardian_
+2006,indigenous,3405,49.25,32.7,18.05,fox news,indigenous_fox news_
+2006,european,1569,42.57,41.93,15.5,nbc news,european_nbc news_
+2006,asian,3553,48.8,46.55,4.65,bbc,asian_bbc_
+2006,african,2336,25.77,37.51,36.72,cnn,african_cnn_
+2006,european,4497,32.42,24.18,43.4,washington post,european_washington post_
+2006,european,1141,53.44,33.5,13.06,reuters,european_reuters_
+2006,middle eastern,3853,10.29,32.69,57.01,times,middle eastern_the times_
+2006,european,3235,32.99,46.11,20.89,deutsche welle,european_deutsche welle_
+2006,indigenous,4836,48.92,45.15,5.94,washington post,indigenous_washington post_
+2006,indigenous,848,47.29,23.21,29.51,al jazeera,indigenous_al jazeera_
+2006,middle eastern,3287,52.24,25.46,22.3,hindu,middle eastern_the hindu_
+2006,asian,2769,44.14,36.18,19.68,reuters,asian_reuters_
+2006,european,1862,50.92,41.91,7.18,hindu,european_the hindu_
+2006,african,4167,41.1,25.07,33.83,cbs news,african_cbs news_
+2006,hispanic,3266,35.08,32.58,32.34,bloomberg,hispanic_bloomberg_
+2006,african,4084,54.62,38.67,6.71,le monde,african_le monde_
+2006,indigenous,4377,43.32,37.31,19.37,ny times,indigenous_ny times_
+2006,middle eastern,4500,38.92,42.9,18.18,bloomberg,middle eastern_bloomberg_
+2006,european,3477,53.88,31.98,14.14,deutsche welle,european_deutsche welle_
+2006,asian,1629,50.81,47.23,1.96,nbc news,asian_nbc news_
+2006,european,1429,21.17,43.36,35.47,times,european_the times_
+2006,european,2785,41.11,32.32,26.57,associated press,european_associated press_
+2006,african,2706,55.34,48.15,-3.49,bbc,african_bbc_
+2006,hispanic,572,28.27,25.99,45.74,washington post,hispanic_washington post_
+2006,african,2063,42.78,34.32,22.89,hindu,african_the hindu_
+2006,african,1097,41.55,47.76,10.69,washington post,african_washington post_
+2006,european,3807,28.85,30.8,40.35,bloomberg,european_bloomberg_
+2006,middle eastern,1781,38.44,41.66,19.9,washington post,middle eastern_washington post_
+2006,middle eastern,1062,36.02,43.85,20.13,cnn,middle eastern_cnn_
+2006,asian,4017,58.07,40.63,1.3,cbs news,asian_cbs news_
+2006,middle eastern,3513,57.98,20.9,21.11,bloomberg,middle eastern_bloomberg_
+2006,hispanic,769,32.07,41.02,26.91,le monde,hispanic_le monde_
+2006,hispanic,2922,33.21,45.79,20.99,le monde,hispanic_le monde_
+2006,asian,728,17.83,43.33,38.84,hindu,asian_the hindu_
+2006,asian,2659,35.67,32.72,31.6,abc news,asian_abc news_
+2006,middle eastern,2824,37.59,43.37,19.03,abc news,middle eastern_abc news_
+2006,african,2744,27.96,29.4,42.64,le monde,african_le monde_
+2006,indigenous,2375,41.61,36.51,21.88,guardian,indigenous_the guardian_
+2006,hispanic,1995,41.24,40.59,18.18,deutsche welle,hispanic_deutsche welle_
+2006,asian,649,45.52,42.6,11.89,fox news,asian_fox news_
+2006,european,2752,42.29,48.87,8.85,washington post,european_washington post_
+2006,asian,4722,32.81,32.85,34.34,guardian,asian_the guardian_
+2006,african,1065,13.94,33.2,52.85,le monde,african_le monde_
+2006,asian,4840,22.09,27.14,50.77,nbc news,asian_nbc news_
+2006,middle eastern,2096,48.79,48.7,2.51,nbc news,middle eastern_nbc news_
+2006,middle eastern,2146,16.5,42.49,41.01,reuters,middle eastern_reuters_
+2006,hispanic,1032,14.03,48.07,37.91,nbc news,hispanic_nbc news_
+2006,african,3037,32.32,38.35,29.33,cnn,african_cnn_
+2006,middle eastern,1907,47.13,34.02,18.85,nbc news,middle eastern_nbc news_
+2006,european,3932,41.73,37.52,20.75,fox news,european_fox news_
+2006,african,2446,46.99,31.18,21.82,cbs news,african_cbs news_
+2006,asian,3214,11.51,31.16,57.33,times,asian_the times_
+2006,middle eastern,4946,49.01,25.73,25.26,ny times,middle eastern_ny times_
+2006,indigenous,908,51.91,49.8,-1.72,bbc,indigenous_bbc_
+2006,african,3656,21.31,49.8,28.89,associated press,african_associated press_
+2006,african,1973,13.55,40.74,45.71,bbc,african_bbc_
+2006,middle eastern,868,59.32,48.09,-7.41,fox news,middle eastern_fox news_
+2006,hispanic,3361,34.53,30.23,35.24,times,hispanic_the times_
+2006,middle eastern,2314,45.2,43.1,11.7,deutsche welle,middle eastern_deutsche welle_
+2006,asian,623,41.58,41.47,16.94,le monde,asian_le monde_
+2006,european,1536,46.35,38.04,15.61,deutsche welle,european_deutsche welle_
+2006,african,2775,56.73,20.17,23.11,times,african_the times_
+2006,indigenous,2112,59.91,24.37,15.72,le monde,indigenous_le monde_
+2006,european,2533,57.38,25.72,16.91,associated press,european_associated press_
+2006,hispanic,883,16.42,39.01,44.57,nbc news,hispanic_nbc news_
+2006,middle eastern,4151,54.44,49.99,-4.42,cnn,middle eastern_cnn_
+2006,middle eastern,4359,33.2,46.39,20.41,cnn,middle eastern_cnn_
+2006,african,3266,49.94,45.09,4.96,cnn,african_cnn_
+2007,african,4312,44.7,44.54,10.76,bloomberg,african_bloomberg_
+2007,hispanic,4127,28.6,32.13,39.27,hindu,hispanic_the hindu_
+2007,indigenous,2334,57.21,45.6,-2.81,cnn,indigenous_cnn_
+2007,african,647,57.73,20.32,21.95,cbs news,african_cbs news_
+2007,african,3749,32.41,38.42,29.18,al jazeera,african_al jazeera_
+2007,middle eastern,605,24.12,30.05,45.83,cnn,middle eastern_cnn_
+2007,african,788,26.06,30.1,43.84,bloomberg,african_bloomberg_
+2007,african,2785,21.53,41.44,37.03,le monde,african_le monde_
+2007,asian,2048,34.91,20.83,44.26,deutsche welle,asian_deutsche welle_
+2007,european,4714,49.52,46.83,3.65,reuters,european_reuters_
+2007,asian,2858,30.56,45.96,23.49,guardian,asian_the guardian_
+2007,european,4430,51.12,33.49,15.39,times,european_the times_
+2007,european,832,27.48,28.59,43.93,nbc news,european_nbc news_
+2007,hispanic,4213,21.79,23.2,55.01,reuters,hispanic_reuters_
+2007,european,3556,17.08,48,34.92,bbc,european_bbc_
+2007,middle eastern,4812,34.27,37.07,28.66,associated press,middle eastern_associated press_
+2007,indigenous,818,33.16,33.81,33.02,deutsche welle,indigenous_deutsche welle_
+2007,middle eastern,3760,45.51,49.12,5.36,cbs news,middle eastern_cbs news_
+2007,middle eastern,4256,16.76,45.2,38.04,fox news,middle eastern_fox news_
+2007,european,4356,41.13,24.6,34.27,bloomberg,european_bloomberg_
+2007,hispanic,3128,38.25,35.06,26.69,le monde,hispanic_le monde_
+2007,hispanic,1346,18.75,43.57,37.68,associated press,hispanic_associated press_
+2007,hispanic,2321,28.25,25.34,46.41,associated press,hispanic_associated press_
+2007,middle eastern,1632,39.54,24.44,36.02,cnn,middle eastern_cnn_
+2007,european,3177,19.93,35.53,44.54,times,european_the times_
+2007,african,2366,39.21,49.15,11.64,le monde,african_le monde_
+2007,indigenous,3697,48.61,44.88,6.52,washington post,indigenous_washington post_
+2007,asian,2161,31.11,40.69,28.2,al jazeera,asian_al jazeera_
+2007,indigenous,2188,49.61,27.68,22.71,abc news,indigenous_abc news_
+2007,european,2922,51.58,30.93,17.49,bbc,european_bbc_
+2007,asian,1833,25.06,37.54,37.39,washington post,asian_washington post_
+2007,african,1028,28.7,35.83,35.47,hindu,african_the hindu_
+2007,european,3201,40.77,36.47,22.76,times,european_the times_
+2007,asian,2482,23.24,35.04,41.72,reuters,asian_reuters_
+2007,indigenous,807,34.28,32.88,32.84,nbc news,indigenous_nbc news_
+2007,african,1323,34.2,38.33,27.47,associated press,african_associated press_
+2007,asian,3428,24.41,47.66,27.93,bloomberg,asian_bloomberg_
+2007,african,2492,58.88,38.95,2.17,bbc,african_bbc_
+2007,european,3763,18.21,25.66,56.13,guardian,european_the guardian_
+2007,hispanic,1783,35.87,26.29,37.84,cbs news,hispanic_cbs news_
+2007,middle eastern,2354,59.94,49.47,-9.41,washington post,middle eastern_washington post_
+2007,middle eastern,3239,21.54,25.79,52.67,al jazeera,middle eastern_al jazeera_
+2007,middle eastern,2978,18.29,40.91,40.79,nbc news,middle eastern_nbc news_
+2007,middle eastern,4809,59.5,25.13,15.37,le monde,middle eastern_le monde_
+2007,indigenous,3890,49.89,40.03,10.08,deutsche welle,indigenous_deutsche welle_
+2007,indigenous,590,11.78,39.11,49.11,times,indigenous_the times_
+2007,european,2042,13.28,32.38,54.34,bbc,european_bbc_
+2007,african,4874,25.58,39.24,35.18,cbs news,african_cbs news_
+2007,hispanic,2315,26.7,29.81,43.49,cnn,hispanic_cnn_
+2007,asian,1082,23.25,29.04,47.71,times,asian_the times_
+2007,indigenous,4832,53.34,23.4,23.26,nbc news,indigenous_nbc news_
+2007,european,4773,14,44.27,41.73,cnn,european_cnn_
+2007,hispanic,2273,13.92,38.83,47.25,hindu,hispanic_the hindu_
+2007,european,3724,47.25,26.88,25.88,guardian,european_the guardian_
+2007,indigenous,1022,25.79,27.67,46.54,ny times,indigenous_ny times_
+2007,indigenous,2717,59.06,40.36,0.58,cnn,indigenous_cnn_
+2007,indigenous,1469,25,22.54,52.46,associated press,indigenous_associated press_
+2007,asian,3543,10.33,23.19,66.49,nbc news,asian_nbc news_
+2007,asian,4696,30.97,30.18,38.85,reuters,asian_reuters_
+2007,african,4078,59.24,23.61,17.15,bloomberg,african_bloomberg_
+2007,european,3720,41.53,25.36,33.11,guardian,european_the guardian_
+2007,asian,2240,25.78,48.65,25.57,nbc news,asian_nbc news_
+2007,european,3060,10.62,30.04,59.35,associated press,european_associated press_
+2007,middle eastern,4365,16.89,27.11,56,cnn,middle eastern_cnn_
+2007,european,2949,24.9,48.47,26.63,cbs news,european_cbs news_
+2007,european,3544,57.9,41.3,0.8,bloomberg,european_bloomberg_
+2007,african,1642,45.29,33.49,21.21,nbc news,african_nbc news_
+2007,asian,3589,36.38,25.09,38.52,ny times,asian_ny times_
+2007,european,4051,17.13,48.92,33.95,associated press,european_associated press_
+2007,indigenous,3888,49.11,30.3,20.6,associated press,indigenous_associated press_
+2007,hispanic,1429,31.74,20.97,47.3,bloomberg,hispanic_bloomberg_
+2007,asian,4794,10.05,28.07,61.87,cnn,asian_cnn_
+2007,african,3309,22.43,25.29,52.27,bloomberg,african_bloomberg_
+2007,african,1994,42.5,37.93,19.57,cbs news,african_cbs news_
+2007,indigenous,3829,28.59,37.85,33.55,cbs news,indigenous_cbs news_
+2007,hispanic,4114,20.6,23.06,56.34,hindu,hispanic_the hindu_
+2007,african,533,39.15,29.5,31.35,washington post,african_washington post_
+2007,middle eastern,1765,28.56,26.44,44.99,times,middle eastern_the times_
+2007,middle eastern,1024,19.14,32.09,48.77,deutsche welle,middle eastern_deutsche welle_
+2007,european,4726,14.89,46.74,38.37,cnn,european_cnn_
+2007,middle eastern,4503,18.87,23.67,57.46,bloomberg,middle eastern_bloomberg_
+2007,european,2109,36.28,46.79,16.92,times,european_the times_
+2007,european,4313,22.5,33.55,43.95,fox news,european_fox news_
+2007,european,4230,37.45,28.18,34.38,washington post,european_washington post_
+2007,indigenous,3579,31.2,39.95,28.85,bbc,indigenous_bbc_
+2007,middle eastern,648,38.36,22.62,39.02,cbs news,middle eastern_cbs news_
+2007,indigenous,969,24.5,49.12,26.37,reuters,indigenous_reuters_
+2007,european,3286,31.12,47.88,21,abc news,european_abc news_
+2007,asian,1963,53.49,46.85,-0.34,nbc news,asian_nbc news_
+2007,african,1163,34.26,48.84,16.9,le monde,african_le monde_
+2007,african,3489,54.31,20.37,25.32,times,african_the times_
+2007,european,3413,17.19,43.64,39.18,guardian,european_the guardian_
+2007,african,4828,37.97,36.31,25.72,nbc news,african_nbc news_
+2007,indigenous,1299,49.09,35.29,15.62,washington post,indigenous_washington post_
+2007,asian,636,12.1,38.34,49.56,fox news,asian_fox news_
+2007,hispanic,4644,12.08,49.72,38.19,cbs news,hispanic_cbs news_
+2007,asian,3379,57.93,27.85,14.21,fox news,asian_fox news_
+2007,hispanic,1778,39.74,36.03,24.23,le monde,hispanic_le monde_
+2007,african,4277,10.37,42.14,47.48,associated press,african_associated press_
+2007,hispanic,3794,50.61,25.54,23.85,le monde,hispanic_le monde_
+2007,african,3051,45.17,22.94,31.89,cbs news,african_cbs news_
+2007,middle eastern,1940,23.1,44.24,32.66,al jazeera,middle eastern_al jazeera_
+2007,asian,760,53.27,49.2,-2.47,bbc,asian_bbc_
+2007,asian,553,36,23.81,40.19,fox news,asian_fox news_
+2007,african,3924,40.77,36.01,23.22,bloomberg,african_bloomberg_
+2007,european,4998,29.08,47.07,23.86,ny times,european_ny times_
+2007,middle eastern,1548,37.04,35.43,27.53,al jazeera,middle eastern_al jazeera_
+2007,african,1663,20.83,23.3,55.87,fox news,african_fox news_
+2007,indigenous,3646,28.08,34.86,37.06,washington post,indigenous_washington post_
+2007,african,4753,35.37,48.09,16.54,deutsche welle,african_deutsche welle_
+2007,hispanic,3175,15.51,23.89,60.6,ny times,hispanic_ny times_
+2007,indigenous,4283,58.46,32.37,9.17,bloomberg,indigenous_bloomberg_
+2007,african,3611,39.25,44.08,16.67,bbc,african_bbc_
+2007,middle eastern,4133,11.2,42.28,46.52,hindu,middle eastern_the hindu_
+2007,african,1122,41.03,22.15,36.82,guardian,african_the guardian_
+2007,european,3817,39.77,36.5,23.74,bbc,european_bbc_
+2007,indigenous,3689,50.43,26.76,22.81,times,indigenous_the times_
+2007,hispanic,2917,56.82,46.21,-3.02,washington post,hispanic_washington post_
+2007,indigenous,2649,51.79,30.72,17.49,nbc news,indigenous_nbc news_
+2007,indigenous,1605,38.44,33.43,28.13,al jazeera,indigenous_al jazeera_
+2008,hispanic,2761,38.51,27.73,33.76,cnn,hispanic_cnn_
+2008,hispanic,2362,30.55,23.97,45.48,deutsche welle,hispanic_deutsche welle_
+2008,indigenous,3884,48.85,38.32,12.82,fox news,indigenous_fox news_
+2008,african,2304,13.92,22.04,64.04,ny times,african_ny times_
+2008,african,4758,36.03,24.73,39.24,fox news,african_fox news_
+2008,asian,790,26.59,32.48,40.93,ny times,asian_ny times_
+2008,asian,4274,29.73,47.58,22.7,nbc news,asian_nbc news_
+2008,indigenous,3144,54.46,32.1,13.44,hindu,indigenous_the hindu_
+2008,asian,970,10.07,47.64,42.29,hindu,asian_the hindu_
+2008,indigenous,1001,32.77,42.98,24.24,fox news,indigenous_fox news_
+2008,hispanic,3051,35.61,34.81,29.57,bbc,hispanic_bbc_
+2008,european,1440,41.01,24.64,34.35,reuters,european_reuters_
+2008,hispanic,2624,24.25,35.99,39.76,cnn,hispanic_cnn_
+2008,hispanic,4330,53.42,35.96,10.61,cnn,hispanic_cnn_
+2008,indigenous,4136,17.87,21.93,60.21,al jazeera,indigenous_al jazeera_
+2008,african,525,18.26,23.45,58.28,ny times,african_ny times_
+2008,asian,2321,39.94,28.7,31.37,times,asian_the times_
+2008,african,1894,26.33,42.94,30.74,abc news,african_abc news_
+2008,african,3371,46.76,43.13,10.11,reuters,african_reuters_
+2008,middle eastern,4326,41.39,22.7,35.92,abc news,middle eastern_abc news_
+2008,middle eastern,2190,23.03,48,28.96,hindu,middle eastern_the hindu_
+2008,hispanic,693,18.14,28.55,53.31,times,hispanic_the times_
+2008,european,4737,50.76,30.74,18.5,ny times,european_ny times_
+2008,hispanic,4283,35.97,21.02,43.01,times,hispanic_the times_
+2008,indigenous,4923,54.04,23.33,22.63,deutsche welle,indigenous_deutsche welle_
+2008,european,3126,14.54,30.25,55.21,abc news,european_abc news_
+2008,indigenous,4325,17.17,26.99,55.84,cnn,indigenous_cnn_
+2008,middle eastern,4256,37.97,29.99,32.04,bloomberg,middle eastern_bloomberg_
+2008,indigenous,2867,35.05,49.88,15.07,al jazeera,indigenous_al jazeera_
+2008,african,2374,40.14,36.83,23.03,associated press,african_associated press_
+2008,indigenous,558,41.17,33.09,25.74,al jazeera,indigenous_al jazeera_
+2008,hispanic,3136,44.04,32.82,23.14,nbc news,hispanic_nbc news_
+2008,hispanic,2682,10.94,31.39,57.67,cbs news,hispanic_cbs news_
+2008,hispanic,4771,14.02,40.93,45.05,cnn,hispanic_cnn_
+2008,asian,2361,29.67,36.77,33.55,hindu,asian_the hindu_
+2008,african,1350,37.65,31.5,30.84,al jazeera,african_al jazeera_
+2008,middle eastern,2318,42.06,45.72,12.22,times,middle eastern_the times_
+2008,indigenous,4277,21.83,42.91,35.25,bloomberg,indigenous_bloomberg_
+2008,asian,1446,24.91,24.08,51,fox news,asian_fox news_
+2008,asian,4840,31.1,24.98,43.92,reuters,asian_reuters_
+2008,asian,4970,17.45,33.28,49.27,bloomberg,asian_bloomberg_
+2008,middle eastern,1554,32.62,43.18,24.21,bloomberg,middle eastern_bloomberg_
+2008,indigenous,4085,21.04,48.08,30.88,guardian,indigenous_the guardian_
+2008,asian,1881,34.71,34.33,30.96,ny times,asian_ny times_
+2008,indigenous,3587,46.27,29.69,24.04,times,indigenous_the times_
+2008,african,3954,49.6,28.17,22.22,cnn,african_cnn_
+2008,asian,1924,24.48,23.46,52.06,cnn,asian_cnn_
+2008,european,1761,23.05,33.21,43.74,nbc news,european_nbc news_
+2008,indigenous,2072,36.13,26.06,37.81,al jazeera,indigenous_al jazeera_
+2008,african,3404,41.11,23.29,35.6,washington post,african_washington post_
+2008,indigenous,4941,19.75,31.86,48.38,le monde,indigenous_le monde_
+2008,asian,3799,38.24,40.44,21.32,deutsche welle,asian_deutsche welle_
+2008,middle eastern,860,22.57,20.68,56.75,deutsche welle,middle eastern_deutsche welle_
+2008,african,2475,29.63,40.97,29.4,hindu,african_the hindu_
+2008,hispanic,1109,58.62,34.18,7.2,bbc,hispanic_bbc_
+2008,asian,4091,15.86,35,49.14,bbc,asian_bbc_
+2008,middle eastern,822,26.32,35.25,38.42,le monde,middle eastern_le monde_
+2008,african,4875,10.71,35.89,53.4,le monde,african_le monde_
+2008,hispanic,1881,26.72,33.41,39.87,washington post,hispanic_washington post_
+2008,middle eastern,4912,51.05,27.56,21.39,reuters,middle eastern_reuters_
+2008,asian,1864,40.2,46.1,13.7,abc news,asian_abc news_
+2008,african,3615,46.31,47.99,5.7,bbc,african_bbc_
+2008,middle eastern,2732,58.05,28.19,13.76,le monde,middle eastern_le monde_
+2008,asian,780,21.16,49.19,29.64,abc news,asian_abc news_
+2008,asian,3943,58.04,44.82,-2.86,al jazeera,asian_al jazeera_
+2008,indigenous,1125,41.36,37.76,20.88,reuters,indigenous_reuters_
+2008,asian,4883,41.75,45.35,12.9,associated press,asian_associated press_
+2008,hispanic,4688,26.9,45.75,27.35,al jazeera,hispanic_al jazeera_
+2008,indigenous,1712,22.44,32.49,45.07,ny times,indigenous_ny times_
+2008,middle eastern,1156,44.34,42.77,12.89,reuters,middle eastern_reuters_
+2008,indigenous,3024,32.04,42.76,25.2,ny times,indigenous_ny times_
+2008,african,4674,30.39,24.41,45.2,reuters,african_reuters_
+2008,indigenous,1706,30.18,27.7,42.12,cbs news,indigenous_cbs news_
+2008,indigenous,2870,27,21.33,51.67,deutsche welle,indigenous_deutsche welle_
+2008,european,1759,24.18,41.77,34.05,abc news,european_abc news_
+2008,middle eastern,4301,19.69,45.98,34.32,nbc news,middle eastern_nbc news_
+2008,asian,1187,11,28.37,60.62,deutsche welle,asian_deutsche welle_
+2008,european,3408,37.97,30.24,31.79,times,european_the times_
+2008,middle eastern,3306,57.11,33.92,8.97,associated press,middle eastern_associated press_
+2008,indigenous,1911,48.61,48.34,3.05,nbc news,indigenous_nbc news_
+2008,middle eastern,1142,58.9,21.25,19.85,associated press,middle eastern_associated press_
+2008,african,3607,12.6,40.84,46.56,deutsche welle,african_deutsche welle_
+2008,indigenous,1407,27.73,38.38,33.89,bloomberg,indigenous_bloomberg_
+2008,indigenous,1700,58.72,42.14,-0.87,deutsche welle,indigenous_deutsche welle_
+2008,european,1677,31.4,40.24,28.36,le monde,european_le monde_
+2008,middle eastern,4547,49.66,32.18,18.16,guardian,middle eastern_the guardian_
+2008,middle eastern,4568,54.46,23.6,21.94,le monde,middle eastern_le monde_
+2008,african,2745,35.17,24.78,40.05,bloomberg,african_bloomberg_
+2008,african,4689,44.91,46.71,8.37,deutsche welle,african_deutsche welle_
+2008,african,4737,10.03,45.54,44.43,associated press,african_associated press_
+2008,european,3615,33.11,23.34,43.55,washington post,european_washington post_
+2008,asian,1053,58.1,22.23,19.67,cbs news,asian_cbs news_
+2008,middle eastern,2762,38.23,33.46,28.31,cnn,middle eastern_cnn_
+2008,indigenous,4641,29.64,41.2,29.16,cnn,indigenous_cnn_
+2008,middle eastern,2219,15.16,49.58,35.26,le monde,middle eastern_le monde_
+2008,asian,4744,41.4,28.86,29.74,associated press,asian_associated press_
+2008,hispanic,728,48.72,23.43,27.85,le monde,hispanic_le monde_
+2008,european,940,57.04,29.69,13.27,reuters,european_reuters_
+2008,middle eastern,3096,34.94,39.68,25.38,bloomberg,middle eastern_bloomberg_
+2008,indigenous,1460,25.63,42.18,32.19,washington post,indigenous_washington post_
+2008,middle eastern,4182,41.4,31.59,27.01,bbc,middle eastern_bbc_
+2008,indigenous,1327,34.99,48.94,16.07,hindu,indigenous_the hindu_
+2008,african,2236,30.42,47.88,21.7,associated press,african_associated press_
+2008,hispanic,1187,43.16,40.86,15.98,al jazeera,hispanic_al jazeera_
+2008,european,4671,45.27,23.42,31.31,bbc,european_bbc_
+2008,african,4284,22.87,29.84,47.28,associated press,african_associated press_
+2008,middle eastern,4167,52.87,39.76,7.37,guardian,middle eastern_the guardian_
+2008,hispanic,2310,20.38,29.66,49.96,al jazeera,hispanic_al jazeera_
+2008,asian,2212,17.92,41.86,40.23,washington post,asian_washington post_
+2008,african,4134,36.04,32.78,31.19,hindu,african_the hindu_
+2008,african,1385,40.54,23.69,35.77,cbs news,african_cbs news_
+2008,hispanic,4878,40.47,23.63,35.9,bloomberg,hispanic_bloomberg_
+2008,african,2197,57.86,42.34,-0.2,abc news,african_abc news_
+2008,middle eastern,2891,15.02,46.01,38.98,abc news,middle eastern_abc news_
+2008,african,776,19.66,32.78,47.56,times,african_the times_
+2008,indigenous,1135,14.15,32.29,53.55,cbs news,indigenous_cbs news_
+2008,indigenous,1902,40.93,21.69,37.39,abc news,indigenous_abc news_
+2008,middle eastern,691,48.3,24.06,27.65,cbs news,middle eastern_cbs news_
+2008,asian,3297,22.85,44.76,32.39,le monde,asian_le monde_
+2008,european,1005,18.62,46.38,35,reuters,european_reuters_
+2009,hispanic,1190,23.58,49.99,26.43,washington post,hispanic_washington post_
+2009,european,1754,25.07,33.51,41.42,ny times,european_ny times_
+2009,indigenous,2690,27.02,40.26,32.71,nbc news,indigenous_nbc news_
+2009,indigenous,3921,51.65,37.22,11.13,fox news,indigenous_fox news_
+2009,hispanic,2591,22.26,27.37,50.37,reuters,hispanic_reuters_
+2009,middle eastern,3547,10.67,35.17,54.16,bloomberg,middle eastern_bloomberg_
+2009,indigenous,776,51.31,41.08,7.6,times,indigenous_the times_
+2009,european,1831,18.52,31.3,50.18,associated press,european_associated press_
+2009,hispanic,3578,47.59,48.31,4.1,hindu,hispanic_the hindu_
+2009,hispanic,4377,35.19,20.84,43.97,ny times,hispanic_ny times_
+2009,middle eastern,4824,35,37.91,27.09,ny times,middle eastern_ny times_
+2009,european,2588,58.36,38.92,2.72,cbs news,european_cbs news_
+2009,hispanic,860,26.98,26.7,46.31,cbs news,hispanic_cbs news_
+2009,european,679,26.52,39.27,34.21,guardian,european_the guardian_
+2009,indigenous,1942,58,23.08,18.92,associated press,indigenous_associated press_
+2009,asian,3315,32.03,35.71,32.26,bloomberg,asian_bloomberg_
+2009,african,4493,25.42,26.51,48.08,nbc news,african_nbc news_
+2009,african,3171,22.6,31.63,45.77,associated press,african_associated press_
+2009,european,3777,18.85,34.14,47.02,washington post,european_washington post_
+2009,hispanic,3114,14.38,46.91,38.71,times,hispanic_the times_
+2009,african,4222,52.4,42.77,4.83,hindu,african_the hindu_
+2009,african,1999,25.52,28.96,45.52,ny times,african_ny times_
+2009,asian,1691,17.12,26.06,56.83,al jazeera,asian_al jazeera_
+2009,european,2909,13.76,38.22,48.02,le monde,european_le monde_
+2009,indigenous,2279,32.79,27.67,39.54,nbc news,indigenous_nbc news_
+2009,indigenous,4154,54.97,22.79,22.24,associated press,indigenous_associated press_
+2009,asian,3924,59.53,37.17,3.3,abc news,asian_abc news_
+2009,indigenous,1009,33.45,34.97,31.58,bbc,indigenous_bbc_
+2009,asian,2679,53.56,25.93,20.5,washington post,asian_washington post_
+2009,european,2022,46.47,38.42,15.12,bbc,european_bbc_
+2009,asian,620,44.96,41.07,13.97,al jazeera,asian_al jazeera_
+2009,european,3277,17.96,47,35.04,le monde,european_le monde_
+2009,african,2551,56.04,45.16,-1.2,guardian,african_the guardian_
+2009,asian,4458,57.99,48.55,-6.54,cbs news,asian_cbs news_
+2009,middle eastern,2756,36.18,39.97,23.85,guardian,middle eastern_the guardian_
+2009,european,4620,55.97,28.48,15.55,guardian,european_the guardian_
+2009,african,4741,10.07,35.88,54.06,guardian,african_the guardian_
+2009,asian,3973,59.59,48.64,-8.23,washington post,asian_washington post_
+2009,middle eastern,2364,42.24,39.8,17.96,reuters,middle eastern_reuters_
+2009,middle eastern,1644,37.27,38.92,23.82,hindu,middle eastern_the hindu_
+2009,middle eastern,2057,34.42,30.95,34.62,nbc news,middle eastern_nbc news_
+2009,middle eastern,4213,14.88,42,43.12,cnn,middle eastern_cnn_
+2009,middle eastern,2511,20.67,48.54,30.78,le monde,middle eastern_le monde_
+2009,middle eastern,1239,43.18,37.21,19.61,bbc,middle eastern_bbc_
+2009,asian,3877,34.89,38.81,26.3,guardian,asian_the guardian_
+2009,middle eastern,3121,52.35,42.26,5.39,abc news,middle eastern_abc news_
+2009,hispanic,3242,15.69,33.37,50.94,cbs news,hispanic_cbs news_
+2009,european,3951,24.9,40.94,34.17,guardian,european_the guardian_
+2009,indigenous,3945,17.39,27.36,55.25,nbc news,indigenous_nbc news_
+2009,indigenous,3144,58.35,24.18,17.46,le monde,indigenous_le monde_
+2009,african,3410,29.65,49.37,20.98,cbs news,african_cbs news_
+2009,indigenous,823,43.74,34.82,21.44,bloomberg,indigenous_bloomberg_
+2009,asian,3970,51.92,45.41,2.67,times,asian_the times_
+2009,african,1513,40.01,42.38,17.61,hindu,african_the hindu_
+2009,hispanic,2585,12.36,36.08,51.56,le monde,hispanic_le monde_
+2009,middle eastern,2204,35.45,28.62,35.93,abc news,middle eastern_abc news_
+2009,hispanic,972,51.71,34.83,13.46,washington post,hispanic_washington post_
+2009,hispanic,3300,46.2,42.46,11.35,reuters,hispanic_reuters_
+2009,asian,4743,23.15,44.39,32.45,reuters,asian_reuters_
+2009,middle eastern,2653,37.82,35.95,26.23,deutsche welle,middle eastern_deutsche welle_
+2009,african,1723,52.92,45.92,1.17,reuters,african_reuters_
+2009,middle eastern,1052,17.84,36.93,45.23,times,middle eastern_the times_
+2009,indigenous,2839,44.84,32.88,22.28,guardian,indigenous_the guardian_
+2009,african,662,59.52,26.72,13.76,fox news,african_fox news_
+2009,european,711,25.92,46.9,27.17,times,european_the times_
+2009,indigenous,3929,10.77,44.26,44.97,ny times,indigenous_ny times_
+2009,indigenous,539,26.07,48.83,25.09,al jazeera,indigenous_al jazeera_
+2009,middle eastern,2136,13.29,42.62,44.09,al jazeera,middle eastern_al jazeera_
+2009,african,636,56.97,20.79,22.24,fox news,african_fox news_
+2009,hispanic,1450,52.94,29.2,17.85,ny times,hispanic_ny times_
+2009,african,939,53.39,38.16,8.45,bloomberg,african_bloomberg_
+2009,african,3221,48.49,20.99,30.52,washington post,african_washington post_
+2009,european,2167,23.1,49.79,27.11,ny times,european_ny times_
+2009,middle eastern,2536,36.34,20.38,43.28,times,middle eastern_the times_
+2009,african,608,18.57,49.83,31.6,bbc,african_bbc_
+2009,indigenous,4957,50.76,40.01,9.23,bloomberg,indigenous_bloomberg_
+2009,middle eastern,2385,48.11,33,18.9,deutsche welle,middle eastern_deutsche welle_
+2009,asian,2254,15.22,34.53,50.25,abc news,asian_abc news_
+2009,middle eastern,2643,28.99,26.86,44.15,le monde,middle eastern_le monde_
+2009,asian,4109,48.58,41.77,9.66,guardian,asian_the guardian_
+2009,middle eastern,3802,22.38,29.71,47.91,abc news,middle eastern_abc news_
+2009,african,4498,57.93,27.13,14.94,bloomberg,african_bloomberg_
+2009,european,641,24.96,38.71,36.33,abc news,european_abc news_
+2009,hispanic,2538,19.13,20.32,60.56,nbc news,hispanic_nbc news_
+2009,asian,3152,41.86,46.2,11.94,deutsche welle,asian_deutsche welle_
+2009,middle eastern,3218,15.98,24.16,59.86,al jazeera,middle eastern_al jazeera_
+2009,middle eastern,1897,49.07,44.03,6.9,hindu,middle eastern_the hindu_
+2009,hispanic,1831,27.74,42.68,29.58,cnn,hispanic_cnn_
+2009,european,4203,24.32,24.08,51.6,abc news,european_abc news_
+2009,european,4325,28.55,31.69,39.76,cbs news,european_cbs news_
+2009,african,3383,58.06,43.66,-1.72,cbs news,african_cbs news_
+2009,european,2376,45.21,26.6,28.19,reuters,european_reuters_
+2009,indigenous,665,53.36,35.68,10.96,al jazeera,indigenous_al jazeera_
+2009,asian,3448,13.43,24.1,62.47,bloomberg,asian_bloomberg_
+2009,european,4952,50.38,40.62,9,associated press,european_associated press_
+2009,african,2949,14.08,36.16,49.76,al jazeera,african_al jazeera_
+2009,asian,3109,23.54,23.66,52.8,reuters,asian_reuters_
+2009,african,3713,37.23,41.9,20.87,ny times,african_ny times_
+2009,european,1085,31.33,28.57,40.1,abc news,european_abc news_
+2009,european,770,19.69,48.03,32.28,hindu,european_the hindu_
+2009,african,1685,52.63,27.75,19.62,hindu,african_the hindu_
+2009,african,2901,38.69,39.33,21.98,abc news,african_abc news_
+2009,asian,1577,57.57,49.11,-6.68,reuters,asian_reuters_
+2009,european,1517,10.34,30.88,58.78,hindu,european_the hindu_
+2009,indigenous,1417,24.71,29.84,45.45,cnn,indigenous_cnn_
+2009,european,647,49.97,41.96,8.07,guardian,european_the guardian_
+2009,indigenous,4171,44.14,27.67,28.19,le monde,indigenous_le monde_
+2009,asian,724,37.75,36.42,25.83,abc news,asian_abc news_
+2009,african,2992,53.18,27.6,19.22,le monde,african_le monde_
+2009,african,2812,18.99,24.97,56.04,guardian,african_the guardian_
+2009,middle eastern,2461,18.41,42.47,39.12,hindu,middle eastern_the hindu_
+2009,indigenous,4341,47.54,37.19,15.26,bloomberg,indigenous_bloomberg_
+2009,middle eastern,591,28.22,27.53,44.25,reuters,middle eastern_reuters_
+2009,indigenous,2080,45.08,41.58,13.34,abc news,indigenous_abc news_
+2009,indigenous,1680,16.04,21.63,62.33,bloomberg,indigenous_bloomberg_
+2009,african,703,45.57,29.76,24.68,bloomberg,african_bloomberg_
+2009,middle eastern,2347,56.44,24.05,19.51,cnn,middle eastern_cnn_
+2009,middle eastern,532,18.18,26.11,55.71,times,middle eastern_the times_
+2009,african,3854,21.81,21.04,57.15,abc news,african_abc news_
+2009,african,2698,57.58,26.05,16.37,cnn,african_cnn_
+2010,asian,3081,20.54,39.92,39.55,times,asian_the times_
+2010,african,644,32.48,41.91,25.61,guardian,african_the guardian_
+2010,asian,2819,49.08,30.04,20.88,le monde,asian_le monde_
+2010,european,1648,36.19,40.31,23.5,guardian,european_the guardian_
+2010,european,705,17.62,42.14,40.25,reuters,european_reuters_
+2010,hispanic,1726,52.15,41.74,6.12,le monde,hispanic_le monde_
+2010,european,2369,39.16,24.12,36.72,al jazeera,european_al jazeera_
+2010,european,1759,56.56,35.7,7.74,cnn,european_cnn_
+2010,middle eastern,3083,47.93,40.78,11.29,fox news,middle eastern_fox news_
+2010,hispanic,1396,14.39,38.71,46.89,ny times,hispanic_ny times_
+2010,indigenous,3983,26.66,20.32,53.02,ny times,indigenous_ny times_
+2010,asian,2092,11.85,30.17,57.98,bbc,asian_bbc_
+2010,middle eastern,1459,33.33,42.77,23.9,washington post,middle eastern_washington post_
+2010,african,4792,31.02,36.05,32.94,times,african_the times_
+2010,african,4368,17.1,47.03,35.87,washington post,african_washington post_
+2010,indigenous,3101,43.6,32.45,23.95,times,indigenous_the times_
+2010,hispanic,3238,41.6,46.96,11.45,le monde,hispanic_le monde_
+2010,indigenous,2054,48.71,20.09,31.2,le monde,indigenous_le monde_
+2010,middle eastern,798,18.38,49.5,32.11,bbc,middle eastern_bbc_
+2010,european,856,39.83,45.5,14.67,fox news,european_fox news_
+2010,middle eastern,4656,15.73,33.08,51.19,bloomberg,middle eastern_bloomberg_
+2010,indigenous,1498,58.21,46.42,-4.63,hindu,indigenous_the hindu_
+2010,asian,2612,11.75,25.65,62.6,fox news,asian_fox news_
+2010,asian,4659,25.38,24.52,50.1,le monde,asian_le monde_
+2010,african,4715,36.08,29.84,34.08,washington post,african_washington post_
+2010,african,631,34.83,23.99,41.18,times,african_the times_
+2010,african,2921,32.13,22.71,45.16,hindu,african_the hindu_
+2010,indigenous,777,12.21,27.69,60.1,hindu,indigenous_the hindu_
+2010,european,4768,17.84,24.19,57.97,le monde,european_le monde_
+2010,african,1169,46.44,38.5,15.06,bbc,african_bbc_
+2010,african,1946,44.38,41.37,14.25,hindu,african_the hindu_
+2010,european,4651,37.02,41.29,21.7,reuters,european_reuters_
+2010,hispanic,770,32.32,36.16,31.52,times,hispanic_the times_
+2010,asian,3121,27.73,42.56,29.71,ny times,asian_ny times_
+2010,european,4731,28.28,39.63,32.09,cbs news,european_cbs news_
+2010,european,4851,27.83,39.19,32.98,fox news,european_fox news_
+2010,european,4944,49.16,36.01,14.83,bloomberg,european_bloomberg_
+2010,indigenous,568,42.51,26.96,30.53,al jazeera,indigenous_al jazeera_
+2010,middle eastern,3353,41.41,21.19,37.39,cbs news,middle eastern_cbs news_
+2010,asian,4082,34.07,28.58,37.35,bbc,asian_bbc_
+2010,european,2109,37.35,36.94,25.71,cbs news,european_cbs news_
+2010,middle eastern,4866,29.16,46.64,24.2,ny times,middle eastern_ny times_
+2010,european,1118,24.58,47.94,27.48,associated press,european_associated press_
+2010,indigenous,1604,48.59,43.84,7.57,reuters,indigenous_reuters_
+2010,african,3858,43.84,48.66,7.5,fox news,african_fox news_
+2010,asian,2784,25.33,25.54,49.13,guardian,asian_the guardian_
+2010,european,2055,55.69,45.43,-1.12,hindu,european_the hindu_
+2010,middle eastern,3040,31.13,41.04,27.83,associated press,middle eastern_associated press_
+2010,indigenous,1201,17.11,43.38,39.51,deutsche welle,indigenous_deutsche welle_
+2010,hispanic,2387,24.14,35.7,40.16,associated press,hispanic_associated press_
+2010,middle eastern,1286,31.1,49.05,19.84,al jazeera,middle eastern_al jazeera_
+2010,indigenous,3986,22.85,36.11,41.03,abc news,indigenous_abc news_
+2010,indigenous,2045,29.33,46.23,24.44,bloomberg,indigenous_bloomberg_
+2010,asian,1697,35.34,21.01,43.65,washington post,asian_washington post_
+2010,middle eastern,1244,35.1,32.24,32.66,fox news,middle eastern_fox news_
+2010,european,2226,24.74,32.27,42.99,guardian,european_the guardian_
+2010,middle eastern,4781,38.67,34.22,27.12,ny times,middle eastern_ny times_
+2010,asian,2678,29.59,29.72,40.69,ny times,asian_ny times_
+2010,indigenous,913,52.55,21.54,25.91,al jazeera,indigenous_al jazeera_
+2010,asian,4353,31.4,23.43,45.17,nbc news,asian_nbc news_
+2010,european,4479,15.47,36.63,47.9,al jazeera,european_al jazeera_
+2010,asian,3532,22.83,46.14,31.03,bbc,asian_bbc_
+2010,indigenous,4202,12.75,28,59.25,fox news,indigenous_fox news_
+2010,european,3367,23.81,21.02,55.16,cnn,european_cnn_
+2010,indigenous,748,44.38,42.41,13.2,times,indigenous_the times_
+2010,hispanic,2201,37.89,39.19,22.92,reuters,hispanic_reuters_
+2010,hispanic,2807,20.85,41.15,38,washington post,hispanic_washington post_
+2010,european,942,55.28,22.93,21.8,hindu,european_the hindu_
+2010,hispanic,1996,42.35,28.59,29.05,abc news,hispanic_abc news_
+2010,hispanic,3689,53.82,39.12,7.06,deutsche welle,hispanic_deutsche welle_
+2010,asian,692,10.87,34.99,54.14,associated press,asian_associated press_
+2010,european,1155,17.38,32.56,50.07,guardian,european_the guardian_
+2010,indigenous,2048,34,38.7,27.3,bloomberg,indigenous_bloomberg_
+2010,indigenous,2554,22.45,26.09,51.47,fox news,indigenous_fox news_
+2010,middle eastern,3219,54.42,42.83,2.76,bbc,middle eastern_bbc_
+2010,asian,2537,15.88,22.53,61.59,associated press,asian_associated press_
+2010,indigenous,4173,56.77,26.46,16.77,washington post,indigenous_washington post_
+2010,asian,1469,52.8,40.95,6.24,abc news,asian_abc news_
+2010,hispanic,940,55.24,33.81,10.94,reuters,hispanic_reuters_
+2010,european,4989,42.51,33.62,23.87,associated press,european_associated press_
+2010,african,598,59.25,41.33,-0.58,cnn,african_cnn_
+2010,african,2830,17.65,38.97,43.38,associated press,african_associated press_
+2010,african,2911,47.53,35.86,16.61,cbs news,african_cbs news_
+2010,indigenous,1223,32.79,35.22,32,nbc news,indigenous_nbc news_
+2010,asian,1629,40.02,32.99,26.99,abc news,asian_abc news_
+2010,african,2476,52.62,44.84,2.53,bloomberg,african_bloomberg_
+2010,asian,604,56.13,22.98,20.89,fox news,asian_fox news_
+2010,hispanic,1934,35.5,44.75,19.75,guardian,hispanic_the guardian_
+2010,asian,2548,58.58,48.48,-7.06,bbc,asian_bbc_
+2010,european,1800,39.85,28.55,31.61,washington post,european_washington post_
+2010,asian,4163,19.34,29.88,50.78,le monde,asian_le monde_
+2010,african,4068,34.89,33.11,32,abc news,african_abc news_
+2010,hispanic,1923,17.89,35.99,46.12,abc news,hispanic_abc news_
+2010,indigenous,4306,58.42,48.41,-6.83,bloomberg,indigenous_bloomberg_
+2010,african,3578,35.17,46.02,18.81,washington post,african_washington post_
+2010,hispanic,4733,42.11,28.47,29.43,cnn,hispanic_cnn_
+2010,asian,2827,51.4,48.94,-0.34,fox news,asian_fox news_
+2010,asian,4687,39.53,49.89,10.59,nbc news,asian_nbc news_
+2010,hispanic,4961,37.3,43.56,19.15,abc news,hispanic_abc news_
+2010,european,622,24.41,25.24,50.35,cnn,european_cnn_
+2010,asian,1445,24.75,42.7,32.55,guardian,asian_the guardian_
+2010,european,1317,17.42,29.16,53.41,deutsche welle,european_deutsche welle_
+2010,indigenous,692,30.27,25.15,44.58,deutsche welle,indigenous_deutsche welle_
+2010,indigenous,4310,21.03,23.97,55.01,fox news,indigenous_fox news_
+2010,european,1407,30.82,24.27,44.9,associated press,european_associated press_
+2010,hispanic,1927,30.92,24.34,44.75,cbs news,hispanic_cbs news_
+2010,asian,4695,18.4,43.12,38.48,fox news,asian_fox news_
+2010,middle eastern,1618,35.68,35.88,28.45,times,middle eastern_the times_
+2010,european,1525,56.74,35,8.26,deutsche welle,european_deutsche welle_
+2010,african,3984,39.19,31.79,29.03,guardian,african_the guardian_
+2010,indigenous,2415,44.57,43.13,12.3,abc news,indigenous_abc news_
+2010,indigenous,3316,50.67,40.85,8.48,washington post,indigenous_washington post_
+2010,asian,2865,23.72,33.04,43.24,bloomberg,asian_bloomberg_
+2010,african,1679,46.57,34.45,18.97,bloomberg,african_bloomberg_
+2010,asian,3706,53.63,32.03,14.33,washington post,asian_washington post_
+2010,hispanic,1912,50.48,45.75,3.78,bbc,hispanic_bbc_
+2010,european,4398,39.47,27.52,33,associated press,european_associated press_
+2010,middle eastern,2109,24.32,48.55,27.13,associated press,middle eastern_associated press_
+2010,hispanic,3310,41.02,24.08,34.9,deutsche welle,hispanic_deutsche welle_
+2010,hispanic,2996,13.82,41.82,44.36,le monde,hispanic_le monde_
+2011,hispanic,2197,46.1,38.42,15.48,ny times,hispanic_ny times_
+2011,indigenous,4081,55.24,30.78,13.98,abc news,indigenous_abc news_
+2011,middle eastern,2939,56.39,40.15,3.46,fox news,middle eastern_fox news_
+2011,middle eastern,1011,26.7,20.63,52.68,reuters,middle eastern_reuters_
+2011,asian,2207,25.53,49.31,25.17,abc news,asian_abc news_
+2011,hispanic,4322,56.45,34.33,9.22,guardian,hispanic_the guardian_
+2011,indigenous,4762,19.54,38.11,42.35,bloomberg,indigenous_bloomberg_
+2011,african,4148,34.86,47.63,17.51,reuters,african_reuters_
+2011,european,2649,30.15,45.25,24.61,le monde,european_le monde_
+2011,indigenous,1272,53.17,45.86,0.97,ny times,indigenous_ny times_
+2011,european,4312,10.79,20.45,68.75,le monde,european_le monde_
+2011,african,4908,39.67,34.48,25.85,al jazeera,african_al jazeera_
+2011,asian,1258,10.83,25.76,63.41,le monde,asian_le monde_
+2011,indigenous,3085,41.43,39.11,19.46,deutsche welle,indigenous_deutsche welle_
+2011,indigenous,4222,23.12,44.07,32.8,associated press,indigenous_associated press_
+2011,middle eastern,1060,25.14,35.7,39.16,nbc news,middle eastern_nbc news_
+2011,asian,4617,28.24,38.74,33.02,ny times,asian_ny times_
+2011,african,1882,32.62,36.6,30.77,deutsche welle,african_deutsche welle_
+2011,asian,1416,35.81,31.63,32.55,nbc news,asian_nbc news_
+2011,hispanic,567,46.07,37.09,16.84,hindu,hispanic_the hindu_
+2011,asian,529,31.62,35.25,33.13,times,asian_the times_
+2011,asian,1109,29.19,36.09,34.72,cbs news,asian_cbs news_
+2011,european,637,45.11,33.89,21,bloomberg,european_bloomberg_
+2011,european,2936,17.83,42.87,39.31,deutsche welle,european_deutsche welle_
+2011,european,4821,33.68,24.79,41.53,fox news,european_fox news_
+2011,middle eastern,3977,43.11,40,16.89,al jazeera,middle eastern_al jazeera_
+2011,hispanic,641,49.18,47.87,2.95,ny times,hispanic_ny times_
+2011,hispanic,2481,34.26,26.96,38.78,bloomberg,hispanic_bloomberg_
+2011,african,650,16.76,27.3,55.93,al jazeera,african_al jazeera_
+2011,indigenous,4161,38.27,27.77,33.96,ny times,indigenous_ny times_
+2011,middle eastern,2079,55.35,22.61,22.04,abc news,middle eastern_abc news_
+2011,middle eastern,4677,32.86,37.4,29.74,nbc news,middle eastern_nbc news_
+2011,hispanic,3241,25.5,43.2,31.3,deutsche welle,hispanic_deutsche welle_
+2011,middle eastern,3650,48.12,47.18,4.7,washington post,middle eastern_washington post_
+2011,hispanic,1908,59.1,28.33,12.57,bbc,hispanic_bbc_
+2011,african,2467,25.16,21.8,53.04,guardian,african_the guardian_
+2011,middle eastern,673,18.22,32.46,49.32,bloomberg,middle eastern_bloomberg_
+2011,asian,2903,44.76,28.52,26.72,bbc,asian_bbc_
+2011,hispanic,3551,59.62,41.12,-0.74,guardian,hispanic_the guardian_
+2011,asian,1948,41.43,42.16,16.41,bloomberg,asian_bloomberg_
+2011,african,3972,13.42,28.8,57.77,nbc news,african_nbc news_
+2011,middle eastern,4131,38.44,23.31,38.26,cbs news,middle eastern_cbs news_
+2011,hispanic,2561,21.96,38.09,39.95,fox news,hispanic_fox news_
+2011,middle eastern,2032,14.18,24.93,60.89,cnn,middle eastern_cnn_
+2011,asian,730,31.76,43.04,25.2,fox news,asian_fox news_
+2011,asian,4555,51.68,42.2,6.12,deutsche welle,asian_deutsche welle_
+2011,african,1944,53.14,47.51,-0.65,fox news,african_fox news_
+2011,asian,1011,54.08,25.01,20.91,nbc news,asian_nbc news_
+2011,middle eastern,2589,50.6,28.12,21.29,cbs news,middle eastern_cbs news_
+2011,european,2139,28.61,48.66,22.72,guardian,european_the guardian_
+2011,hispanic,2110,17.39,29.86,52.75,nbc news,hispanic_nbc news_
+2011,indigenous,1454,12.41,47.16,40.43,al jazeera,indigenous_al jazeera_
+2011,african,2833,45.57,46.03,8.4,ny times,african_ny times_
+2011,african,667,14.38,32.06,53.56,guardian,african_the guardian_
+2011,middle eastern,1393,53.35,40.93,5.72,deutsche welle,middle eastern_deutsche welle_
+2011,asian,4374,46.91,31.47,21.62,al jazeera,asian_al jazeera_
+2011,hispanic,4400,48.42,44.55,7.04,nbc news,hispanic_nbc news_
+2011,middle eastern,3307,34.84,49.14,16.03,hindu,middle eastern_the hindu_
+2011,asian,1459,26.85,49.28,23.87,guardian,asian_the guardian_
+2011,european,3040,23.51,42.48,34.01,abc news,european_abc news_
+2011,asian,4109,34.41,39.1,26.49,abc news,asian_abc news_
+2011,asian,2468,10.5,45.93,43.57,washington post,asian_washington post_
+2011,hispanic,4779,38.79,45.24,15.97,times,hispanic_the times_
+2011,asian,4788,23.05,43.33,33.62,reuters,asian_reuters_
+2011,indigenous,1350,32.8,29.25,37.95,reuters,indigenous_reuters_
+2011,european,3422,36.86,22.66,40.48,nbc news,european_nbc news_
+2011,hispanic,630,21.43,46.29,32.29,bloomberg,hispanic_bloomberg_
+2011,asian,2574,30.51,34.1,35.39,bbc,asian_bbc_
+2011,european,1967,12.3,41.19,46.51,al jazeera,european_al jazeera_
+2011,african,3904,14.37,34.82,50.81,nbc news,african_nbc news_
+2011,hispanic,3965,12.56,40.51,46.93,le monde,hispanic_le monde_
+2011,african,3216,59.85,46.97,-6.82,cbs news,african_cbs news_
+2011,african,2164,42.16,24.84,33,deutsche welle,african_deutsche welle_
+2011,asian,639,18.22,35.94,45.84,bloomberg,asian_bloomberg_
+2011,middle eastern,3245,32.82,27.31,39.87,al jazeera,middle eastern_al jazeera_
+2011,european,1444,48.47,26.28,25.25,cbs news,european_cbs news_
+2011,middle eastern,1954,46.88,39.11,14.02,cnn,middle eastern_cnn_
+2011,hispanic,2437,48.95,36.91,14.14,nbc news,hispanic_nbc news_
+2011,african,988,54.42,44.2,1.38,fox news,african_fox news_
+2011,asian,2283,22.9,42.39,34.71,le monde,asian_le monde_
+2011,hispanic,3591,37.44,36.28,26.28,al jazeera,hispanic_al jazeera_
+2011,indigenous,2550,32.44,45.48,22.08,washington post,indigenous_washington post_
+2011,asian,3288,19.74,47.93,32.33,times,asian_the times_
+2011,indigenous,3550,22.92,41.93,35.15,al jazeera,indigenous_al jazeera_
+2011,indigenous,3786,58.95,45.82,-4.77,bbc,indigenous_bbc_
+2011,european,1811,40.26,43.42,16.31,nbc news,european_nbc news_
+2011,middle eastern,3200,52.77,21.46,25.77,cbs news,middle eastern_cbs news_
+2011,asian,1311,53.39,43.63,2.98,deutsche welle,asian_deutsche welle_
+2011,hispanic,3921,36.5,38.22,25.28,deutsche welle,hispanic_deutsche welle_
+2011,middle eastern,4305,42.96,41.97,15.06,abc news,middle eastern_abc news_
+2011,hispanic,4112,40.68,36.2,23.12,le monde,hispanic_le monde_
+2011,middle eastern,1006,34.52,49.92,15.57,deutsche welle,middle eastern_deutsche welle_
+2011,middle eastern,4333,16.72,49.29,33.98,hindu,middle eastern_the hindu_
+2011,african,4136,31.91,21.7,46.39,deutsche welle,african_deutsche welle_
+2011,indigenous,1030,31.93,30.39,37.68,abc news,indigenous_abc news_
+2011,hispanic,914,22.13,28.89,48.98,nbc news,hispanic_nbc news_
+2011,african,1936,35.74,38.49,25.77,cnn,african_cnn_
+2011,hispanic,1243,44.35,34.24,21.41,bbc,hispanic_bbc_
+2011,indigenous,1682,43.36,35.12,21.52,guardian,indigenous_the guardian_
+2011,indigenous,3714,46.86,44.47,8.67,times,indigenous_the times_
+2011,middle eastern,1350,28.94,25.92,45.14,bloomberg,middle eastern_bloomberg_
+2011,indigenous,1264,36.59,31.95,31.46,washington post,indigenous_washington post_
+2011,european,1157,24.76,47.9,27.34,abc news,european_abc news_
+2011,asian,2688,10.65,34.02,55.33,cbs news,asian_cbs news_
+2011,middle eastern,871,35.61,29.72,34.67,abc news,middle eastern_abc news_
+2011,middle eastern,3410,46.88,45.85,7.27,hindu,middle eastern_the hindu_
+2011,hispanic,1318,32.48,21.13,46.39,associated press,hispanic_associated press_
+2011,european,1291,51.92,42.17,5.91,reuters,european_reuters_
+2011,hispanic,1511,35.2,35.35,29.45,washington post,hispanic_washington post_
+2011,african,4213,50.32,26.26,23.43,deutsche welle,african_deutsche welle_
+2011,african,3685,35.06,41.97,22.97,ny times,african_ny times_
+2011,european,825,42.65,34.73,22.62,fox news,european_fox news_
+2011,indigenous,1134,47.13,31.66,21.22,guardian,indigenous_the guardian_
+2011,middle eastern,2198,34.58,39.17,26.26,deutsche welle,middle eastern_deutsche welle_
+2011,european,3060,20.74,39.54,39.72,times,european_the times_
+2011,european,2288,21.89,34.48,43.63,nbc news,european_nbc news_
+2011,indigenous,1142,39.41,32.71,27.88,al jazeera,indigenous_al jazeera_
+2011,european,2037,11.02,48.58,40.39,guardian,european_the guardian_
+2011,european,925,45.74,41.75,12.51,ny times,european_ny times_
+2011,indigenous,931,35.45,42.19,22.36,times,indigenous_the times_
+2012,indigenous,3228,11.21,28.8,60,cbs news,indigenous_cbs news_
+2012,hispanic,1254,36.77,38.82,24.41,nbc news,hispanic_nbc news_
+2012,hispanic,3044,25.5,35.23,39.27,le monde,hispanic_le monde_
+2012,european,3263,47.67,42.03,10.29,fox news,european_fox news_
+2012,indigenous,3182,27.34,48.48,24.18,cnn,indigenous_cnn_
+2012,middle eastern,3202,15.08,42.36,42.56,ny times,middle eastern_ny times_
+2012,indigenous,3543,56.6,35,8.4,hindu,indigenous_the hindu_
+2012,african,2748,21.52,41.03,37.45,reuters,african_reuters_
+2012,asian,2255,40.21,29.64,30.15,cnn,asian_cnn_
+2012,indigenous,4252,22.1,33.77,44.13,times,indigenous_the times_
+2012,indigenous,4902,42.33,49.9,7.77,reuters,indigenous_reuters_
+2012,indigenous,3077,57.74,41.38,0.87,associated press,indigenous_associated press_
+2012,african,2800,58.13,49.8,-7.93,guardian,african_the guardian_
+2012,european,4568,46.73,40.33,12.94,deutsche welle,european_deutsche welle_
+2012,european,1883,52.87,38.59,8.54,times,european_the times_
+2012,european,2070,28.29,46.83,24.88,bloomberg,european_bloomberg_
+2012,asian,3724,13.89,37.21,48.9,deutsche welle,asian_deutsche welle_
+2012,indigenous,3093,26.73,49.73,23.53,deutsche welle,indigenous_deutsche welle_
+2012,european,3336,33.61,39.75,26.64,reuters,european_reuters_
+2012,hispanic,4320,27.98,31.07,40.95,bbc,hispanic_bbc_
+2012,hispanic,1730,43.77,47.69,8.55,guardian,hispanic_the guardian_
+2012,indigenous,775,23.63,35.08,41.28,deutsche welle,indigenous_deutsche welle_
+2012,european,4426,41.61,25.72,32.67,nbc news,european_nbc news_
+2012,asian,646,21.82,27.39,50.78,nbc news,asian_nbc news_
+2012,asian,909,16.41,33.86,49.73,associated press,asian_associated press_
+2012,indigenous,2729,51.99,35.53,12.47,bloomberg,indigenous_bloomberg_
+2012,asian,2317,48.42,32.29,19.29,reuters,asian_reuters_
+2012,hispanic,1945,12.54,21.82,65.65,al jazeera,hispanic_al jazeera_
+2012,middle eastern,1648,47.82,24.82,27.36,nbc news,middle eastern_nbc news_
+2012,african,3359,10.16,28.02,61.82,guardian,african_the guardian_
+2012,hispanic,619,18.2,45.18,36.62,ny times,hispanic_ny times_
+2012,asian,4708,13.31,23.86,62.83,nbc news,asian_nbc news_
+2012,european,4654,24.73,46.27,29,al jazeera,european_al jazeera_
+2012,hispanic,3351,41.71,29.18,29.11,washington post,hispanic_washington post_
+2012,hispanic,2021,12.38,44.59,43.03,associated press,hispanic_associated press_
+2012,indigenous,3455,10.78,20.84,68.38,reuters,indigenous_reuters_
+2012,indigenous,2754,59.9,21.13,18.97,hindu,indigenous_the hindu_
+2012,middle eastern,2494,19.89,48.29,31.82,le monde,middle eastern_le monde_
+2012,european,4803,38.56,32.85,28.58,associated press,european_associated press_
+2012,indigenous,2982,13.64,48.81,37.55,deutsche welle,indigenous_deutsche welle_
+2012,asian,1558,24.97,22.25,52.79,le monde,asian_le monde_
+2012,middle eastern,523,21.38,29.33,49.29,deutsche welle,middle eastern_deutsche welle_
+2012,african,4353,15.11,36.28,48.61,reuters,african_reuters_
+2012,hispanic,1733,31.69,35.15,33.16,associated press,hispanic_associated press_
+2012,hispanic,4664,35.74,20.25,44.01,abc news,hispanic_abc news_
+2012,hispanic,3568,32.56,49.25,18.19,times,hispanic_the times_
+2012,african,1611,49.04,20.51,30.45,associated press,african_associated press_
+2012,asian,2779,51.21,33.64,15.15,fox news,asian_fox news_
+2012,african,1175,56.66,28.37,14.97,al jazeera,african_al jazeera_
+2012,african,4481,48.34,34.53,17.13,nbc news,african_nbc news_
+2012,asian,3366,30.11,23.44,46.44,al jazeera,asian_al jazeera_
+2012,indigenous,4486,44.87,22.31,32.82,times,indigenous_the times_
+2012,african,3641,18.87,22.61,58.52,le monde,african_le monde_
+2012,african,4173,58.59,44.67,-3.26,al jazeera,african_al jazeera_
+2012,european,3339,16.01,47.09,36.89,abc news,european_abc news_
+2012,indigenous,4847,28.97,41.47,29.56,ny times,indigenous_ny times_
+2012,middle eastern,4426,59.15,43.3,-2.45,le monde,middle eastern_le monde_
+2012,indigenous,612,45.51,31.1,23.39,washington post,indigenous_washington post_
+2012,european,3070,17.76,24.7,57.54,abc news,european_abc news_
+2012,african,3989,56.3,26.97,16.73,cnn,african_cnn_
+2012,asian,3674,29.74,38.29,31.97,nbc news,asian_nbc news_
+2012,middle eastern,4287,11.05,45.53,43.42,hindu,middle eastern_the hindu_
+2012,asian,1793,57.16,46.3,-3.46,ny times,asian_ny times_
+2012,indigenous,4983,18.18,30.49,51.33,cnn,indigenous_cnn_
+2012,european,4965,11.54,27.63,60.82,cbs news,european_cbs news_
+2012,asian,1106,27.46,22.33,50.21,washington post,asian_washington post_
+2012,hispanic,1210,23.87,43.39,32.74,deutsche welle,hispanic_deutsche welle_
+2012,african,4583,13.92,27.57,58.51,cbs news,african_cbs news_
+2012,asian,3780,14.72,35.1,50.18,bloomberg,asian_bloomberg_
+2012,african,4914,53.86,40.91,5.23,al jazeera,african_al jazeera_
+2012,asian,835,12.74,46.98,40.28,al jazeera,asian_al jazeera_
+2012,indigenous,2211,33.84,30.41,35.75,al jazeera,indigenous_al jazeera_
+2012,european,4980,27.82,35.24,36.94,bbc,european_bbc_
+2012,asian,4235,57.45,36.47,6.08,abc news,asian_abc news_
+2012,indigenous,3778,51.24,49.26,-0.49,washington post,indigenous_washington post_
+2012,asian,2124,49.28,26.53,24.19,washington post,asian_washington post_
+2012,indigenous,4396,26.54,43.1,30.35,times,indigenous_the times_
+2012,asian,3763,18.51,32.85,48.64,cnn,asian_cnn_
+2012,european,1344,49.76,49.46,0.78,le monde,european_le monde_
+2012,asian,3149,14.41,45.54,40.06,bloomberg,asian_bloomberg_
+2012,indigenous,3239,45.66,34.59,19.75,le monde,indigenous_le monde_
+2012,african,3990,22.91,24.61,52.49,nbc news,african_nbc news_
+2012,middle eastern,3975,30.56,27.97,41.47,al jazeera,middle eastern_al jazeera_
+2012,european,2156,29.16,45.76,25.08,deutsche welle,european_deutsche welle_
+2012,indigenous,1529,58.35,44.14,-2.48,bbc,indigenous_bbc_
+2012,african,2221,42.59,36.14,21.27,washington post,african_washington post_
+2012,asian,2971,51.78,38.85,9.37,associated press,asian_associated press_
+2012,african,3755,29.09,26.6,44.31,guardian,african_the guardian_
+2012,hispanic,2382,18.41,27.9,53.69,associated press,hispanic_associated press_
+2012,middle eastern,2933,10.41,42.6,46.98,reuters,middle eastern_reuters_
+2012,african,3075,45.46,25.51,29.03,times,african_the times_
+2012,european,4400,11.36,38.17,50.47,reuters,european_reuters_
+2012,european,2921,32.71,39.39,27.91,washington post,european_washington post_
+2012,asian,4446,52.02,49.43,-1.45,hindu,asian_the hindu_
+2012,middle eastern,625,24.2,40.26,35.54,times,middle eastern_the times_
+2012,asian,4070,18.71,42.78,38.52,times,asian_the times_
+2012,asian,1818,52.16,32.54,15.31,guardian,asian_the guardian_
+2012,indigenous,4476,37.08,26.64,36.27,nbc news,indigenous_nbc news_
+2012,middle eastern,1942,17.7,22.16,60.14,nbc news,middle eastern_nbc news_
+2012,asian,2035,31.64,45.05,23.3,ny times,asian_ny times_
+2012,european,1972,35.71,39.01,25.27,bbc,european_bbc_
+2012,african,3099,41.64,34.83,23.53,cbs news,african_cbs news_
+2012,asian,1791,18.47,24.84,56.69,washington post,asian_washington post_
+2012,hispanic,3985,24.02,44.9,31.08,hindu,hispanic_the hindu_
+2012,asian,838,36.8,21.34,41.86,hindu,asian_the hindu_
+2012,indigenous,2474,34.47,41.84,23.69,deutsche welle,indigenous_deutsche welle_
+2012,european,1548,54.45,42.08,3.47,bbc,european_bbc_
+2012,african,2942,42.86,47.87,9.27,nbc news,african_nbc news_
+2012,african,4408,37.83,24.85,37.32,al jazeera,african_al jazeera_
+2012,african,4334,35.34,21.39,43.27,hindu,african_the hindu_
+2012,indigenous,2305,48.05,20.61,31.34,bloomberg,indigenous_bloomberg_
+2012,european,4410,40.42,27.85,31.73,nbc news,european_nbc news_
+2012,indigenous,4032,57.41,30.2,12.39,bbc,indigenous_bbc_
+2012,indigenous,3920,34.69,34.63,30.68,guardian,indigenous_the guardian_
+2012,indigenous,2031,38.46,45.5,16.05,abc news,indigenous_abc news_
+2012,african,1065,13.91,31.35,54.74,bloomberg,african_bloomberg_
+2012,european,2074,17.31,29.19,53.5,guardian,european_the guardian_
+2012,african,2110,33.48,35.32,31.2,associated press,african_associated press_
+2012,european,2783,19.36,38.06,42.58,nbc news,european_nbc news_
+2012,african,1678,56.01,32.1,11.88,al jazeera,african_al jazeera_
+2013,african,4384,53.79,34.04,12.17,guardian,african_the guardian_
+2013,asian,3367,16.89,20.86,62.25,hindu,asian_the hindu_
+2013,european,4453,30.21,47.28,22.52,nbc news,european_nbc news_
+2013,middle eastern,825,48.31,29.99,21.7,bbc,middle eastern_bbc_
+2013,hispanic,1600,17.43,20.43,62.14,reuters,hispanic_reuters_
+2013,indigenous,4900,32.56,33.41,34.03,cbs news,indigenous_cbs news_
+2013,asian,4577,47.12,49.73,3.15,hindu,asian_the hindu_
+2013,indigenous,1620,49.2,27.06,23.74,deutsche welle,indigenous_deutsche welle_
+2013,hispanic,3638,51.53,48.4,0.07,nbc news,hispanic_nbc news_
+2013,middle eastern,2700,51.6,39.9,8.5,guardian,middle eastern_the guardian_
+2013,african,3173,25.44,36.59,37.96,nbc news,african_nbc news_
+2013,middle eastern,3290,55.4,30.57,14.03,times,middle eastern_the times_
+2013,hispanic,2186,43.24,40.98,15.77,hindu,hispanic_the hindu_
+2013,european,4069,51.96,41.11,6.94,ny times,european_ny times_
+2013,hispanic,2771,34.21,37.01,28.77,bloomberg,hispanic_bloomberg_
+2013,african,4718,59,42.61,-1.61,deutsche welle,african_deutsche welle_
+2013,african,1303,12.53,36.67,50.8,abc news,african_abc news_
+2013,middle eastern,1592,34.55,25.62,39.83,fox news,middle eastern_fox news_
+2013,indigenous,3453,50.05,21.16,28.79,bloomberg,indigenous_bloomberg_
+2013,indigenous,1839,34.85,43.12,22.03,fox news,indigenous_fox news_
+2013,asian,1534,37.76,24.64,37.6,ny times,asian_ny times_
+2013,middle eastern,3787,15.91,32.48,51.61,deutsche welle,middle eastern_deutsche welle_
+2013,european,2707,48.86,43.74,7.4,cnn,european_cnn_
+2013,european,2248,47.24,46.18,6.59,associated press,european_associated press_
+2013,european,4156,47.2,45.72,7.08,fox news,european_fox news_
+2013,middle eastern,3117,50.42,25.66,23.93,bbc,middle eastern_bbc_
+2013,indigenous,2885,12.94,30.41,56.65,bbc,indigenous_bbc_
+2013,european,601,18.98,48.4,32.62,cnn,european_cnn_
+2013,hispanic,3836,56.34,23.39,20.28,deutsche welle,hispanic_deutsche welle_
+2013,european,2039,11.51,41.72,46.77,abc news,european_abc news_
+2013,hispanic,1838,33.43,20.44,46.13,washington post,hispanic_washington post_
+2013,african,1302,55.61,28.76,15.63,bloomberg,african_bloomberg_
+2013,indigenous,625,36.32,49.32,14.36,le monde,indigenous_le monde_
+2013,middle eastern,4258,29.51,38.54,31.96,cnn,middle eastern_cnn_
+2013,african,823,23.23,38.29,38.48,cbs news,african_cbs news_
+2013,asian,3204,29.24,25.06,45.7,bbc,asian_bbc_
+2013,indigenous,4743,32.57,36.99,30.44,abc news,indigenous_abc news_
+2013,middle eastern,3112,44.89,45.62,9.49,deutsche welle,middle eastern_deutsche welle_
+2013,asian,3715,41.55,39.82,18.63,bloomberg,asian_bloomberg_
+2013,european,4844,28.15,40.45,31.4,hindu,european_the hindu_
+2013,asian,688,43.24,22.86,33.9,cnn,asian_cnn_
+2013,indigenous,2137,24.11,33.48,42.41,bloomberg,indigenous_bloomberg_
+2013,middle eastern,514,31.87,39.72,28.41,associated press,middle eastern_associated press_
+2013,hispanic,3572,23.47,23.71,52.82,fox news,hispanic_fox news_
+2013,european,1817,51.83,21.35,26.82,times,european_the times_
+2013,european,1068,47.31,33.29,19.4,guardian,european_the guardian_
+2013,african,1217,13.97,39.7,46.34,cnn,african_cnn_
+2013,hispanic,2185,47.58,41.37,11.05,cnn,hispanic_cnn_
+2013,middle eastern,3708,50.82,49.79,-0.61,washington post,middle eastern_washington post_
+2013,hispanic,1916,26.77,48.34,24.88,ny times,hispanic_ny times_
+2013,middle eastern,4178,38.76,28.54,32.7,times,middle eastern_the times_
+2013,indigenous,4145,41.95,42.79,15.26,reuters,indigenous_reuters_
+2013,asian,2319,11.13,30.66,58.21,le monde,asian_le monde_
+2013,middle eastern,2293,40.07,32.14,27.79,reuters,middle eastern_reuters_
+2013,indigenous,816,34.38,28.65,36.97,fox news,indigenous_fox news_
+2013,african,3572,57.09,37.46,5.44,fox news,african_fox news_
+2013,hispanic,4361,11.13,22.48,66.39,ny times,hispanic_ny times_
+2013,hispanic,3322,35.46,30.96,33.57,hindu,hispanic_the hindu_
+2013,middle eastern,1598,35.2,35.58,29.22,nbc news,middle eastern_nbc news_
+2013,european,1671,35,38.58,26.42,washington post,european_washington post_
+2013,hispanic,4592,23.86,22.12,54.01,al jazeera,hispanic_al jazeera_
+2013,asian,3263,59.8,28.1,12.1,bbc,asian_bbc_
+2013,middle eastern,2490,34.44,29.93,35.63,cnn,middle eastern_cnn_
+2013,african,3804,19.04,27.1,53.86,times,african_the times_
+2013,european,1168,41.68,29.79,28.53,washington post,european_washington post_
+2013,indigenous,3972,36.25,46.33,17.42,cbs news,indigenous_cbs news_
+2013,european,4322,31.28,20.14,48.57,nbc news,european_nbc news_
+2013,european,3785,30.15,30.33,39.52,deutsche welle,european_deutsche welle_
+2013,indigenous,2357,35.69,32.29,32.03,fox news,indigenous_fox news_
+2013,middle eastern,539,17.09,33.49,49.42,nbc news,middle eastern_nbc news_
+2013,asian,3941,47.63,20.52,31.85,bloomberg,asian_bloomberg_
+2013,african,1447,28.47,27.42,44.1,washington post,african_washington post_
+2013,african,3856,18.57,41.57,39.86,washington post,african_washington post_
+2013,african,1920,14.95,30.38,54.67,fox news,african_fox news_
+2013,european,2927,19.99,40.9,39.11,times,european_the times_
+2013,indigenous,3867,55.39,36.14,8.47,fox news,indigenous_fox news_
+2013,european,2812,16.08,42.45,41.47,associated press,european_associated press_
+2013,asian,2975,30.65,32.67,36.68,times,asian_the times_
+2013,middle eastern,3916,44.48,26.81,28.71,bloomberg,middle eastern_bloomberg_
+2013,african,1981,20.57,30.92,48.51,nbc news,african_nbc news_
+2013,hispanic,4272,26.14,37.87,35.99,hindu,hispanic_the hindu_
+2013,asian,4156,43.12,36.77,20.11,fox news,asian_fox news_
+2013,middle eastern,1003,46.6,49.8,3.6,guardian,middle eastern_the guardian_
+2013,indigenous,1172,16.13,33.77,50.11,times,indigenous_the times_
+2013,indigenous,4340,39.48,43.6,16.92,bbc,indigenous_bbc_
+2013,middle eastern,4604,43.01,23.83,33.16,le monde,middle eastern_le monde_
+2013,indigenous,3068,23.15,26.14,50.71,cbs news,indigenous_cbs news_
+2013,hispanic,4127,46.37,43.79,9.83,hindu,hispanic_the hindu_
+2013,european,2643,29.17,38.97,31.86,bloomberg,european_bloomberg_
+2013,african,1115,37.49,42.15,20.36,associated press,african_associated press_
+2013,african,4962,54.27,46.16,-0.43,cnn,african_cnn_
+2013,african,4175,17.18,48.74,34.08,le monde,african_le monde_
+2013,middle eastern,2791,18.09,23.36,58.56,fox news,middle eastern_fox news_
+2013,hispanic,3759,29.13,49,21.87,cbs news,hispanic_cbs news_
+2013,asian,2859,46.98,22.2,30.81,bbc,asian_bbc_
+2013,middle eastern,1806,26.12,32.43,41.45,bbc,middle eastern_bbc_
+2013,asian,3182,29.27,42.17,28.56,abc news,asian_abc news_
+2013,european,3967,21.29,21.11,57.6,al jazeera,european_al jazeera_
+2013,asian,1024,26.75,40.54,32.71,hindu,asian_the hindu_
+2013,european,1370,40.71,27.19,32.1,bloomberg,european_bloomberg_
+2013,middle eastern,2772,24.78,47.16,28.06,times,middle eastern_the times_
+2013,asian,2895,15.74,38.07,46.19,washington post,asian_washington post_
+2013,european,1509,44.41,32.47,23.12,bloomberg,european_bloomberg_
+2013,indigenous,2118,40.5,43.16,16.34,reuters,indigenous_reuters_
+2013,african,1552,43.42,37.74,18.84,cnn,african_cnn_
+2013,asian,1394,52.39,38.63,8.98,hindu,asian_the hindu_
+2013,middle eastern,1320,21.03,43.62,35.34,guardian,middle eastern_the guardian_
+2013,indigenous,710,46.64,32.82,20.54,cbs news,indigenous_cbs news_
+2013,middle eastern,3037,47.58,22.34,30.07,times,middle eastern_the times_
+2013,hispanic,3216,45.74,22,32.26,cnn,hispanic_cnn_
+2013,middle eastern,4105,47.85,31.07,21.08,ny times,middle eastern_ny times_
+2013,hispanic,4987,23.62,39.87,36.52,al jazeera,hispanic_al jazeera_
+2013,asian,3500,35.38,34.48,30.15,le monde,asian_le monde_
+2013,african,1221,15.98,44.26,39.76,le monde,african_le monde_
+2013,african,1538,35.84,28.31,35.86,fox news,african_fox news_
+2013,middle eastern,519,46.66,41.78,11.56,deutsche welle,middle eastern_deutsche welle_
+2013,asian,1747,41.34,21.35,37.31,al jazeera,asian_al jazeera_
+2013,indigenous,3491,31.16,35.06,33.78,bloomberg,indigenous_bloomberg_
+2013,middle eastern,624,20.75,34.98,44.27,nbc news,middle eastern_nbc news_
+2013,indigenous,4370,19.68,49.28,31.04,reuters,indigenous_reuters_
+2014,indigenous,3839,24.01,45.5,30.49,bbc,indigenous_bbc_
+2014,hispanic,4737,11.45,23.43,65.12,cbs news,hispanic_cbs news_
+2014,african,4623,39.8,36.23,23.97,times,african_the times_
+2014,indigenous,2425,44.8,29.99,25.21,abc news,indigenous_abc news_
+2014,european,1854,11.9,27.27,60.83,fox news,european_fox news_
+2014,hispanic,4156,36.63,27.4,35.97,al jazeera,hispanic_al jazeera_
+2014,indigenous,2324,54.64,39.39,5.97,times,indigenous_the times_
+2014,african,2863,34.97,43.09,21.94,washington post,african_washington post_
+2014,asian,3632,13.26,38.09,48.65,guardian,asian_the guardian_
+2014,asian,979,18.27,28.86,52.87,cbs news,asian_cbs news_
+2014,european,3157,31.45,42.77,25.78,times,european_the times_
+2014,asian,1493,21.63,27.78,50.59,abc news,asian_abc news_
+2014,indigenous,4298,41.69,29.78,28.52,hindu,indigenous_the hindu_
+2014,asian,1103,42.94,32.4,24.66,hindu,asian_the hindu_
+2014,hispanic,3301,58.55,39.28,2.17,le monde,hispanic_le monde_
+2014,hispanic,604,56.51,24.47,19.02,guardian,hispanic_the guardian_
+2014,indigenous,646,50.21,37.84,11.96,deutsche welle,indigenous_deutsche welle_
+2014,middle eastern,4677,17.86,23.65,58.49,abc news,middle eastern_abc news_
+2014,hispanic,1063,35.48,22.19,42.33,guardian,hispanic_the guardian_
+2014,african,706,16.23,34.38,49.39,bbc,african_bbc_
+2014,hispanic,2880,52.24,38.17,9.59,associated press,hispanic_associated press_
+2014,hispanic,1599,37.04,29.08,33.87,bloomberg,hispanic_bloomberg_
+2014,african,4417,22.45,22.94,54.61,times,african_the times_
+2014,hispanic,856,50,23.57,26.43,guardian,hispanic_the guardian_
+2014,african,2427,12.56,36.22,51.22,times,african_the times_
+2014,african,1156,44.71,20.84,34.45,al jazeera,african_al jazeera_
+2014,asian,1973,14.88,36.46,48.65,abc news,asian_abc news_
+2014,european,3432,44.31,45.46,10.23,nbc news,european_nbc news_
+2014,african,658,31.01,42.02,26.97,abc news,african_abc news_
+2014,hispanic,824,26.31,24.68,49.02,ny times,hispanic_ny times_
+2014,indigenous,3391,50.09,35.41,14.5,times,indigenous_the times_
+2014,indigenous,3891,22.12,25.14,52.74,ny times,indigenous_ny times_
+2014,asian,4838,22.63,38.03,39.35,fox news,asian_fox news_
+2014,indigenous,2664,52.94,29.79,17.27,times,indigenous_the times_
+2014,european,3742,45.89,36.19,17.91,cbs news,european_cbs news_
+2014,indigenous,2560,41.86,38.78,19.36,abc news,indigenous_abc news_
+2014,indigenous,3853,28.09,35.3,36.61,associated press,indigenous_associated press_
+2014,middle eastern,2952,54.03,41.2,4.77,hindu,middle eastern_the hindu_
+2014,european,4575,37.84,35.81,26.35,ny times,european_ny times_
+2014,middle eastern,2068,37.66,49.81,12.53,abc news,middle eastern_abc news_
+2014,european,691,41.11,47.88,11.01,times,european_the times_
+2014,hispanic,4180,59.96,44.91,-4.87,reuters,hispanic_reuters_
+2014,european,3299,36.01,40.93,23.06,nbc news,european_nbc news_
+2014,middle eastern,4492,25.55,30.18,44.28,bloomberg,middle eastern_bloomberg_
+2014,indigenous,1018,13.87,44.41,41.72,washington post,indigenous_washington post_
+2014,european,3737,50.84,20.83,28.33,bloomberg,european_bloomberg_
+2014,indigenous,1066,46.39,36.28,17.33,al jazeera,indigenous_al jazeera_
+2014,european,3526,22.53,25.43,52.04,bbc,european_bbc_
+2014,african,2782,58.89,22.15,18.95,guardian,african_the guardian_
+2014,middle eastern,1380,21.1,31.25,47.66,nbc news,middle eastern_nbc news_
+2014,middle eastern,3115,48.99,26.38,24.62,washington post,middle eastern_washington post_
+2014,indigenous,3746,43.16,23.11,33.73,le monde,indigenous_le monde_
+2014,hispanic,3588,13.72,30.75,55.53,fox news,hispanic_fox news_
+2014,hispanic,2357,13.83,36.33,49.84,le monde,hispanic_le monde_
+2014,african,4926,23.68,22.11,54.21,guardian,african_the guardian_
+2014,european,3021,26.64,43.62,29.74,hindu,european_the hindu_
+2014,middle eastern,1833,55.02,22.47,22.51,guardian,middle eastern_the guardian_
+2014,middle eastern,3123,18.34,27.18,54.49,bbc,middle eastern_bbc_
+2014,asian,2564,44.85,42.62,12.53,bbc,asian_bbc_
+2014,middle eastern,1385,35.06,28.49,36.45,cbs news,middle eastern_cbs news_
+2014,european,687,43.18,35.47,21.35,cnn,european_cnn_
+2014,european,2922,14.26,26.68,59.06,deutsche welle,european_deutsche welle_
+2014,middle eastern,4901,15.37,33.02,51.61,abc news,middle eastern_abc news_
+2014,indigenous,1644,54.14,36.43,9.42,times,indigenous_the times_
+2014,european,1385,21.16,35.38,43.46,abc news,european_abc news_
+2014,african,1791,30.68,34.64,34.67,deutsche welle,african_deutsche welle_
+2014,asian,1030,31.76,21.26,46.98,le monde,asian_le monde_
+2014,african,3882,41.68,49.41,8.91,guardian,african_the guardian_
+2014,indigenous,2593,42.26,30.61,27.13,times,indigenous_the times_
+2014,middle eastern,951,23.47,20.68,55.85,bbc,middle eastern_bbc_
+2014,hispanic,3844,23.68,47.75,28.57,deutsche welle,hispanic_deutsche welle_
+2014,asian,1587,40.13,45.61,14.26,nbc news,asian_nbc news_
+2014,indigenous,791,27.37,42.46,30.17,hindu,indigenous_the hindu_
+2014,middle eastern,4090,23.07,48.5,28.42,bloomberg,middle eastern_bloomberg_
+2014,african,4212,23.7,36.78,39.52,abc news,african_abc news_
+2014,middle eastern,2798,59.6,20.61,19.8,deutsche welle,middle eastern_deutsche welle_
+2014,asian,711,54.36,26.76,18.88,times,asian_the times_
+2014,middle eastern,4452,23.46,29.2,47.34,abc news,middle eastern_abc news_
+2014,asian,1223,48.45,31.2,20.34,cbs news,asian_cbs news_
+2014,european,647,37.82,38.32,23.86,hindu,european_the hindu_
+2014,african,1059,14.63,29.01,56.36,washington post,african_washington post_
+2014,hispanic,1110,16.82,46.7,36.48,washington post,hispanic_washington post_
+2014,indigenous,2606,11.7,35.34,52.96,cbs news,indigenous_cbs news_
+2014,asian,1649,35.19,43.94,20.87,fox news,asian_fox news_
+2014,african,4991,54.18,34.95,10.88,hindu,african_the hindu_
+2014,indigenous,1548,54.32,24.66,21.03,nbc news,indigenous_nbc news_
+2014,african,4305,57.39,40.99,1.62,al jazeera,african_al jazeera_
+2014,indigenous,1739,25.3,25.25,49.46,le monde,indigenous_le monde_
+2014,hispanic,3610,22.79,23.58,53.63,reuters,hispanic_reuters_
+2014,indigenous,1842,40.76,20.5,38.75,reuters,indigenous_reuters_
+2014,indigenous,2128,38.34,49.51,12.15,abc news,indigenous_abc news_
+2014,african,3626,39.28,20.33,40.39,ny times,african_ny times_
+2014,asian,3907,19.69,44.33,35.98,abc news,asian_abc news_
+2014,african,3042,19.78,24.64,55.58,guardian,african_the guardian_
+2014,indigenous,4233,44.23,25.01,30.76,deutsche welle,indigenous_deutsche welle_
+2014,african,4075,28.54,31.52,39.95,cbs news,african_cbs news_
+2014,hispanic,1872,39.65,46.29,14.06,times,hispanic_the times_
+2014,hispanic,2166,45.59,32.3,22.11,al jazeera,hispanic_al jazeera_
+2014,european,2304,10.17,32.73,57.1,hindu,european_the hindu_
+2014,middle eastern,1956,55.31,44.49,0.19,le monde,middle eastern_le monde_
+2014,african,1475,31.66,27.78,40.57,cbs news,african_cbs news_
+2014,indigenous,1406,10.03,22.81,67.16,bbc,indigenous_bbc_
+2014,indigenous,1236,43.44,22.49,34.08,bbc,indigenous_bbc_
+2014,hispanic,1229,51.47,35.61,12.92,reuters,hispanic_reuters_
+2014,european,3877,43.48,32.4,24.12,al jazeera,european_al jazeera_
+2014,hispanic,4567,19.36,37.74,42.9,cbs news,hispanic_cbs news_
+2014,asian,1590,59.35,35.7,4.95,al jazeera,asian_al jazeera_
+2014,african,3613,33.69,46.56,19.75,cbs news,african_cbs news_
+2014,asian,4798,33.51,28.12,38.37,cnn,asian_cnn_
+2014,hispanic,4002,35.49,39.51,25,guardian,hispanic_the guardian_
+2014,african,4173,55.08,38.44,6.47,fox news,african_fox news_
+2014,hispanic,3692,24.29,32.46,43.25,abc news,hispanic_abc news_
+2014,indigenous,2674,16.31,47.92,35.77,bbc,indigenous_bbc_
+2014,middle eastern,2651,24.77,35.58,39.65,al jazeera,middle eastern_al jazeera_
+2014,asian,1761,36.37,47.19,16.45,nbc news,asian_nbc news_
+2014,hispanic,1993,51.4,39.68,8.93,bloomberg,hispanic_bloomberg_
+2014,european,3690,33.75,22.76,43.48,fox news,european_fox news_
+2014,european,3952,28.65,45.63,25.72,bloomberg,european_bloomberg_
+2014,european,2524,19.83,40.32,39.85,al jazeera,european_al jazeera_
+2014,hispanic,3375,14.38,42.53,43.08,nbc news,hispanic_nbc news_
+2015,middle eastern,1785,10.63,20.32,69.04,associated press,middle eastern_associated press_
+2015,asian,3284,31.86,45.62,22.53,deutsche welle,asian_deutsche welle_
+2015,asian,1814,38.91,41.87,19.22,washington post,asian_washington post_
+2015,hispanic,4524,29.04,29.24,41.73,reuters,hispanic_reuters_
+2015,european,4497,39.32,41.72,18.96,bloomberg,european_bloomberg_
+2015,middle eastern,3344,53.84,48.99,-2.82,times,middle eastern_the times_
+2015,european,4724,59.81,38.67,1.52,guardian,european_the guardian_
+2015,european,907,29.7,32.95,37.35,hindu,european_the hindu_
+2015,european,542,21.8,26.67,51.53,nbc news,european_nbc news_
+2015,european,2746,58.96,35.16,5.89,associated press,european_associated press_
+2015,hispanic,4395,51.88,27.02,21.1,fox news,hispanic_fox news_
+2015,middle eastern,2609,42.17,34.9,22.93,ny times,middle eastern_ny times_
+2015,hispanic,3207,20.69,43.69,35.62,cbs news,hispanic_cbs news_
+2015,middle eastern,2049,53.52,33.7,12.79,abc news,middle eastern_abc news_
+2015,middle eastern,4700,18.38,48.96,32.66,times,middle eastern_the times_
+2015,indigenous,4395,19.21,48.78,32.01,al jazeera,indigenous_al jazeera_
+2015,indigenous,4132,27.42,20.08,52.5,guardian,indigenous_the guardian_
+2015,asian,4799,44.97,49.99,5.04,fox news,asian_fox news_
+2015,african,3220,25.39,38.57,36.04,washington post,african_washington post_
+2015,european,3210,23.94,44.77,31.29,bloomberg,european_bloomberg_
+2015,middle eastern,1824,21.43,43.32,35.25,washington post,middle eastern_washington post_
+2015,hispanic,2619,20.7,27.42,51.89,washington post,hispanic_washington post_
+2015,middle eastern,1231,15.56,45.38,39.05,deutsche welle,middle eastern_deutsche welle_
+2015,african,663,36.3,38.48,25.22,washington post,african_washington post_
+2015,african,3304,47.68,36.95,15.37,associated press,african_associated press_
+2015,asian,1346,23.03,33.76,43.21,abc news,asian_abc news_
+2015,asian,3214,34.91,40.4,24.69,bloomberg,asian_bloomberg_
+2015,indigenous,4450,13.37,47.03,39.6,cnn,indigenous_cnn_
+2015,hispanic,2475,38.06,43.28,18.65,washington post,hispanic_washington post_
+2015,indigenous,1051,58.84,46.66,-5.5,washington post,indigenous_washington post_
+2015,european,1310,27.59,25.14,47.27,guardian,european_the guardian_
+2015,asian,3775,21.31,41.31,37.38,cnn,asian_cnn_
+2015,hispanic,3655,12.54,30.73,56.73,washington post,hispanic_washington post_
+2015,asian,3141,53.46,28.5,18.04,deutsche welle,asian_deutsche welle_
+2015,african,2003,33.4,25.85,40.76,reuters,african_reuters_
+2015,middle eastern,3007,29.69,27.41,42.91,bloomberg,middle eastern_bloomberg_
+2015,hispanic,4351,13.37,48.77,37.86,abc news,hispanic_abc news_
+2015,asian,3511,49.16,21.01,29.84,nbc news,asian_nbc news_
+2015,indigenous,3334,17.31,28.7,53.99,guardian,indigenous_the guardian_
+2015,hispanic,1852,49.87,22.5,27.63,bloomberg,hispanic_bloomberg_
+2015,european,1212,10.47,33.51,56.02,bloomberg,european_bloomberg_
+2015,indigenous,2775,47.99,38.45,13.56,ny times,indigenous_ny times_
+2015,asian,678,41.04,42.89,16.07,times,asian_the times_
+2015,middle eastern,4775,48.63,43.8,7.57,guardian,middle eastern_the guardian_
+2015,asian,1545,31.44,35.14,33.42,deutsche welle,asian_deutsche welle_
+2015,european,3489,15.41,20.02,64.57,cnn,european_cnn_
+2015,asian,4416,23.75,32.95,43.3,deutsche welle,asian_deutsche welle_
+2015,hispanic,4782,54.31,49.97,-4.27,ny times,hispanic_ny times_
+2015,european,4173,42.58,34.78,22.64,nbc news,european_nbc news_
+2015,hispanic,771,42.39,24.36,33.25,guardian,hispanic_the guardian_
+2015,european,2027,21.75,24.24,54.01,al jazeera,european_al jazeera_
+2015,indigenous,4751,30.72,24.16,45.11,associated press,indigenous_associated press_
+2015,indigenous,1917,53.88,20.16,25.96,bbc,indigenous_bbc_
+2015,african,4099,51.78,37.66,10.55,fox news,african_fox news_
+2015,asian,1084,22.39,49.28,28.33,al jazeera,asian_al jazeera_
+2015,hispanic,3314,47.51,37.52,14.98,al jazeera,hispanic_al jazeera_
+2015,middle eastern,2576,44.81,41.69,13.5,reuters,middle eastern_reuters_
+2015,european,1496,59.87,36.43,3.7,deutsche welle,european_deutsche welle_
+2015,asian,4736,17.11,45.49,37.4,bloomberg,asian_bloomberg_
+2015,asian,4416,52.79,25.53,21.68,le monde,asian_le monde_
+2015,hispanic,4167,36.79,20.97,42.24,le monde,hispanic_le monde_
+2015,european,1188,10.73,38.44,50.82,associated press,european_associated press_
+2015,middle eastern,1614,19.71,39.32,40.97,fox news,middle eastern_fox news_
+2015,european,2040,16.21,26.46,57.33,deutsche welle,european_deutsche welle_
+2015,middle eastern,1613,36.26,34.67,29.07,abc news,middle eastern_abc news_
+2015,african,2528,42.07,43.51,14.42,hindu,african_the hindu_
+2015,asian,3083,47.36,44.86,7.78,ny times,asian_ny times_
+2015,european,4185,23.67,36.38,39.95,times,european_the times_
+2015,african,829,26.85,42.1,31.04,deutsche welle,african_deutsche welle_
+2015,asian,4108,43.26,43.68,13.06,times,asian_the times_
+2015,african,562,51.28,33.13,15.6,abc news,african_abc news_
+2015,indigenous,4163,32.85,43.05,24.1,bloomberg,indigenous_bloomberg_
+2015,middle eastern,3207,55.55,45.86,-1.41,washington post,middle eastern_washington post_
+2015,hispanic,2617,22.09,21.36,56.55,le monde,hispanic_le monde_
+2015,middle eastern,2102,41.78,29.16,29.06,reuters,middle eastern_reuters_
+2015,european,1308,38,34.51,27.48,al jazeera,european_al jazeera_
+2015,indigenous,4535,19.37,30.44,50.18,washington post,indigenous_washington post_
+2015,hispanic,1876,35.14,25.53,39.33,guardian,hispanic_the guardian_
+2015,asian,2089,38.98,41.61,19.42,cnn,asian_cnn_
+2015,hispanic,3719,36.2,25.82,37.97,nbc news,hispanic_nbc news_
+2015,african,4947,43.15,49.17,7.68,washington post,african_washington post_
+2015,middle eastern,2613,50.95,48.76,0.28,deutsche welle,middle eastern_deutsche welle_
+2015,asian,1466,52.51,44.57,2.92,cnn,asian_cnn_
+2015,hispanic,3887,30.44,37.86,31.7,cnn,hispanic_cnn_
+2015,hispanic,1809,17.89,48.3,33.82,nbc news,hispanic_nbc news_
+2015,asian,751,44.56,47.85,7.59,cbs news,asian_cbs news_
+2015,european,596,40.19,40.58,19.23,washington post,european_washington post_
+2015,asian,3987,57.25,32.71,10.04,times,asian_the times_
+2015,middle eastern,1091,12.16,36.04,51.8,le monde,middle eastern_le monde_
+2015,african,942,46.91,31.04,22.06,al jazeera,african_al jazeera_
+2015,european,3674,23.4,44.17,32.43,fox news,european_fox news_
+2015,middle eastern,3317,14.19,36.16,49.65,cbs news,middle eastern_cbs news_
+2015,african,4578,41.71,27.35,30.94,hindu,african_the hindu_
+2015,asian,2965,10.59,27.49,61.92,cbs news,asian_cbs news_
+2015,asian,2353,25.97,39.68,34.35,ny times,asian_ny times_
+2015,hispanic,3809,29.07,37.31,33.62,ny times,hispanic_ny times_
+2015,asian,2941,18.06,41.21,40.73,al jazeera,asian_al jazeera_
+2015,middle eastern,4543,48.25,45.36,6.39,associated press,middle eastern_associated press_
+2015,hispanic,1394,15.78,41.31,42.91,guardian,hispanic_the guardian_
+2015,european,1642,19.18,35.18,45.64,fox news,european_fox news_
+2015,african,1876,36.31,20.42,43.27,cbs news,african_cbs news_
+2015,hispanic,3053,53.32,33,13.69,ny times,hispanic_ny times_
+2015,middle eastern,3195,11.3,42.62,46.07,le monde,middle eastern_le monde_
+2015,hispanic,2865,11.52,45.86,42.62,ny times,hispanic_ny times_
+2015,asian,2663,45.74,20.22,34.03,ny times,asian_ny times_
+2015,asian,3435,35.76,32.73,31.5,guardian,asian_the guardian_
+2015,indigenous,4473,12.71,23.64,63.64,fox news,indigenous_fox news_
+2015,indigenous,4664,15.46,35.16,49.38,le monde,indigenous_le monde_
+2015,hispanic,3422,38.17,25.74,36.09,le monde,hispanic_le monde_
+2015,european,2846,42.03,49.78,8.19,cnn,european_cnn_
+2015,asian,3645,48.21,41.02,10.77,le monde,asian_le monde_
+2015,hispanic,1600,34.75,38.3,26.95,abc news,hispanic_abc news_
+2015,african,1101,27.97,46.72,25.31,washington post,african_washington post_
+2015,african,1953,37.46,39.79,22.75,al jazeera,african_al jazeera_
+2015,indigenous,2931,53.38,39.5,7.12,le monde,indigenous_le monde_
+2015,asian,3316,45.88,43.48,10.65,reuters,asian_reuters_
+2015,asian,3582,47.11,25.9,26.99,deutsche welle,asian_deutsche welle_
+2015,middle eastern,1116,46.57,42.53,10.9,cnn,middle eastern_cnn_
+2015,asian,3691,48.19,20.5,31.31,guardian,asian_the guardian_
+2015,african,1159,36.53,28.56,34.91,le monde,african_le monde_
+2016,indigenous,4860,59,25.51,15.49,le monde,indigenous_le monde_
+2016,indigenous,2689,13.05,21.97,64.99,times,indigenous_the times_
+2016,hispanic,1101,13,48.99,38.01,washington post,hispanic_washington post_
+2016,middle eastern,2341,47.84,38.21,13.95,cbs news,middle eastern_cbs news_
+2016,african,4611,44.06,21.49,34.45,fox news,african_fox news_
+2016,hispanic,4450,39.36,23.54,37.1,guardian,hispanic_the guardian_
+2016,middle eastern,1160,51.78,35.52,12.7,fox news,middle eastern_fox news_
+2016,african,1734,51.05,45.83,3.12,abc news,african_abc news_
+2016,hispanic,4522,47.46,48.83,3.71,deutsche welle,hispanic_deutsche welle_
+2016,middle eastern,3943,54.43,34.23,11.34,cbs news,middle eastern_cbs news_
+2016,asian,1416,22.56,45.93,31.51,guardian,asian_the guardian_
+2016,asian,4764,50.62,46.22,3.15,abc news,asian_abc news_
+2016,asian,4542,13.15,20.16,66.68,washington post,asian_washington post_
+2016,middle eastern,706,46.05,42.23,11.71,ny times,middle eastern_ny times_
+2016,asian,1204,19.6,29.47,50.93,ny times,asian_ny times_
+2016,asian,2446,59.94,27.28,12.78,bbc,asian_bbc_
+2016,middle eastern,4937,59.94,40.23,-0.17,cnn,middle eastern_cnn_
+2016,hispanic,1866,11.97,46,42.03,al jazeera,hispanic_al jazeera_
+2016,asian,2382,58.82,34.84,6.34,times,asian_the times_
+2016,asian,2839,24.28,36.29,39.43,al jazeera,asian_al jazeera_
+2016,indigenous,1104,21.72,37.91,40.37,fox news,indigenous_fox news_
+2016,asian,1605,11.89,33.71,54.4,associated press,asian_associated press_
+2016,african,522,18.04,48.28,33.68,cnn,african_cnn_
+2016,african,1350,23.16,41.59,35.24,le monde,african_le monde_
+2016,african,4061,52,31.03,16.98,nbc news,african_nbc news_
+2016,asian,3749,29.97,26.48,43.54,ny times,asian_ny times_
+2016,middle eastern,4709,47.77,29.32,22.9,bloomberg,middle eastern_bloomberg_
+2016,indigenous,3092,33.28,42.11,24.61,deutsche welle,indigenous_deutsche welle_
+2016,hispanic,3052,15.54,40.53,43.93,associated press,hispanic_associated press_
+2016,african,850,57.09,33.6,9.3,reuters,african_reuters_
+2016,asian,3697,36.05,40.95,23,washington post,asian_washington post_
+2016,african,1482,46.27,44.23,9.5,bloomberg,african_bloomberg_
+2016,european,1957,23.95,41.52,34.53,le monde,european_le monde_
+2016,asian,4570,53.22,37.31,9.47,nbc news,asian_nbc news_
+2016,hispanic,2946,55.54,43.15,1.31,reuters,hispanic_reuters_
+2016,hispanic,1768,41.55,42.83,15.61,bbc,hispanic_bbc_
+2016,indigenous,540,14.66,43.64,41.71,associated press,indigenous_associated press_
+2016,indigenous,1630,26.38,47.9,25.72,deutsche welle,indigenous_deutsche welle_
+2016,european,2708,42.95,29.13,27.93,guardian,european_the guardian_
+2016,european,4857,57.1,23.12,19.78,cbs news,european_cbs news_
+2016,african,2953,24.32,32.29,43.39,associated press,african_associated press_
+2016,indigenous,4486,11.31,43.44,45.25,nbc news,indigenous_nbc news_
+2016,hispanic,1135,15.01,43.4,41.59,nbc news,hispanic_nbc news_
+2016,indigenous,3774,19.67,24.71,55.62,bloomberg,indigenous_bloomberg_
+2016,asian,4050,11.01,48.4,40.59,bloomberg,asian_bloomberg_
+2016,african,1708,42.14,34.44,23.42,reuters,african_reuters_
+2016,asian,801,44.2,42.75,13.05,ny times,asian_ny times_
+2016,indigenous,3903,14.88,28.72,56.4,bbc,indigenous_bbc_
+2016,asian,3561,31.04,37.22,31.75,le monde,asian_le monde_
+2016,middle eastern,2058,43.41,23.42,33.16,times,middle eastern_the times_
+2016,african,4565,12.53,35.8,51.67,fox news,african_fox news_
+2016,indigenous,649,52.53,27.26,20.21,cbs news,indigenous_cbs news_
+2016,african,3027,11.72,29.49,58.79,nbc news,african_nbc news_
+2016,indigenous,2690,50.3,42.83,6.87,nbc news,indigenous_nbc news_
+2016,european,4866,36.02,41.08,22.9,ny times,european_ny times_
+2016,hispanic,3255,20.39,38.67,40.95,guardian,hispanic_the guardian_
+2016,hispanic,4448,26.19,21.42,52.39,associated press,hispanic_associated press_
+2016,african,527,12.22,37.56,50.22,cbs news,african_cbs news_
+2016,african,2180,53.01,37.46,9.54,bloomberg,african_bloomberg_
+2016,indigenous,533,10.53,31.58,57.89,hindu,indigenous_the hindu_
+2016,middle eastern,744,59.15,37.04,3.81,times,middle eastern_the times_
+2016,european,3406,57.89,23.26,18.86,nbc news,european_nbc news_
+2016,asian,1489,43.46,43.8,12.74,abc news,asian_abc news_
+2016,hispanic,692,24.1,26.7,49.2,al jazeera,hispanic_al jazeera_
+2016,hispanic,3814,32.78,27.62,39.61,associated press,hispanic_associated press_
+2016,indigenous,4372,20.06,30.37,49.57,abc news,indigenous_abc news_
+2016,indigenous,4453,22.38,31.02,46.6,bloomberg,indigenous_bloomberg_
+2016,middle eastern,4885,16.97,25.24,57.78,cbs news,middle eastern_cbs news_
+2016,asian,2141,15.07,35.43,49.51,hindu,asian_the hindu_
+2016,indigenous,1356,27.01,48.25,24.74,cbs news,indigenous_cbs news_
+2016,middle eastern,4271,54.58,24.69,20.72,abc news,middle eastern_abc news_
+2016,african,687,55.26,37.64,7.1,associated press,african_associated press_
+2016,african,1822,17.97,30.46,51.57,reuters,african_reuters_
+2016,indigenous,1229,28.85,22.22,48.93,fox news,indigenous_fox news_
+2016,indigenous,779,53.16,38.9,7.94,reuters,indigenous_reuters_
+2016,african,967,11.36,37.84,50.8,deutsche welle,african_deutsche welle_
+2016,european,1955,32.5,49.13,18.37,associated press,european_associated press_
+2016,hispanic,2776,18.96,29.98,51.07,guardian,hispanic_the guardian_
+2016,asian,623,50.28,47.62,2.1,hindu,asian_the hindu_
+2016,asian,4910,21.52,47.84,30.64,reuters,asian_reuters_
+2016,asian,4691,22.16,43.34,34.5,bbc,asian_bbc_
+2016,european,715,13.65,28.85,57.5,times,european_the times_
+2016,hispanic,2860,38.03,34.39,27.58,ny times,hispanic_ny times_
+2016,indigenous,3504,59.55,36.27,4.18,cnn,indigenous_cnn_
+2016,hispanic,3641,14.52,35.21,50.27,bbc,hispanic_bbc_
+2016,african,3940,17.71,49.38,32.91,le monde,african_le monde_
+2016,middle eastern,1980,42.31,26.83,30.86,le monde,middle eastern_le monde_
+2016,indigenous,3017,14.38,45.81,39.81,bbc,indigenous_bbc_
+2016,indigenous,2624,43.74,32.14,24.12,cnn,indigenous_cnn_
+2016,middle eastern,3493,40.54,36.57,22.89,le monde,middle eastern_le monde_
+2016,indigenous,4375,30.04,31.88,38.08,washington post,indigenous_washington post_
+2016,middle eastern,975,58.51,29.92,11.57,le monde,middle eastern_le monde_
+2016,indigenous,3281,37.11,44.78,18.11,ny times,indigenous_ny times_
+2016,indigenous,2718,39.81,39.08,21.11,guardian,indigenous_the guardian_
+2016,european,2345,45.24,26.87,27.9,le monde,european_le monde_
+2016,african,4269,44.92,37.29,17.79,hindu,african_the hindu_
+2016,hispanic,2750,59.59,49.15,-8.75,times,hispanic_the times_
+2016,middle eastern,3127,57.48,30.91,11.61,bbc,middle eastern_bbc_
+2016,european,4181,18.74,32.32,48.94,hindu,european_the hindu_
+2016,hispanic,1260,54.94,42,3.06,ny times,hispanic_ny times_
+2016,asian,3498,28.52,43.21,28.28,reuters,asian_reuters_
+2016,hispanic,4708,38.46,38.22,23.33,nbc news,hispanic_nbc news_
+2016,african,3321,53.23,41.51,5.27,associated press,african_associated press_
+2016,indigenous,3017,50.51,45.32,4.17,abc news,indigenous_abc news_
+2016,asian,1751,52.65,32.19,15.16,nbc news,asian_nbc news_
+2016,african,4495,36.54,40.47,22.98,guardian,african_the guardian_
+2016,hispanic,1801,29.21,26.13,44.66,bloomberg,hispanic_bloomberg_
+2016,hispanic,1482,44.55,40.81,14.64,abc news,hispanic_abc news_
+2016,indigenous,3345,15.32,34.23,50.44,ny times,indigenous_ny times_
+2016,indigenous,1471,29.45,38.04,32.5,cnn,indigenous_cnn_
+2016,african,3984,27.32,29.56,43.12,abc news,african_abc news_
+2016,asian,1095,54.65,44.69,0.66,cnn,asian_cnn_
+2016,african,1196,58.39,29.33,12.28,bbc,african_bbc_
+2016,indigenous,4768,17.26,31.32,51.42,deutsche welle,indigenous_deutsche welle_
+2016,african,1214,10.53,38.72,50.75,nbc news,african_nbc news_
+2016,indigenous,2973,19.42,22.86,57.72,reuters,indigenous_reuters_
+2016,african,860,52.53,42.9,4.58,al jazeera,african_al jazeera_
+2016,indigenous,4287,32.16,46.29,21.54,deutsche welle,indigenous_deutsche welle_
+2016,hispanic,2900,51.84,41.42,6.74,bbc,hispanic_bbc_
+2016,asian,4849,37.32,49.91,12.77,le monde,asian_le monde_
+2017,european,2673,53.99,27.74,18.26,le monde,european_le monde_
+2017,european,608,48.71,36.08,15.21,guardian,european_the guardian_
+2017,indigenous,4561,48.4,43.07,8.53,cbs news,indigenous_cbs news_
+2017,african,1072,24.48,44.79,30.73,bloomberg,african_bloomberg_
+2017,african,4210,37.66,32.62,29.73,le monde,african_le monde_
+2017,middle eastern,1504,20.41,33.4,46.19,al jazeera,middle eastern_al jazeera_
+2017,african,790,29.93,22.42,47.64,ny times,african_ny times_
+2017,african,2693,47.5,28.85,23.65,bbc,african_bbc_
+2017,middle eastern,1890,46,49.05,4.95,times,middle eastern_the times_
+2017,indigenous,2665,44.04,24.41,31.55,fox news,indigenous_fox news_
+2017,indigenous,4863,23.6,23.39,53.01,nbc news,indigenous_nbc news_
+2017,asian,1470,58.81,25.87,15.32,reuters,asian_reuters_
+2017,european,1540,15.32,43.04,41.65,bbc,european_bbc_
+2017,hispanic,908,15.88,38.77,45.35,guardian,hispanic_the guardian_
+2017,indigenous,4417,50.34,42.14,7.52,al jazeera,indigenous_al jazeera_
+2017,african,1109,54.22,33.09,12.69,times,african_the times_
+2017,middle eastern,3326,26.55,23.74,49.71,deutsche welle,middle eastern_deutsche welle_
+2017,hispanic,3267,35.25,35.14,29.61,al jazeera,hispanic_al jazeera_
+2017,indigenous,4213,43.58,33.51,22.92,deutsche welle,indigenous_deutsche welle_
+2017,european,3975,57.9,33.67,8.43,cnn,european_cnn_
+2017,african,3480,21.83,46.48,31.69,fox news,african_fox news_
+2017,african,1827,54.7,31.65,13.65,reuters,african_reuters_
+2017,indigenous,3896,33.34,23.02,43.64,bbc,indigenous_bbc_
+2017,european,3019,10.67,22.95,66.38,fox news,european_fox news_
+2017,indigenous,4978,35.97,23.12,40.91,cbs news,indigenous_cbs news_
+2017,hispanic,3254,26.76,27.6,45.64,times,hispanic_the times_
+2017,european,937,10.45,25.34,64.21,ny times,european_ny times_
+2017,middle eastern,4922,31.21,31.77,37.02,le monde,middle eastern_le monde_
+2017,indigenous,2080,39.88,28.15,31.97,bloomberg,indigenous_bloomberg_
+2017,european,3970,53.39,46.26,0.35,cnn,european_cnn_
+2017,indigenous,4669,34.01,35.79,30.2,ny times,indigenous_ny times_
+2017,middle eastern,2750,52.33,45.79,1.88,bbc,middle eastern_bbc_
+2017,hispanic,753,38.63,46.79,14.58,cnn,hispanic_cnn_
+2017,indigenous,2615,43,29.46,27.54,le monde,indigenous_le monde_
+2017,hispanic,3963,24.33,36.59,39.08,al jazeera,hispanic_al jazeera_
+2017,indigenous,2053,49.5,40.5,10,reuters,indigenous_reuters_
+2017,middle eastern,4593,26.68,32.62,40.7,hindu,middle eastern_the hindu_
+2017,african,680,11.23,43.94,44.83,hindu,african_the hindu_
+2017,middle eastern,4271,31.49,42.87,25.64,hindu,middle eastern_the hindu_
+2017,middle eastern,1634,35.6,43.17,21.24,al jazeera,middle eastern_al jazeera_
+2017,hispanic,1902,10.04,37.3,52.66,ny times,hispanic_ny times_
+2017,middle eastern,1931,13.57,25.61,60.82,times,middle eastern_the times_
+2017,middle eastern,2135,30.92,34.87,34.22,hindu,middle eastern_the hindu_
+2017,african,1617,56.35,45.47,-1.82,washington post,african_washington post_
+2017,african,3842,44.28,47.45,8.26,abc news,african_abc news_
+2017,hispanic,640,48.1,43.13,8.77,bbc,hispanic_bbc_
+2017,middle eastern,2214,56.54,27.03,16.43,fox news,middle eastern_fox news_
+2017,hispanic,3561,43.98,37.16,18.86,abc news,hispanic_abc news_
+2017,european,3105,43.52,27.38,29.1,hindu,european_the hindu_
+2017,european,1420,55.03,31,13.97,nbc news,european_nbc news_
+2017,european,1568,39.77,36.74,23.48,associated press,european_associated press_
+2017,african,1071,48.57,30.13,21.3,le monde,african_le monde_
+2017,indigenous,4104,34.71,35.94,29.35,associated press,indigenous_associated press_
+2017,european,1861,24.47,22.25,53.28,reuters,european_reuters_
+2017,european,4584,19.94,43.43,36.63,cnn,european_cnn_
+2017,middle eastern,2082,39.04,31.32,29.64,times,middle eastern_the times_
+2017,asian,3781,45.49,44.2,10.3,fox news,asian_fox news_
+2017,european,4272,34.63,29.61,35.76,guardian,european_the guardian_
+2017,hispanic,2700,27.71,46.31,25.98,reuters,hispanic_reuters_
+2017,indigenous,4220,44.48,30.78,24.74,cbs news,indigenous_cbs news_
+2017,asian,4856,37.73,23.76,38.51,le monde,asian_le monde_
+2017,european,2194,20.6,26.49,52.91,reuters,european_reuters_
+2017,indigenous,1398,18.61,48.38,33,times,indigenous_the times_
+2017,european,4698,26.08,46.73,27.19,bbc,european_bbc_
+2017,asian,4727,50.53,33.62,15.85,bloomberg,asian_bloomberg_
+2017,hispanic,4829,38.79,34.17,27.05,fox news,hispanic_fox news_
+2017,african,4707,33.43,39,27.57,nbc news,african_nbc news_
+2017,middle eastern,4987,12.58,27.63,59.79,fox news,middle eastern_fox news_
+2017,indigenous,4934,12.02,37.81,50.17,associated press,indigenous_associated press_
+2017,middle eastern,1606,29.89,42.45,27.66,le monde,middle eastern_le monde_
+2017,hispanic,2050,59.69,28.21,12.09,abc news,hispanic_abc news_
+2017,european,1281,48.85,43.8,7.35,nbc news,european_nbc news_
+2017,european,3301,15.29,25.08,59.63,cnn,european_cnn_
+2017,asian,3911,25.69,41.23,33.07,bbc,asian_bbc_
+2017,indigenous,2210,13.25,46.6,40.14,abc news,indigenous_abc news_
+2017,european,936,21.71,42.53,35.76,reuters,european_reuters_
+2017,indigenous,2214,23.71,41.07,35.22,cbs news,indigenous_cbs news_
+2017,indigenous,2848,31.14,46.6,22.26,cbs news,indigenous_cbs news_
+2017,hispanic,3663,32.73,21.44,45.83,le monde,hispanic_le monde_
+2017,hispanic,3114,25.32,37.44,37.24,washington post,hispanic_washington post_
+2017,middle eastern,3002,23.9,36.29,39.81,al jazeera,middle eastern_al jazeera_
+2017,indigenous,1433,45.06,27.9,27.04,bloomberg,indigenous_bloomberg_
+2017,asian,2890,43.48,25.23,31.29,le monde,asian_le monde_
+2017,hispanic,1717,42.29,35.47,22.23,guardian,hispanic_the guardian_
+2017,hispanic,3533,33.38,35.66,30.96,associated press,hispanic_associated press_
+2017,middle eastern,2901,58.47,40.9,0.64,ny times,middle eastern_ny times_
+2017,indigenous,1256,37.66,46.98,15.37,nbc news,indigenous_nbc news_
+2017,hispanic,3134,45.13,30.38,24.49,le monde,hispanic_le monde_
+2017,indigenous,1878,31.81,33.37,34.82,cnn,indigenous_cnn_
+2017,middle eastern,1452,52.26,23.24,24.51,times,middle eastern_the times_
+2017,hispanic,1333,59.81,35.66,4.53,deutsche welle,hispanic_deutsche welle_
+2017,indigenous,2828,35.89,39.59,24.52,fox news,indigenous_fox news_
+2017,indigenous,1610,47.86,47.81,4.33,times,indigenous_the times_
+2017,hispanic,4513,52.33,41.58,6.09,fox news,hispanic_fox news_
+2017,african,1588,22.44,39.36,38.2,al jazeera,african_al jazeera_
+2017,asian,2604,25.89,27.07,47.05,cbs news,asian_cbs news_
+2017,african,4484,50.55,23.32,26.13,bloomberg,african_bloomberg_
+2017,indigenous,3729,13.82,34.74,51.44,ny times,indigenous_ny times_
+2017,european,2964,14.48,49.36,36.16,le monde,european_le monde_
+2017,asian,1067,47.83,31.38,20.79,hindu,asian_the hindu_
+2017,middle eastern,2365,31.41,29.84,38.75,le monde,middle eastern_le monde_
+2017,european,2942,13.13,28.62,58.25,cnn,european_cnn_
+2017,hispanic,1778,15.18,27.19,57.63,le monde,hispanic_le monde_
+2017,indigenous,3177,46.75,37.36,15.89,bbc,indigenous_bbc_
+2017,asian,3886,17.14,30.87,51.99,abc news,asian_abc news_
+2017,asian,3300,12.23,25.54,62.23,associated press,asian_associated press_
+2017,middle eastern,837,17.5,33.01,49.49,le monde,middle eastern_le monde_
+2017,middle eastern,4309,43.98,47.69,8.33,cnn,middle eastern_cnn_
+2017,indigenous,4302,39.9,44.25,15.85,guardian,indigenous_the guardian_
+2017,middle eastern,2773,40.21,40.61,19.18,bbc,middle eastern_bbc_
+2017,african,910,29.14,33.17,37.69,reuters,african_reuters_
+2017,middle eastern,1175,52.01,44.02,3.97,associated press,middle eastern_associated press_
+2017,hispanic,4211,49.5,42.52,7.98,washington post,hispanic_washington post_
+2017,african,933,46.97,47.77,5.26,bloomberg,african_bloomberg_
+2017,middle eastern,3371,57.93,48.3,-6.23,fox news,middle eastern_fox news_
+2017,middle eastern,966,51.98,35.4,12.62,fox news,middle eastern_fox news_
+2017,indigenous,2705,31.58,22.49,45.93,cnn,indigenous_cnn_
+2017,middle eastern,1419,41.66,21.03,37.32,reuters,middle eastern_reuters_
+2017,indigenous,2762,24.73,46.48,28.8,le monde,indigenous_le monde_
+2017,middle eastern,4254,47.55,36.76,15.69,al jazeera,middle eastern_al jazeera_
+2018,hispanic,4143,50.33,47.85,1.81,al jazeera,hispanic_al jazeera_
+2018,hispanic,1934,37.86,48.5,13.64,hindu,hispanic_the hindu_
+2018,hispanic,3255,57.46,26.3,16.24,bbc,hispanic_bbc_
+2018,asian,4962,17.69,49.92,32.38,deutsche welle,asian_deutsche welle_
+2018,african,1820,25.85,34.93,39.22,nbc news,african_nbc news_
+2018,asian,1672,43.19,41.65,15.16,deutsche welle,asian_deutsche welle_
+2018,asian,2112,26.92,24.55,48.54,fox news,asian_fox news_
+2018,european,3703,36.11,43.31,20.58,nbc news,european_nbc news_
+2018,european,1335,42.75,24.97,32.28,reuters,european_reuters_
+2018,asian,1758,48.18,45.07,6.75,le monde,asian_le monde_
+2018,african,1616,22.09,24.87,53.04,ny times,african_ny times_
+2018,hispanic,2426,27.4,49.33,23.27,reuters,hispanic_reuters_
+2018,european,3982,34.25,29.27,36.48,guardian,european_the guardian_
+2018,hispanic,2045,24.91,29.54,45.55,le monde,hispanic_le monde_
+2018,hispanic,4601,37.92,36.56,25.52,fox news,hispanic_fox news_
+2018,european,4123,54.97,42.67,2.37,cbs news,european_cbs news_
+2018,european,3730,42.18,45.89,11.93,times,european_the times_
+2018,african,2997,39.62,25.2,35.18,washington post,african_washington post_
+2018,middle eastern,4384,39.76,47.46,12.78,bloomberg,middle eastern_bloomberg_
+2018,middle eastern,4445,57.41,20.11,22.47,hindu,middle eastern_the hindu_
+2018,asian,1698,32.73,37.53,29.74,bbc,asian_bbc_
+2018,middle eastern,969,38.73,30.03,31.24,bloomberg,middle eastern_bloomberg_
+2018,middle eastern,2299,47,43.74,9.27,times,middle eastern_the times_
+2018,asian,734,50.11,43.44,6.45,guardian,asian_the guardian_
+2018,indigenous,3841,24.74,29.08,46.18,hindu,indigenous_the hindu_
+2018,european,2796,46.86,38.15,14.99,guardian,european_the guardian_
+2018,hispanic,3879,12.99,21.28,65.73,hindu,hispanic_the hindu_
+2018,middle eastern,4220,47.98,27.57,24.45,le monde,middle eastern_le monde_
+2018,hispanic,3519,35.28,27.21,37.5,le monde,hispanic_le monde_
+2018,asian,4455,37.02,36.17,26.8,deutsche welle,asian_deutsche welle_
+2018,african,4417,11.83,41.93,46.24,times,african_the times_
+2018,hispanic,4899,20.58,23.21,56.22,associated press,hispanic_associated press_
+2018,middle eastern,4260,44.08,37.86,18.06,guardian,middle eastern_the guardian_
+2018,african,2985,56.93,36.36,6.71,abc news,african_abc news_
+2018,european,3590,48.98,38.88,12.14,le monde,european_le monde_
+2018,european,2954,22.15,49.3,28.55,times,european_the times_
+2018,european,877,42.76,49.06,8.18,ny times,european_ny times_
+2018,asian,1977,33.86,44.5,21.64,deutsche welle,asian_deutsche welle_
+2018,middle eastern,3326,18.52,22.88,58.6,al jazeera,middle eastern_al jazeera_
+2018,european,4058,32.26,22.01,45.73,ny times,european_ny times_
+2018,indigenous,2345,28.95,25.73,45.32,cnn,indigenous_cnn_
+2018,hispanic,1433,13.38,49.29,37.32,ny times,hispanic_ny times_
+2018,asian,4736,26.4,34.03,39.57,cbs news,asian_cbs news_
+2018,middle eastern,1830,10.67,46.94,42.39,fox news,middle eastern_fox news_
+2018,middle eastern,575,46.08,38.5,15.42,times,middle eastern_the times_
+2018,middle eastern,1090,26.3,43.46,30.24,bloomberg,middle eastern_bloomberg_
+2018,indigenous,1705,57.04,38.52,4.44,washington post,indigenous_washington post_
+2018,european,3451,25.97,42.15,31.87,cnn,european_cnn_
+2018,indigenous,1866,50.64,27.22,22.15,nbc news,indigenous_nbc news_
+2018,african,1743,11.47,37.37,51.16,associated press,african_associated press_
+2018,middle eastern,4506,12.05,33.7,54.24,times,middle eastern_the times_
+2018,african,3348,20.87,33.35,45.78,abc news,african_abc news_
+2018,european,1822,40.41,36,23.59,cbs news,european_cbs news_
+2018,african,2338,52.5,43.68,3.82,nbc news,african_nbc news_
+2018,european,2039,18.43,38.94,42.63,cnn,european_cnn_
+2018,african,1385,48.54,39.78,11.68,nbc news,african_nbc news_
+2018,european,3355,36.99,37.11,25.89,ny times,european_ny times_
+2018,african,506,57.07,47.52,-4.58,associated press,african_associated press_
+2018,indigenous,3676,18.46,23.36,58.18,hindu,indigenous_the hindu_
+2018,middle eastern,1246,22.76,48.78,28.46,cbs news,middle eastern_cbs news_
+2018,indigenous,1833,56.56,23.15,20.29,associated press,indigenous_associated press_
+2018,hispanic,4443,15.87,33.32,50.81,le monde,hispanic_le monde_
+2018,indigenous,1604,39.44,35.82,24.73,reuters,indigenous_reuters_
+2018,hispanic,4169,33.24,32.46,34.3,reuters,hispanic_reuters_
+2018,african,3886,52.16,23.83,24,deutsche welle,african_deutsche welle_
+2018,european,4879,53.29,46.62,0.1,nbc news,european_nbc news_
+2018,european,3426,29.82,36.04,34.14,associated press,european_associated press_
+2018,middle eastern,4382,36.83,31.18,31.99,abc news,middle eastern_abc news_
+2018,african,1426,20.6,29.09,50.31,ny times,african_ny times_
+2018,indigenous,4480,58.22,31.25,10.53,washington post,indigenous_washington post_
+2018,middle eastern,2926,17.2,43.67,39.13,washington post,middle eastern_washington post_
+2018,indigenous,4362,11.72,48.2,40.08,deutsche welle,indigenous_deutsche welle_
+2018,middle eastern,3509,32.52,47.75,19.73,ny times,middle eastern_ny times_
+2018,middle eastern,2075,52.29,38.79,8.92,cnn,middle eastern_cnn_
+2018,european,1861,33.03,49.71,17.25,cbs news,european_cbs news_
+2018,indigenous,1802,35.91,32.28,31.82,nbc news,indigenous_nbc news_
+2018,indigenous,1623,39.36,37.87,22.78,al jazeera,indigenous_al jazeera_
+2018,african,2148,57.57,30.15,12.28,al jazeera,african_al jazeera_
+2018,european,3954,21.61,33.33,45.07,washington post,european_washington post_
+2018,european,1734,35.09,39.29,25.63,associated press,european_associated press_
+2018,hispanic,2968,24.67,23.7,51.62,cnn,hispanic_cnn_
+2018,hispanic,4306,39.52,42.35,18.13,abc news,hispanic_abc news_
+2018,african,3677,30.95,45.03,24.02,cnn,african_cnn_
+2018,asian,4375,36.78,28.75,34.48,abc news,asian_abc news_
+2018,indigenous,2016,47.19,41.91,10.9,cbs news,indigenous_cbs news_
+2018,middle eastern,4905,42.2,48.77,9.02,deutsche welle,middle eastern_deutsche welle_
+2018,african,2391,21.38,25.66,52.95,al jazeera,african_al jazeera_
+2018,european,797,58.9,39.81,1.29,ny times,european_ny times_
+2018,indigenous,3671,51.11,46.46,2.43,times,indigenous_the times_
+2018,european,3746,47.13,26.45,26.42,cbs news,european_cbs news_
+2018,african,2212,55.5,28.59,15.91,al jazeera,african_al jazeera_
+2018,european,3906,54.76,26.8,18.44,hindu,european_the hindu_
+2018,african,4780,46.58,47.78,5.64,ny times,african_ny times_
+2018,middle eastern,1878,43.48,36.34,20.18,abc news,middle eastern_abc news_
+2018,hispanic,808,38.9,26.84,34.25,deutsche welle,hispanic_deutsche welle_
+2018,asian,728,12.26,35.68,52.06,bbc,asian_bbc_
+2018,european,1401,47.13,26.4,26.47,associated press,european_associated press_
+2018,asian,3903,56,38.88,5.12,times,asian_the times_
+2018,asian,2194,27.53,27.07,45.39,le monde,asian_le monde_
+2018,hispanic,3436,18.5,42.76,38.74,deutsche welle,hispanic_deutsche welle_
+2018,hispanic,3180,40.27,45.34,14.4,fox news,hispanic_fox news_
+2018,asian,4997,19.41,22.49,58.1,cnn,asian_cnn_
+2018,asian,1391,20.21,25.42,54.38,nbc news,asian_nbc news_
+2018,indigenous,1568,59.18,23.7,17.12,le monde,indigenous_le monde_
+2018,indigenous,2638,38.41,46.22,15.37,cbs news,indigenous_cbs news_
+2018,indigenous,2234,16.17,22.11,61.72,ny times,indigenous_ny times_
+2018,european,4685,45.86,21.15,32.99,fox news,european_fox news_
+2018,indigenous,3573,30.54,31.36,38.11,fox news,indigenous_fox news_
+2018,hispanic,807,52.01,28.94,19.06,hindu,hispanic_the hindu_
+2018,middle eastern,1363,49.67,39.07,11.25,nbc news,middle eastern_nbc news_
+2018,hispanic,2771,42.33,34.47,23.2,washington post,hispanic_washington post_
+2018,hispanic,4258,56.03,34.71,9.25,guardian,hispanic_the guardian_
+2018,hispanic,2365,19.62,28.63,51.75,cbs news,hispanic_cbs news_
+2018,indigenous,2976,18.99,48.61,32.4,cnn,indigenous_cnn_
+2018,indigenous,2456,39.11,46.81,14.08,times,indigenous_the times_
+2018,indigenous,3619,36.51,39.37,24.12,reuters,indigenous_reuters_
+2018,asian,3444,28.43,25.42,46.15,deutsche welle,asian_deutsche welle_
+2018,indigenous,3029,42.05,25.57,32.39,abc news,indigenous_abc news_
+2018,european,3379,18.82,44.68,36.51,al jazeera,european_al jazeera_
+2018,african,1917,14.14,20.41,65.45,washington post,african_washington post_
+2019,african,1785,20.47,30.17,49.36,fox news,african_fox news_
+2019,middle eastern,1856,12.85,45.37,41.77,ny times,middle eastern_ny times_
+2019,middle eastern,2318,23.01,39.18,37.81,hindu,middle eastern_the hindu_
+2019,african,3221,54.19,49.4,-3.59,fox news,african_fox news_
+2019,asian,4155,10.96,43.15,45.89,nbc news,asian_nbc news_
+2019,indigenous,1627,16.41,28.97,54.62,bloomberg,indigenous_bloomberg_
+2019,european,2717,58.28,24.94,16.78,associated press,european_associated press_
+2019,middle eastern,4837,51.04,31.72,17.24,ny times,middle eastern_ny times_
+2019,indigenous,3574,55.69,33.91,10.4,reuters,indigenous_reuters_
+2019,middle eastern,4129,16.26,33.48,50.26,reuters,middle eastern_reuters_
+2019,middle eastern,3654,34.71,32.81,32.48,nbc news,middle eastern_nbc news_
+2019,european,4765,37.8,42.24,19.96,le monde,european_le monde_
+2019,middle eastern,2799,58.04,37.45,4.51,nbc news,middle eastern_nbc news_
+2019,european,1517,26.94,41.33,31.73,bbc,european_bbc_
+2019,indigenous,2301,14.59,47.27,38.15,reuters,indigenous_reuters_
+2019,african,4773,25.99,37.13,36.88,hindu,african_the hindu_
+2019,hispanic,1407,45.21,23.76,31.02,bbc,hispanic_bbc_
+2019,european,4062,11.69,25.01,63.3,fox news,european_fox news_
+2019,asian,2849,25.02,35.04,39.94,le monde,asian_le monde_
+2019,middle eastern,2270,54.75,26.66,18.6,washington post,middle eastern_washington post_
+2019,indigenous,900,19.9,32.89,47.21,le monde,indigenous_le monde_
+2019,asian,1895,12.69,32.29,55.02,abc news,asian_abc news_
+2019,hispanic,2836,51.95,23.83,24.22,washington post,hispanic_washington post_
+2019,asian,3019,17.15,39.06,43.8,al jazeera,asian_al jazeera_
+2019,asian,1839,29.23,38.92,31.85,washington post,asian_washington post_
+2019,african,1315,43.93,27.33,28.74,cbs news,african_cbs news_
+2019,asian,4505,29.34,32.99,37.67,nbc news,asian_nbc news_
+2019,indigenous,3009,59.7,45.4,-5.1,cnn,indigenous_cnn_
+2019,indigenous,2289,52.52,28.51,18.97,cnn,indigenous_cnn_
+2019,european,1748,24.84,33.15,42,hindu,european_the hindu_
+2019,african,2057,23.16,32.57,44.27,cnn,african_cnn_
+2019,african,2775,27.54,33,39.46,guardian,african_the guardian_
+2019,indigenous,2999,20.84,25.54,53.62,le monde,indigenous_le monde_
+2019,european,657,28.79,46.97,24.25,guardian,european_the guardian_
+2019,indigenous,4338,56.35,25.48,18.16,bbc,indigenous_bbc_
+2019,african,4548,14.13,38.5,47.36,reuters,african_reuters_
+2019,hispanic,4609,51.37,24.09,24.54,nbc news,hispanic_nbc news_
+2019,european,1613,36.63,40.51,22.86,fox news,european_fox news_
+2019,middle eastern,4614,57,22.7,20.3,times,middle eastern_the times_
+2019,middle eastern,4116,28.77,31.47,39.75,nbc news,middle eastern_nbc news_
+2019,hispanic,3192,41.8,22.51,35.7,le monde,hispanic_le monde_
+2019,african,4948,57.2,36.18,6.62,cnn,african_cnn_
+2019,indigenous,1250,34.95,37.27,27.78,nbc news,indigenous_nbc news_
+2019,african,569,16.21,36.21,47.57,reuters,african_reuters_
+2019,middle eastern,3037,27.92,34.28,37.8,abc news,middle eastern_abc news_
+2019,middle eastern,2376,19.08,39.73,41.19,bbc,middle eastern_bbc_
+2019,european,3968,48.85,30.55,20.6,cnn,european_cnn_
+2019,indigenous,4726,39.76,37.04,23.2,abc news,indigenous_abc news_
+2019,african,646,34.55,35.29,30.16,fox news,african_fox news_
+2019,hispanic,3500,58.43,42.84,-1.26,associated press,hispanic_associated press_
+2019,indigenous,1088,50.88,28.22,20.9,guardian,indigenous_the guardian_
+2019,asian,1471,21.16,30.39,48.44,bloomberg,asian_bloomberg_
+2019,indigenous,592,19.13,24.97,55.9,deutsche welle,indigenous_deutsche welle_
+2019,indigenous,3661,52.87,49.93,-2.8,washington post,indigenous_washington post_
+2019,hispanic,4376,40.34,22.91,36.75,bbc,hispanic_bbc_
+2019,indigenous,1207,36.9,48.14,14.96,le monde,indigenous_le monde_
+2019,hispanic,3996,33.3,22.03,44.67,times,hispanic_the times_
+2019,middle eastern,4626,47.5,29.6,22.9,abc news,middle eastern_abc news_
+2019,indigenous,1074,50.28,29.7,20.02,cbs news,indigenous_cbs news_
+2019,middle eastern,2114,24.98,37.93,37.09,cbs news,middle eastern_cbs news_
+2019,indigenous,1158,34.67,23.49,41.84,le monde,indigenous_le monde_
+2019,indigenous,1342,47.42,26.52,26.06,bloomberg,indigenous_bloomberg_
+2019,hispanic,1786,16.25,21.51,62.24,bloomberg,hispanic_bloomberg_
+2019,european,4227,52.89,25.67,21.44,reuters,european_reuters_
+2019,indigenous,4635,49.69,25.75,24.56,nbc news,indigenous_nbc news_
+2019,indigenous,2110,45.14,44.75,10.11,deutsche welle,indigenous_deutsche welle_
+2019,indigenous,768,27.05,27.37,45.58,al jazeera,indigenous_al jazeera_
+2019,asian,3094,43.59,40.86,15.55,washington post,asian_washington post_
+2019,european,1874,17.8,39.76,42.44,abc news,european_abc news_
+2019,european,1782,11.41,43.75,44.84,deutsche welle,european_deutsche welle_
+2019,middle eastern,2097,16.13,30.99,52.88,cbs news,middle eastern_cbs news_
+2019,european,2891,18.11,29.98,51.9,bbc,european_bbc_
+2019,african,3209,55.01,44.15,0.85,cbs news,african_cbs news_
+2019,middle eastern,4061,35.98,45.27,18.75,fox news,middle eastern_fox news_
+2019,hispanic,1004,28.21,26.05,45.74,cbs news,hispanic_cbs news_
+2019,european,2557,30.27,27.7,42.02,bloomberg,european_bloomberg_
+2019,african,3114,55.93,38.9,5.17,bbc,african_bbc_
+2019,hispanic,3458,32.44,28.92,38.63,times,hispanic_the times_
+2019,european,4678,47.94,28.33,23.74,bbc,european_bbc_
+2019,middle eastern,2697,52.16,29.04,18.8,washington post,middle eastern_washington post_
+2019,hispanic,1799,26.85,43.23,29.92,deutsche welle,hispanic_deutsche welle_
+2019,indigenous,2901,13.3,26.58,60.13,cnn,indigenous_cnn_
+2019,african,4397,41.57,22.44,35.98,associated press,african_associated press_
+2019,indigenous,2478,53.39,27.24,19.37,nbc news,indigenous_nbc news_
+2019,european,3780,29.42,47.31,23.27,bbc,european_bbc_
+2019,european,4829,13.38,24.48,62.14,bloomberg,european_bloomberg_
+2019,middle eastern,4334,36.66,36.68,26.65,hindu,middle eastern_the hindu_
+2019,middle eastern,3984,51.89,40.93,7.18,ny times,middle eastern_ny times_
+2019,indigenous,878,42.82,23.39,33.79,deutsche welle,indigenous_deutsche welle_
+2019,european,4477,21.22,43.98,34.8,ny times,european_ny times_
+2019,middle eastern,2184,49.32,37.69,12.99,times,middle eastern_the times_
+2019,hispanic,1293,26.36,23.29,50.35,cbs news,hispanic_cbs news_
+2019,hispanic,1393,37.18,35.32,27.51,reuters,hispanic_reuters_
+2019,asian,3288,56.22,29.04,14.74,bloomberg,asian_bloomberg_
+2019,european,4246,14.84,31.31,53.85,al jazeera,european_al jazeera_
+2019,african,3535,48.28,47.85,3.87,abc news,african_abc news_
+2019,european,3518,32.31,29.25,38.44,cnn,european_cnn_
+2019,middle eastern,3638,44.59,28.26,27.14,al jazeera,middle eastern_al jazeera_
+2019,hispanic,3099,45.35,22.8,31.86,fox news,hispanic_fox news_
+2019,african,4886,44.21,47.88,7.9,le monde,african_le monde_
+2019,hispanic,3010,12.13,45.06,42.81,associated press,hispanic_associated press_
+2019,middle eastern,4134,19.72,27.86,52.42,associated press,middle eastern_associated press_
+2019,asian,4990,38.65,23.69,37.66,nbc news,asian_nbc news_
+2019,african,2368,52.66,28.58,18.76,times,african_the times_
+2019,hispanic,3976,58.77,26.6,14.63,reuters,hispanic_reuters_
+2019,european,2234,24.39,45.81,29.8,reuters,european_reuters_
+2019,indigenous,3041,18.85,43.06,38.09,reuters,indigenous_reuters_
+2019,hispanic,2216,55.72,32.07,12.22,reuters,hispanic_reuters_
+2019,hispanic,1927,24.93,36.62,38.45,al jazeera,hispanic_al jazeera_
+2019,hispanic,1039,32.63,38.6,28.76,bbc,hispanic_bbc_
+2019,indigenous,4107,23.93,31.84,44.23,abc news,indigenous_abc news_
+2019,indigenous,777,30.85,45.9,23.26,cbs news,indigenous_cbs news_
+2019,indigenous,3531,20.44,22.18,57.39,nbc news,indigenous_nbc news_
+2019,african,535,49.57,44.12,6.31,associated press,african_associated press_
+2019,hispanic,2510,33.59,48.73,17.68,deutsche welle,hispanic_deutsche welle_
+2019,european,3571,11.88,45.94,42.17,deutsche welle,european_deutsche welle_
+2019,african,3392,45.04,47.09,7.87,al jazeera,african_al jazeera_
+2019,african,2808,31.89,48.08,20.03,times,african_the times_
+2019,european,1227,22.29,29.97,47.74,fox news,european_fox news_
+2019,middle eastern,1152,15.43,24.54,60.03,bloomberg,middle eastern_bloomberg_
+2020,middle eastern,3248,46.69,20.01,33.3,reuters,middle eastern_reuters_
+2020,indigenous,3732,34.41,27.63,37.96,washington post,indigenous_washington post_
+2020,european,3033,54.59,25.41,20,nbc news,european_nbc news_
+2020,hispanic,593,23.15,49.8,27.06,cnn,hispanic_cnn_
+2020,middle eastern,1342,18.95,29.12,51.93,fox news,middle eastern_fox news_
+2020,hispanic,2398,43.23,29.97,26.8,reuters,hispanic_reuters_
+2020,hispanic,3806,16.1,32.16,51.74,hindu,hispanic_the hindu_
+2020,african,4510,50.12,33.91,15.97,al jazeera,african_al jazeera_
+2020,asian,3030,23.54,38.55,37.91,hindu,asian_the hindu_
+2020,african,722,23.26,43.58,33.16,fox news,african_fox news_
+2020,african,1896,28.6,23.77,47.63,cbs news,african_cbs news_
+2020,hispanic,3126,15.11,21.35,63.54,cnn,hispanic_cnn_
+2020,african,3574,37.54,22.94,39.52,guardian,african_the guardian_
+2020,asian,1592,33.65,36.9,29.45,associated press,asian_associated press_
+2020,indigenous,4892,42.04,42.86,15.1,bloomberg,indigenous_bloomberg_
+2020,hispanic,1429,29.05,44.58,26.37,guardian,hispanic_the guardian_
+2020,european,1139,10.72,38.15,51.12,cnn,european_cnn_
+2020,asian,2082,41.65,20.79,37.57,fox news,asian_fox news_
+2020,hispanic,2119,28.26,34.73,37.01,le monde,hispanic_le monde_
+2020,hispanic,635,41.38,46.01,12.61,deutsche welle,hispanic_deutsche welle_
+2020,hispanic,2170,36.49,45.19,18.32,hindu,hispanic_the hindu_
+2020,european,2266,18.82,40.47,40.71,bbc,european_bbc_
+2020,african,1240,38.56,47.02,14.42,deutsche welle,african_deutsche welle_
+2020,indigenous,3518,56.28,47.12,-3.39,associated press,indigenous_associated press_
+2020,european,710,20.05,37.33,42.62,abc news,european_abc news_
+2020,hispanic,1734,30.5,45.28,24.21,bbc,hispanic_bbc_
+2020,hispanic,2171,46.14,45,8.86,reuters,hispanic_reuters_
+2020,middle eastern,797,42.15,40.11,17.75,cnn,middle eastern_cnn_
+2020,hispanic,4902,24.32,29.41,46.26,le monde,hispanic_le monde_
+2020,hispanic,3461,29.47,27.41,43.11,abc news,hispanic_abc news_
+2020,indigenous,1324,27.9,25.68,46.42,bbc,indigenous_bbc_
+2020,hispanic,1007,32.4,24.75,42.85,guardian,hispanic_the guardian_
+2020,asian,1965,50.88,42.84,6.27,fox news,asian_fox news_
+2020,middle eastern,591,25.59,48.58,25.83,nbc news,middle eastern_nbc news_
+2020,middle eastern,1413,23.84,26.28,49.88,guardian,middle eastern_the guardian_
+2020,asian,2540,40.27,49.32,10.41,hindu,asian_the hindu_
+2020,african,1503,54.94,37.25,7.8,washington post,african_washington post_
+2020,indigenous,1337,16.15,48.81,35.04,times,indigenous_the times_
+2020,african,651,52.09,20.62,27.3,deutsche welle,african_deutsche welle_
+2020,indigenous,2953,45.99,33.95,20.06,guardian,indigenous_the guardian_
+2020,african,3555,16.01,30.05,53.94,bbc,african_bbc_
+2020,indigenous,3909,15.07,37.63,47.3,reuters,indigenous_reuters_
+2020,middle eastern,2067,19.69,25.19,55.12,cnn,middle eastern_cnn_
+2020,indigenous,4447,20.21,37.65,42.14,reuters,indigenous_reuters_
+2020,hispanic,2972,26.11,26.01,47.88,cbs news,hispanic_cbs news_
+2020,european,675,22.66,36.29,41.04,associated press,european_associated press_
+2020,middle eastern,4856,55.26,47.83,-3.09,deutsche welle,middle eastern_deutsche welle_
+2020,european,4183,29.24,38.93,31.83,nbc news,european_nbc news_
+2020,european,1823,44.09,41.81,14.1,le monde,european_le monde_
+2020,european,2423,25.6,45.6,28.79,hindu,european_the hindu_
+2020,european,2568,50.4,47.11,2.49,guardian,european_the guardian_
+2020,european,3827,53.15,34.27,12.57,cnn,european_cnn_
+2020,african,539,17.6,47.45,34.95,deutsche welle,african_deutsche welle_
+2020,asian,3828,49.93,41.29,8.77,guardian,asian_the guardian_
+2020,african,1960,39.55,36.61,23.84,deutsche welle,african_deutsche welle_
+2020,asian,4642,53.15,40.69,6.16,abc news,asian_abc news_
+2020,african,4973,26.75,23.39,49.86,le monde,african_le monde_
+2020,european,3223,47.1,48.7,4.2,bloomberg,european_bloomberg_
+2020,asian,2541,52.72,47.52,-0.24,times,asian_the times_
+2020,middle eastern,1594,46.1,27.35,26.55,associated press,middle eastern_associated press_
+2020,african,2875,56.21,48.42,-4.63,fox news,african_fox news_
+2020,asian,935,30.62,29.88,39.49,bloomberg,asian_bloomberg_
+2020,middle eastern,4460,17.81,24.18,58.01,associated press,middle eastern_associated press_
+2020,indigenous,575,37.4,38.54,24.06,fox news,indigenous_fox news_
+2020,indigenous,2614,23.32,31.65,45.04,times,indigenous_the times_
+2020,indigenous,4269,38.31,28.98,32.71,bbc,indigenous_bbc_
+2020,european,2557,49.77,26.36,23.87,associated press,european_associated press_
+2020,asian,1729,43.07,44.41,12.52,bloomberg,asian_bloomberg_
+2020,indigenous,1540,16.2,47.75,36.05,bbc,indigenous_bbc_
+2020,middle eastern,991,12.94,43.05,44.01,hindu,middle eastern_the hindu_
+2020,african,953,55.2,27.32,17.48,bloomberg,african_bloomberg_
+2020,asian,2220,39.65,26.66,33.69,hindu,asian_the hindu_
+2020,asian,1519,41.6,48.87,9.53,reuters,asian_reuters_
+2020,indigenous,2501,29.22,29.19,41.59,reuters,indigenous_reuters_
+2020,african,2992,40.84,25.86,33.3,nbc news,african_nbc news_
+2020,hispanic,1718,27.34,44.48,28.18,nbc news,hispanic_nbc news_
+2020,asian,1622,22.69,22,55.31,associated press,asian_associated press_
+2020,middle eastern,4711,39.8,45.31,14.89,times,middle eastern_the times_
+2020,asian,2460,53.17,39.82,7.02,guardian,asian_the guardian_
+2020,middle eastern,1082,30.18,26.75,43.06,associated press,middle eastern_associated press_
+2020,hispanic,2090,55.02,35.64,9.34,associated press,hispanic_associated press_
+2020,european,4005,29.36,33.97,36.67,al jazeera,european_al jazeera_
+2020,middle eastern,3797,19.79,47.71,32.5,washington post,middle eastern_washington post_
+2020,european,3194,19.67,33.33,47,guardian,european_the guardian_
+2020,hispanic,602,34.96,45.05,19.99,le monde,hispanic_le monde_
+2020,african,1713,33.07,21.69,45.24,hindu,african_the hindu_
+2020,african,3727,50.91,33.78,15.3,cbs news,african_cbs news_
+2020,european,1098,57.63,30.7,11.67,le monde,european_le monde_
+2020,hispanic,3912,58.49,43.71,-2.2,times,hispanic_the times_
+2020,asian,2155,14.84,33.38,51.77,fox news,asian_fox news_
+2020,indigenous,3997,11.17,39.14,49.69,abc news,indigenous_abc news_
+2020,african,4836,30.7,43.28,26.02,bbc,african_bbc_
+2020,hispanic,1928,38.39,48.4,13.21,bloomberg,hispanic_bloomberg_
+2020,european,2694,45.58,26.09,28.33,reuters,european_reuters_
+2020,asian,1678,39.69,23.68,36.62,cnn,asian_cnn_
+2020,middle eastern,933,44.28,24.72,31.01,al jazeera,middle eastern_al jazeera_
+2020,middle eastern,2001,34.4,49.62,15.98,cnn,middle eastern_cnn_
+2020,middle eastern,3883,38.04,45.71,16.25,times,middle eastern_the times_
+2020,asian,3973,20.62,49.38,29.99,nbc news,asian_nbc news_
+2020,hispanic,836,45.08,21.37,33.55,reuters,hispanic_reuters_
+2020,indigenous,3029,16.72,22,61.28,ny times,indigenous_ny times_
+2020,asian,3777,41.89,30.77,27.34,nbc news,asian_nbc news_
+2020,indigenous,2991,26.52,44.98,28.5,washington post,indigenous_washington post_
+2020,hispanic,2484,36.97,42.16,20.87,ny times,hispanic_ny times_
+2020,middle eastern,4955,52.75,36.97,10.27,al jazeera,middle eastern_al jazeera_
+2020,hispanic,880,42.77,23.21,34.02,washington post,hispanic_washington post_
+2020,hispanic,4975,24.52,30.89,44.59,associated press,hispanic_associated press_
+2020,middle eastern,587,22.12,25.38,52.51,cbs news,middle eastern_cbs news_
+2020,indigenous,3542,56.94,24.36,18.7,ny times,indigenous_ny times_
+2020,indigenous,4415,45.16,23.03,31.8,hindu,indigenous_the hindu_
+2020,asian,1447,57.29,38,4.71,hindu,asian_the hindu_
+2020,african,1992,35.36,33.3,31.34,fox news,african_fox news_
+2020,european,2823,55.12,34.65,10.23,guardian,european_the guardian_
+2020,european,3332,57.07,27.09,15.84,times,european_the times_
+2020,middle eastern,3137,25.5,29.58,44.91,bloomberg,middle eastern_bloomberg_
+2020,asian,4295,17.38,42.94,39.68,cnn,asian_cnn_
+2020,asian,2171,11.86,25.48,62.66,reuters,asian_reuters_
+2020,african,3505,14.84,47.95,37.21,le monde,african_le monde_
+2020,african,2032,21.25,24.8,53.95,reuters,african_reuters_
+2020,european,2672,44.45,41.75,13.81,bloomberg,european_bloomberg_
+2021,asian,1481,20.21,33.94,45.85,hindu,asian_the hindu_
+2021,indigenous,3411,51.88,27.71,20.41,al jazeera,indigenous_al jazeera_
+2021,african,998,38.33,41.03,20.64,associated press,african_associated press_
+2021,african,4828,34.37,24.98,40.65,associated press,african_associated press_
+2021,african,1067,33.96,35.74,30.3,associated press,african_associated press_
+2021,hispanic,2101,22.34,47.18,30.48,deutsche welle,hispanic_deutsche welle_
+2021,middle eastern,4017,16.67,33.64,49.69,associated press,middle eastern_associated press_
+2021,european,1199,48.19,26.1,25.71,bbc,european_bbc_
+2021,hispanic,4384,10.03,20.31,69.66,cnn,hispanic_cnn_
+2021,european,2693,19.68,22.99,57.33,associated press,european_associated press_
+2021,african,2985,44.76,36.65,18.59,cbs news,african_cbs news_
+2021,indigenous,3930,36.28,45.63,18.09,hindu,indigenous_the hindu_
+2021,middle eastern,2424,20.57,37.47,41.96,hindu,middle eastern_the hindu_
+2021,indigenous,1778,23.61,41.83,34.56,nbc news,indigenous_nbc news_
+2021,african,4474,34.51,39.07,26.42,washington post,african_washington post_
+2021,middle eastern,4611,22.21,49.04,28.75,nbc news,middle eastern_nbc news_
+2021,indigenous,1354,38.87,37.27,23.86,fox news,indigenous_fox news_
+2021,indigenous,2993,27.76,49,23.23,hindu,indigenous_the hindu_
+2021,hispanic,3794,25.53,22.74,51.73,cnn,hispanic_cnn_
+2021,european,4603,14.1,28.36,57.55,le monde,european_le monde_
+2021,hispanic,1968,21.34,25.69,52.97,washington post,hispanic_washington post_
+2021,middle eastern,727,58.88,34.36,6.76,abc news,middle eastern_abc news_
+2021,hispanic,3049,16.76,25.59,57.65,ny times,hispanic_ny times_
+2021,middle eastern,2692,21.39,27.72,50.89,associated press,middle eastern_associated press_
+2021,hispanic,3444,15.74,31.1,53.16,washington post,hispanic_washington post_
+2021,indigenous,2518,56.06,31.3,12.64,ny times,indigenous_ny times_
+2021,european,4992,40.13,30.12,29.75,cnn,european_cnn_
+2021,indigenous,2671,48.28,27.54,24.18,reuters,indigenous_reuters_
+2021,asian,1404,26.63,32.02,41.35,fox news,asian_fox news_
+2021,european,1065,50.8,37.11,12.1,cbs news,european_cbs news_
+2021,hispanic,1549,42.8,47.2,10,ny times,hispanic_ny times_
+2021,asian,1946,34.97,42.85,22.18,hindu,asian_the hindu_
+2021,middle eastern,1320,28.39,28.59,43.02,guardian,middle eastern_the guardian_
+2021,asian,1314,59.05,34.24,6.71,bloomberg,asian_bloomberg_
+2021,african,1657,49.65,46.12,4.24,bloomberg,african_bloomberg_
+2021,hispanic,1662,42.43,42.51,15.06,le monde,hispanic_le monde_
+2021,indigenous,3417,37.64,28.79,33.57,washington post,indigenous_washington post_
+2021,asian,3665,51.7,49.44,-1.14,bbc,asian_bbc_
+2021,middle eastern,4289,46.38,46.41,7.22,associated press,middle eastern_associated press_
+2021,european,1444,32.87,27.03,40.1,abc news,european_abc news_
+2021,middle eastern,731,42.61,32.69,24.71,ny times,middle eastern_ny times_
+2021,european,1936,29.58,38.14,32.28,le monde,european_le monde_
+2021,asian,2396,36.44,26.37,37.19,associated press,asian_associated press_
+2021,indigenous,4929,30.53,30.19,39.28,nbc news,indigenous_nbc news_
+2021,hispanic,2572,51.07,40.64,8.29,bbc,hispanic_bbc_
+2021,middle eastern,4502,39.77,35.38,24.86,fox news,middle eastern_fox news_
+2021,hispanic,1851,33.12,35.05,31.84,associated press,hispanic_associated press_
+2021,hispanic,2836,48.54,49.49,1.97,bloomberg,hispanic_bloomberg_
+2021,hispanic,3073,22.4,31.91,45.69,reuters,hispanic_reuters_
+2021,african,1284,23.05,23.46,53.49,fox news,african_fox news_
+2021,indigenous,1239,48.85,45.51,5.64,deutsche welle,indigenous_deutsche welle_
+2021,european,2521,43.63,24,32.38,abc news,european_abc news_
+2021,middle eastern,3608,23.07,48.75,28.19,times,middle eastern_the times_
+2021,african,4398,42.04,46.18,11.79,ny times,african_ny times_
+2021,indigenous,4340,29.18,41.29,29.54,ny times,indigenous_ny times_
+2021,indigenous,3846,50.39,23.61,26,ny times,indigenous_ny times_
+2021,african,2028,31.93,28.17,39.91,hindu,african_the hindu_
+2021,asian,4697,12.12,26.17,61.71,nbc news,asian_nbc news_
+2021,hispanic,4797,27.16,22.25,50.59,cnn,hispanic_cnn_
+2021,middle eastern,2782,51.42,28.9,19.69,guardian,middle eastern_the guardian_
+2021,asian,2673,55.24,36.83,7.93,washington post,asian_washington post_
+2021,indigenous,4759,21.54,35.76,42.7,hindu,indigenous_the hindu_
+2021,indigenous,2742,31.08,32.37,36.54,deutsche welle,indigenous_deutsche welle_
+2021,asian,3616,53.46,40.21,6.33,abc news,asian_abc news_
+2021,hispanic,742,37.68,22.92,39.41,guardian,hispanic_the guardian_
+2021,hispanic,3765,18.27,20.32,61.41,bloomberg,hispanic_bloomberg_
+2021,hispanic,1499,13.4,22.49,64.11,ny times,hispanic_ny times_
+2021,hispanic,2368,38.8,38.05,23.15,al jazeera,hispanic_al jazeera_
+2021,african,2782,39.28,41.38,19.34,bbc,african_bbc_
+2021,european,3558,32.4,43.4,24.19,cbs news,european_cbs news_
+2021,asian,4774,44.21,28.32,27.47,guardian,asian_the guardian_
+2021,hispanic,2251,52.82,32.31,14.88,bloomberg,hispanic_bloomberg_
+2021,middle eastern,4036,35.15,26.9,37.95,reuters,middle eastern_reuters_
+2021,asian,4135,39.51,41.15,19.34,associated press,asian_associated press_
+2021,asian,3285,54.54,31.51,13.95,abc news,asian_abc news_
+2021,african,3883,51.7,37.98,10.31,guardian,african_the guardian_
+2021,european,2576,39.96,38.87,21.17,associated press,european_associated press_
+2021,middle eastern,2121,42.62,39.75,17.63,associated press,middle eastern_associated press_
+2021,indigenous,2331,12.69,36.67,50.64,cnn,indigenous_cnn_
+2021,asian,4937,41.83,48.44,9.73,ny times,asian_ny times_
+2021,african,3280,56.95,32.91,10.14,reuters,african_reuters_
+2021,european,2929,29.45,29.3,41.25,abc news,european_abc news_
+2021,african,1123,30.69,48.37,20.95,deutsche welle,african_deutsche welle_
+2021,european,989,57.49,46.17,-3.66,guardian,european_the guardian_
+2021,middle eastern,2781,12.92,40.11,46.97,guardian,middle eastern_the guardian_
+2021,african,1736,12.75,37.85,49.39,abc news,african_abc news_
+2021,hispanic,2120,14.32,25.89,59.79,ny times,hispanic_ny times_
+2021,asian,2474,22.02,38.34,39.64,associated press,asian_associated press_
+2021,middle eastern,4618,25.7,45.88,28.42,deutsche welle,middle eastern_deutsche welle_
+2021,european,995,49.34,24.92,25.74,nbc news,european_nbc news_
+2021,middle eastern,2126,14.55,42.97,42.47,associated press,middle eastern_associated press_
+2021,european,559,33.96,43.89,22.14,bloomberg,european_bloomberg_
+2021,european,2648,26.93,45.04,28.02,cnn,european_cnn_
+2021,african,4482,44.13,48.34,7.53,times,african_the times_
+2021,middle eastern,3089,19.04,23.59,57.36,cnn,middle eastern_cnn_
+2021,african,2279,27.96,44.82,27.22,hindu,african_the hindu_
+2021,hispanic,598,27.29,37.2,35.52,fox news,hispanic_fox news_
+2021,middle eastern,1787,20.98,22.07,56.94,cbs news,middle eastern_cbs news_
+2021,hispanic,2677,30.99,35.96,33.05,associated press,hispanic_associated press_
+2021,hispanic,4084,15.81,45.04,39.15,le monde,hispanic_le monde_
+2021,indigenous,2771,51.8,34.61,13.6,associated press,indigenous_associated press_
+2021,hispanic,4602,27.11,49.59,23.3,times,hispanic_the times_
+2021,indigenous,784,30.98,39,30.02,fox news,indigenous_fox news_
+2021,asian,3489,31.91,38.36,29.74,hindu,asian_the hindu_
+2021,hispanic,1537,35.71,39.53,24.76,cnn,hispanic_cnn_
+2021,hispanic,1106,20.04,45.09,34.87,guardian,hispanic_the guardian_
+2021,middle eastern,4469,53.53,44.22,2.26,nbc news,middle eastern_nbc news_
+2021,middle eastern,2450,25.99,36.55,37.47,ny times,middle eastern_ny times_
+2021,middle eastern,2349,16.3,47.34,36.36,bloomberg,middle eastern_bloomberg_
+2021,african,3256,16.74,36.06,47.2,ny times,african_ny times_
+2021,asian,3782,14.15,25.1,60.75,cbs news,asian_cbs news_
+2021,hispanic,2125,10.75,45.65,43.6,washington post,hispanic_washington post_
+2021,asian,2056,58.6,26.61,14.78,associated press,asian_associated press_
+2021,african,1526,34.11,30.7,35.19,fox news,african_fox news_
+2021,indigenous,3240,17.9,44.06,38.04,bbc,indigenous_bbc_
+2021,hispanic,3926,34.09,33.97,31.94,cbs news,hispanic_cbs news_
+2021,european,2090,31.73,39.11,29.16,cnn,european_cnn_
+2021,middle eastern,1756,28.09,27.25,44.65,abc news,middle eastern_abc news_
+2021,indigenous,826,59.83,31.91,8.26,cnn,indigenous_cnn_
+2021,european,2840,55.26,24.05,20.69,fox news,european_fox news_
+2022,asian,4730,32.36,24.79,42.85,reuters,asian_reuters_
+2022,asian,1524,41.61,28.97,29.41,al jazeera,asian_al jazeera_
+2022,asian,1867,46.35,37.6,16.05,ny times,asian_ny times_
+2022,indigenous,4683,25.46,33.79,40.75,cbs news,indigenous_cbs news_
+2022,european,1043,33.33,43.09,23.59,bbc,european_bbc_
+2022,european,774,52.04,20.4,27.56,nbc news,european_nbc news_
+2022,asian,574,52.38,49.76,-2.14,washington post,asian_washington post_
+2022,hispanic,3653,30.99,25.06,43.95,hindu,hispanic_the hindu_
+2022,asian,1520,14,31.99,54.01,abc news,asian_abc news_
+2022,european,2166,30.98,38.67,30.35,cbs news,european_cbs news_
+2022,asian,2984,25.08,48.34,26.58,ny times,asian_ny times_
+2022,african,4315,38.69,29.25,32.06,washington post,african_washington post_
+2022,indigenous,4441,23.67,35.94,40.38,cbs news,indigenous_cbs news_
+2022,asian,4845,13.81,28.67,57.53,le monde,asian_le monde_
+2022,middle eastern,1244,47.42,48.93,3.65,deutsche welle,middle eastern_deutsche welle_
+2022,european,3984,52.44,21.69,25.86,cnn,european_cnn_
+2022,african,539,35.96,39.37,24.67,al jazeera,african_al jazeera_
+2022,hispanic,3320,54.24,41.7,4.06,cbs news,hispanic_cbs news_
+2022,middle eastern,797,26.43,47.27,26.3,cbs news,middle eastern_cbs news_
+2022,hispanic,1292,24.26,42.99,32.75,cnn,hispanic_cnn_
+2022,hispanic,3296,25.08,26.49,48.43,associated press,hispanic_associated press_
+2022,middle eastern,3733,16.43,47.82,35.75,le monde,middle eastern_le monde_
+2022,asian,707,47.38,20.01,32.6,nbc news,asian_nbc news_
+2022,european,1046,17.76,40.96,41.28,al jazeera,european_al jazeera_
+2022,asian,1710,17.43,31.43,51.14,cnn,asian_cnn_
+2022,indigenous,3791,33.78,29.25,36.97,nbc news,indigenous_nbc news_
+2022,african,1315,12.54,36.15,51.31,times,african_the times_
+2022,indigenous,4019,36.16,31.79,32.05,nbc news,indigenous_nbc news_
+2022,middle eastern,4792,17.78,46.04,36.17,ny times,middle eastern_ny times_
+2022,asian,1528,48.07,37.34,14.59,cbs news,asian_cbs news_
+2022,european,2388,41.3,47.47,11.23,al jazeera,european_al jazeera_
+2022,hispanic,3470,19.61,28.87,51.52,deutsche welle,hispanic_deutsche welle_
+2022,middle eastern,4440,10.33,40.11,49.56,reuters,middle eastern_reuters_
+2022,asian,1366,27.43,31.14,41.43,washington post,asian_washington post_
+2022,middle eastern,2420,28.18,35.21,36.61,fox news,middle eastern_fox news_
+2022,middle eastern,3653,57.13,23.13,19.74,le monde,middle eastern_le monde_
+2022,asian,4587,18.9,33.9,47.19,deutsche welle,asian_deutsche welle_
+2022,hispanic,2969,56.74,48.39,-5.12,bbc,hispanic_bbc_
+2022,indigenous,4034,43.29,49.85,6.86,nbc news,indigenous_nbc news_
+2022,hispanic,4188,22.53,37.65,39.82,al jazeera,hispanic_al jazeera_
+2022,hispanic,1135,39.24,21.93,38.83,guardian,hispanic_the guardian_
+2022,indigenous,3238,31.39,46.54,22.07,hindu,indigenous_the hindu_
+2022,indigenous,2631,56.01,39.9,4.09,le monde,indigenous_le monde_
+2022,hispanic,3664,47.11,39.18,13.71,guardian,hispanic_the guardian_
+2022,middle eastern,4175,48.55,49.43,2.02,bbc,middle eastern_bbc_
+2022,hispanic,3432,51.81,40.1,8.09,le monde,hispanic_le monde_
+2022,hispanic,1601,25.01,30.81,44.19,bloomberg,hispanic_bloomberg_
+2022,african,3416,12.88,24.8,62.32,reuters,african_reuters_
+2022,african,1938,51.43,48.03,0.54,le monde,african_le monde_
+2022,asian,2964,56.5,25.61,17.89,nbc news,asian_nbc news_
+2022,asian,4854,38.53,46.35,15.12,ny times,asian_ny times_
+2022,european,4405,51.01,21.76,27.22,associated press,european_associated press_
+2022,middle eastern,1053,20.78,30.03,49.19,bbc,middle eastern_bbc_
+2022,middle eastern,3849,18.41,42,39.59,deutsche welle,middle eastern_deutsche welle_
+2022,african,3228,12.96,30.51,56.53,guardian,african_the guardian_
+2022,middle eastern,3011,48.5,46.65,4.85,bloomberg,middle eastern_bloomberg_
+2022,european,838,55.79,44.57,-0.36,hindu,european_the hindu_
+2022,middle eastern,3989,35.76,35.47,28.77,washington post,middle eastern_washington post_
+2022,european,1654,31.82,25.49,42.69,cbs news,european_cbs news_
+2022,middle eastern,2146,42.77,38.64,18.6,fox news,middle eastern_fox news_
+2022,middle eastern,1121,28.29,41.15,30.56,ny times,middle eastern_ny times_
+2022,asian,3126,16.16,36.44,47.4,hindu,asian_the hindu_
+2022,middle eastern,1177,38.11,34.23,27.66,cnn,middle eastern_cnn_
+2022,european,2900,44.31,26.43,29.27,cnn,european_cnn_
+2022,hispanic,1492,46.48,41.58,11.93,hindu,hispanic_the hindu_
+2022,hispanic,1310,52.12,46.88,1,abc news,hispanic_abc news_
+2022,hispanic,4873,57.76,26.82,15.42,associated press,hispanic_associated press_
+2022,european,1947,41.44,37.53,21.03,nbc news,european_nbc news_
+2022,european,714,34.06,30.22,35.72,al jazeera,european_al jazeera_
+2022,african,3395,45.6,40.02,14.38,bbc,african_bbc_
+2022,european,3797,47.34,39.98,12.68,cbs news,european_cbs news_
+2022,african,2759,19.75,30.42,49.82,le monde,african_le monde_
+2022,hispanic,3468,57.59,34.79,7.62,guardian,hispanic_the guardian_
+2022,asian,1856,11.52,30.48,58,bbc,asian_bbc_
+2022,african,702,16.95,35.15,47.9,bbc,african_bbc_
+2022,african,4197,55.52,43.81,0.67,le monde,african_le monde_
+2022,indigenous,4797,28.06,49.53,22.41,bloomberg,indigenous_bloomberg_
+2022,african,4114,32.13,37.64,30.23,al jazeera,african_al jazeera_
+2022,asian,4190,41.24,21.91,36.85,reuters,asian_reuters_
+2022,middle eastern,4366,54.43,33.26,12.31,abc news,middle eastern_abc news_
+2022,african,2419,37.8,39.81,22.4,times,african_the times_
+2022,hispanic,880,17.09,24.29,58.63,fox news,hispanic_fox news_
+2022,indigenous,678,20.21,30.93,48.86,cbs news,indigenous_cbs news_
+2022,middle eastern,2816,59.03,33.19,7.78,cbs news,middle eastern_cbs news_
+2022,asian,1926,54.47,48.14,-2.62,bbc,asian_bbc_
+2022,hispanic,3652,21.07,39.31,39.62,deutsche welle,hispanic_deutsche welle_
+2022,african,3316,41.63,31.14,27.24,ny times,african_ny times_
+2022,european,1732,35.01,24.57,40.42,hindu,european_the hindu_
+2022,middle eastern,4935,54.78,31.67,13.55,washington post,middle eastern_washington post_
+2022,african,750,46.52,38.7,14.79,al jazeera,african_al jazeera_
+2022,european,1462,22.31,37.66,40.03,fox news,european_fox news_
+2022,middle eastern,1338,13.57,24.95,61.48,guardian,middle eastern_the guardian_
+2022,asian,4571,38.48,30.98,30.54,deutsche welle,asian_deutsche welle_
+2022,hispanic,1158,14.29,38.33,47.38,reuters,hispanic_reuters_
+2022,african,3586,13.84,48.27,37.89,cnn,african_cnn_
+2022,european,1617,50.82,22.56,26.63,associated press,european_associated press_
+2022,middle eastern,4693,51.64,48.05,0.31,guardian,middle eastern_the guardian_
+2022,middle eastern,1596,10.12,31.16,58.72,ny times,middle eastern_ny times_
+2022,african,760,40.47,42.12,17.41,ny times,african_ny times_
+2022,asian,1874,56.39,42.01,1.61,le monde,asian_le monde_
+2022,african,1745,43.74,23.63,32.64,cnn,african_cnn_
+2022,hispanic,1097,30.29,38.54,31.18,al jazeera,hispanic_al jazeera_
+2022,indigenous,3684,18.95,32.87,48.17,washington post,indigenous_washington post_
+2022,asian,2551,24.9,32.47,42.64,abc news,asian_abc news_
+2022,asian,3472,13.16,39,47.84,washington post,asian_washington post_
+2022,european,1620,50.06,40.47,9.47,times,european_the times_
+2022,indigenous,2788,56.52,20.73,22.75,times,indigenous_the times_
+2022,african,1639,16.16,20.57,63.27,cnn,african_cnn_
+2022,hispanic,4620,20.42,27.17,52.42,guardian,hispanic_the guardian_
+2022,african,4060,24.48,29.07,46.45,reuters,african_reuters_
+2022,asian,2264,49.94,48.02,2.04,washington post,asian_washington post_
+2022,asian,2085,31.37,35.81,32.82,al jazeera,asian_al jazeera_
+2022,european,912,51.28,38.3,10.42,cnn,european_cnn_
+2022,asian,950,35.66,49.86,14.48,bloomberg,asian_bloomberg_
+2022,european,1205,38.23,45.08,16.68,le monde,european_le monde_
+2022,hispanic,2057,34.87,25.94,39.19,ny times,hispanic_ny times_
+2022,hispanic,4083,48.32,27.5,24.18,washington post,hispanic_washington post_
+2022,hispanic,3810,13.19,20.63,66.18,al jazeera,hispanic_al jazeera_
+2022,asian,4836,22.3,24.78,52.92,times,asian_the times_
+2022,asian,4065,19.55,47.25,33.2,cnn,asian_cnn_
+2023,middle eastern,1285,10.21,30.52,59.27,cnn,middle eastern_cnn_
+2023,middle eastern,556,22.34,46.56,31.09,washington post,middle eastern_washington post_
+2023,middle eastern,945,15.18,44.32,40.5,guardian,middle eastern_the guardian_
+2023,middle eastern,1586,26.62,39.79,33.58,times,middle eastern_the times_
+2023,european,2249,55.95,38.3,5.75,fox news,european_fox news_
+2023,asian,4344,38.04,40.18,21.78,bbc,asian_bbc_
+2023,european,1591,50.05,47.6,2.35,abc news,european_abc news_
+2023,hispanic,2707,51.89,36.71,11.41,nbc news,hispanic_nbc news_
+2023,hispanic,2582,29.95,38.21,31.85,cbs news,hispanic_cbs news_
+2023,european,2514,23.29,49.59,27.11,nbc news,european_nbc news_
+2023,african,1875,51.06,45.44,3.5,reuters,african_reuters_
+2023,indigenous,1569,48.42,22.72,28.86,deutsche welle,indigenous_deutsche welle_
+2023,middle eastern,3053,47.51,26.66,25.83,hindu,middle eastern_the hindu_
+2023,middle eastern,4249,55.41,40.64,3.94,bloomberg,middle eastern_bloomberg_
+2023,hispanic,3494,11.77,25.04,63.19,bloomberg,hispanic_bloomberg_
+2023,middle eastern,2418,45.37,42,12.62,associated press,middle eastern_associated press_
+2023,african,1825,35.7,29.26,35.05,bbc,african_bbc_
+2023,european,1442,19.72,23.4,56.88,cbs news,european_cbs news_
+2023,hispanic,2526,34.52,27.87,37.61,guardian,hispanic_the guardian_
+2023,asian,2888,17.24,34.36,48.4,ny times,asian_ny times_
+2023,indigenous,4782,20.66,43.15,36.19,times,indigenous_the times_
+2023,hispanic,1488,51.81,30.04,18.15,al jazeera,hispanic_al jazeera_
+2023,asian,3235,53.39,20.62,25.99,associated press,asian_associated press_
+2023,european,4530,34.64,41.86,23.5,hindu,european_the hindu_
+2023,african,3775,28.7,30.76,40.54,bbc,african_bbc_
+2023,african,1423,28.63,38.68,32.69,cnn,african_cnn_
+2023,european,3032,47.81,39.49,12.7,al jazeera,european_al jazeera_
+2023,african,3506,46.63,49.86,3.52,nbc news,african_nbc news_
+2023,indigenous,614,34.57,28.24,37.19,bloomberg,indigenous_bloomberg_
+2023,european,1727,56.07,38.35,5.58,ny times,european_ny times_
+2023,european,3000,43.94,24.79,31.27,le monde,european_le monde_
+2023,middle eastern,1080,44.43,36.32,19.25,associated press,middle eastern_associated press_
+2023,hispanic,4387,44.01,26.62,29.37,deutsche welle,hispanic_deutsche welle_
+2023,european,738,29.95,21.87,48.18,nbc news,european_nbc news_
+2023,middle eastern,2777,56.45,43.33,0.22,cnn,middle eastern_cnn_
+2023,hispanic,4440,51.47,32.58,15.95,ny times,hispanic_ny times_
+2023,indigenous,4053,11.96,25.42,62.63,le monde,indigenous_le monde_
+2023,hispanic,4705,21.61,25.77,52.63,abc news,hispanic_abc news_
+2023,hispanic,3263,11.23,45.06,43.71,le monde,hispanic_le monde_
+2023,indigenous,2455,57.67,26.43,15.9,cbs news,indigenous_cbs news_
+2023,hispanic,3713,45.58,32.74,21.68,reuters,hispanic_reuters_
+2023,middle eastern,1682,41.07,35.73,23.21,abc news,middle eastern_abc news_
+2023,asian,2184,52.21,47.27,0.52,nbc news,asian_nbc news_
+2023,middle eastern,1094,56.9,37.09,6.01,bbc,middle eastern_bbc_
+2023,african,2304,10.24,39.19,50.58,bbc,african_bbc_
+2023,asian,2512,33.17,34.23,32.6,al jazeera,asian_al jazeera_
+2023,european,4855,55.21,26.46,18.34,le monde,european_le monde_
+2023,indigenous,2226,36.35,26.29,37.37,reuters,indigenous_reuters_
+2023,hispanic,726,37.73,28.09,34.17,washington post,hispanic_washington post_
+2023,european,3695,31.77,34.74,33.48,washington post,european_washington post_
+2023,middle eastern,4955,26.42,33.97,39.61,fox news,middle eastern_fox news_
+2023,middle eastern,1619,45.23,21.49,33.28,le monde,middle eastern_le monde_
+2023,asian,3892,20.75,38.87,40.38,washington post,asian_washington post_
+2023,african,2450,40.37,39.8,19.82,cbs news,african_cbs news_
+2023,middle eastern,1135,17.07,37.05,45.87,cnn,middle eastern_cnn_
+2023,african,2908,56.41,34.85,8.73,nbc news,african_nbc news_
+2023,middle eastern,1065,18.87,21.12,60.01,ny times,middle eastern_ny times_
+2023,african,655,36.37,48.81,14.82,deutsche welle,african_deutsche welle_
+2023,asian,4721,37.38,39.58,23.04,nbc news,asian_nbc news_
+2023,african,2387,21.29,37.52,41.19,bloomberg,african_bloomberg_
+2023,middle eastern,2428,46.66,32.53,20.81,deutsche welle,middle eastern_deutsche welle_
+2023,middle eastern,1092,58.97,28.04,12.99,guardian,middle eastern_the guardian_
+2023,asian,1084,22.75,23.4,53.85,al jazeera,asian_al jazeera_
+2023,indigenous,4370,37.85,37.71,24.43,guardian,indigenous_the guardian_
+2023,european,1185,15.93,32.16,51.91,associated press,european_associated press_
+2023,hispanic,2453,43.64,27.34,29.02,fox news,hispanic_fox news_
+2023,european,1350,47.43,49.95,2.63,guardian,european_the guardian_
+2023,african,2474,59.36,33.82,6.82,abc news,african_abc news_
+2023,african,3060,30.56,42.43,27.01,reuters,african_reuters_
+2023,european,1557,43.49,39.35,17.16,fox news,european_fox news_
+2023,asian,3980,54.94,24.08,20.98,abc news,asian_abc news_
+2023,european,504,28.27,41.53,30.2,fox news,european_fox news_
+2023,middle eastern,3281,18.52,21.15,60.33,al jazeera,middle eastern_al jazeera_
+2023,indigenous,2991,22.95,31.62,45.43,hindu,indigenous_the hindu_
+2023,asian,798,33.12,42.08,24.8,guardian,asian_the guardian_
+2023,asian,3510,51.52,32.32,16.15,nbc news,asian_nbc news_
+2023,european,4861,58.12,28.6,13.28,times,european_the times_
+2023,asian,575,14.36,25.97,59.67,abc news,asian_abc news_
+2023,indigenous,3183,18.75,39.48,41.77,washington post,indigenous_washington post_
+2023,european,4806,17.65,39.27,43.07,le monde,european_le monde_
+2023,middle eastern,3805,33.4,21.14,45.46,times,middle eastern_the times_
+2023,middle eastern,961,14.39,28.76,56.85,associated press,middle eastern_associated press_
+2023,middle eastern,4787,10.92,45.86,43.23,al jazeera,middle eastern_al jazeera_
+2023,indigenous,1882,12.44,36.03,51.53,reuters,indigenous_reuters_
+2023,middle eastern,3207,26.19,25.26,48.55,ny times,middle eastern_ny times_
+2023,indigenous,1864,55.63,47.83,-3.46,cbs news,indigenous_cbs news_
+2023,middle eastern,4132,43.25,23.72,33.04,guardian,middle eastern_the guardian_
+2023,middle eastern,3773,30.8,21.18,48.02,cbs news,middle eastern_cbs news_
+2023,middle eastern,4919,48.06,41.06,10.88,associated press,middle eastern_associated press_
+2023,asian,3403,15.2,41.38,43.43,cnn,asian_cnn_
+2023,african,2414,52.79,27.89,19.32,guardian,african_the guardian_
+2023,asian,2123,25.31,32.36,42.33,times,asian_the times_
+2023,african,3288,41.24,30.71,28.06,hindu,african_the hindu_
+2023,asian,1036,57.95,26.74,15.31,le monde,asian_le monde_
+2023,asian,3592,44.69,23.5,31.8,bloomberg,asian_bloomberg_
+2023,african,1976,57.53,33.25,9.22,bloomberg,african_bloomberg_
+2023,asian,1740,11.02,30.95,58.03,associated press,asian_associated press_
+2023,middle eastern,1696,28.74,25.76,45.51,cbs news,middle eastern_cbs news_
+2023,middle eastern,3474,15.47,22.98,61.55,abc news,middle eastern_abc news_
+2023,hispanic,4855,31.32,37.35,31.34,bloomberg,hispanic_bloomberg_
+2023,european,3678,42.92,42.1,14.97,deutsche welle,european_deutsche welle_
+2023,european,2223,50.51,30.82,18.67,le monde,european_le monde_
+2023,indigenous,4898,27.94,27.95,44.11,bbc,indigenous_bbc_
+2023,european,3637,49.93,43.29,6.78,cnn,european_cnn_
+2023,middle eastern,1558,18.91,29.23,51.86,times,middle eastern_the times_
+2023,asian,1255,32.97,25.28,41.75,abc news,asian_abc news_
+2023,asian,1465,50.88,26.66,22.46,deutsche welle,asian_deutsche welle_
+2023,middle eastern,3500,48.5,35.53,15.97,abc news,middle eastern_abc news_
+2023,indigenous,912,36.95,30.6,32.45,bbc,indigenous_bbc_
+2023,hispanic,549,11.24,34.6,54.17,times,hispanic_the times_
+2023,middle eastern,3070,20.29,43.55,36.17,abc news,middle eastern_abc news_
+2023,european,3786,52.51,47.72,-0.23,cnn,european_cnn_
+2023,european,596,26.16,35.2,38.63,fox news,european_fox news_
+2023,asian,1633,50.3,46.43,3.27,associated press,asian_associated press_
+2023,indigenous,3637,19.91,44.14,35.95,times,indigenous_the times_
+2023,middle eastern,2447,30.65,44,25.35,hindu,middle eastern_the hindu_
+2023,indigenous,3171,34.83,21.95,43.22,le monde,indigenous_le monde_
+2023,asian,4075,55.57,49.15,-4.73,washington post,asian_washington post_
+2023,indigenous,2817,43.46,31.7,24.84,al jazeera,indigenous_al jazeera_
+2023,indigenous,3334,39.55,20.67,39.78,guardian,indigenous_the guardian_
+2024,hispanic,2318,37.64,30.61,31.74,hindu,hispanic_the hindu_
+2024,asian,1401,49.75,32.17,18.08,cbs news,asian_cbs news_
+2024,asian,2518,23.1,41.93,34.98,washington post,asian_washington post_
+2024,european,2674,45.35,34.09,20.56,times,european_the times_
+2024,hispanic,4893,37.92,46.44,15.64,deutsche welle,hispanic_deutsche welle_
+2024,african,2399,43.96,39.64,16.4,reuters,african_reuters_
+2024,indigenous,2447,47.08,38.74,14.17,cnn,indigenous_cnn_
+2024,hispanic,1384,36.49,25.17,38.34,al jazeera,hispanic_al jazeera_
+2024,middle eastern,3617,11.36,31.32,57.32,bbc,middle eastern_bbc_
+2024,hispanic,1678,10.93,39.92,49.14,bbc,hispanic_bbc_
+2024,asian,3607,34.98,33.05,31.97,ny times,asian_ny times_
+2024,hispanic,2265,27.62,40.51,31.87,le monde,hispanic_le monde_
+2024,african,3415,25.31,40.76,33.93,times,african_the times_
+2024,indigenous,1514,38.47,45.05,16.48,times,indigenous_the times_
+2024,middle eastern,4500,39.67,35.9,24.43,guardian,middle eastern_the guardian_
+2024,african,2318,43.62,31.81,24.57,bloomberg,african_bloomberg_
+2024,indigenous,2843,49.66,28.97,21.37,cbs news,indigenous_cbs news_
+2024,african,1782,47.02,47.9,5.08,bloomberg,african_bloomberg_
+2024,african,2276,55.61,39.15,5.24,reuters,african_reuters_
+2024,asian,2720,24.51,35.61,39.88,bbc,asian_bbc_
+2024,middle eastern,3232,12.63,41.6,45.76,hindu,middle eastern_the hindu_
+2024,european,3559,42.26,30.21,27.53,al jazeera,european_al jazeera_
+2024,hispanic,861,26.9,37.95,35.15,fox news,hispanic_fox news_
+2024,indigenous,3433,20.48,27.63,51.89,abc news,indigenous_abc news_
+2024,european,2208,59.38,45.75,-5.13,fox news,european_fox news_
+2024,hispanic,568,16.88,43,40.13,times,hispanic_the times_
+2024,indigenous,1261,43.23,49.5,7.26,cnn,indigenous_cnn_
+2024,african,1583,57.96,38.36,3.67,guardian,african_the guardian_
+2024,middle eastern,848,39.27,36.22,24.51,le monde,middle eastern_le monde_
+2024,indigenous,1043,45.59,45.64,8.77,fox news,indigenous_fox news_
+2024,hispanic,1889,20.36,38.53,41.11,washington post,hispanic_washington post_
+2024,hispanic,769,43.41,46.06,10.53,hindu,hispanic_the hindu_
+2024,asian,2694,56.13,26.67,17.2,times,asian_the times_
+2024,indigenous,4589,58.82,49.11,-7.93,hindu,indigenous_the hindu_
+2024,hispanic,2876,13.52,46.74,39.74,times,hispanic_the times_
+2024,indigenous,677,14.01,44.88,41.11,hindu,indigenous_the hindu_
+2024,european,3960,40.71,20.75,38.54,nbc news,european_nbc news_
+2024,asian,1791,53.78,25.24,20.97,al jazeera,asian_al jazeera_
+2024,african,4854,13.88,44.38,41.74,le monde,african_le monde_
+2024,hispanic,3107,47.82,34.57,17.6,ny times,hispanic_ny times_
+2024,asian,2675,15.99,20.18,63.83,times,asian_the times_
+2024,african,3240,18.47,34.88,46.66,bloomberg,african_bloomberg_
+2024,hispanic,4564,17.08,25.86,57.06,washington post,hispanic_washington post_
+2024,hispanic,3607,24.78,49.95,25.27,reuters,hispanic_reuters_
+2024,asian,3322,38.63,44.61,16.76,reuters,asian_reuters_
+2024,indigenous,4242,24.69,22.49,52.82,reuters,indigenous_reuters_
+2024,asian,3073,42.69,29.54,27.78,bloomberg,asian_bloomberg_
+2024,asian,2810,59.79,42.29,-2.08,deutsche welle,asian_deutsche welle_
+2024,asian,4989,53.12,49.24,-2.36,deutsche welle,asian_deutsche welle_
+2024,hispanic,3064,46.81,46.55,6.64,associated press,hispanic_associated press_
+2024,african,3702,59.44,45.74,-5.18,washington post,african_washington post_
+2024,european,1693,33.44,22.52,44.05,times,european_the times_
+2024,european,746,28.6,24.65,46.75,bloomberg,european_bloomberg_
+2024,european,4661,39.91,39.9,20.19,le monde,european_le monde_
+2024,european,2379,28.92,38.79,32.29,bbc,european_bbc_
+2024,middle eastern,1436,36.67,39.24,24.09,cbs news,middle eastern_cbs news_
+2024,indigenous,3119,38.3,36.35,25.35,fox news,indigenous_fox news_
+2024,indigenous,1386,41.08,20.83,38.09,ny times,indigenous_ny times_
+2024,middle eastern,2246,33.44,45.9,20.65,times,middle eastern_the times_
+2024,indigenous,3011,12.84,27.77,59.39,hindu,indigenous_the hindu_
+2024,asian,2141,16.23,33.76,50.02,hindu,asian_the hindu_
+2024,indigenous,2437,43.83,21.03,35.14,ny times,indigenous_ny times_
+2024,hispanic,4064,24.11,44.17,31.72,nbc news,hispanic_nbc news_
+2024,african,4593,37.02,42.56,20.41,le monde,african_le monde_
+2024,asian,1883,46.86,42.91,10.23,bloomberg,asian_bloomberg_
+2024,european,3391,19.37,39.03,41.6,cnn,european_cnn_
+2024,european,4522,41.51,32.44,26.05,guardian,european_the guardian_
+2024,hispanic,3017,34.8,26.58,38.62,hindu,hispanic_the hindu_
+2024,african,2723,48.95,39.25,11.8,nbc news,african_nbc news_
+2024,hispanic,707,25.39,47.25,27.36,guardian,hispanic_the guardian_
+2024,hispanic,3741,13.64,48.46,37.89,times,hispanic_the times_
+2024,indigenous,1934,47.26,25.81,26.93,associated press,indigenous_associated press_
+2024,european,854,40.64,38.19,21.17,cbs news,european_cbs news_
+2024,african,1236,57.44,42.27,0.28,associated press,african_associated press_
+2024,european,2857,38.45,47.02,14.52,le monde,european_le monde_
+2024,hispanic,1807,50.77,26.59,22.63,hindu,hispanic_the hindu_
+2024,hispanic,1915,14.05,32.53,53.42,nbc news,hispanic_nbc news_
+2024,european,2593,11.09,45.84,43.07,fox news,european_fox news_
+2024,african,3159,25.89,24.38,49.73,times,african_the times_
+2024,hispanic,1692,13.75,34.45,51.8,al jazeera,hispanic_al jazeera_
+2024,hispanic,4381,43.77,32.8,23.42,cbs news,hispanic_cbs news_
+2024,middle eastern,4566,58.54,44.85,-3.39,le monde,middle eastern_le monde_
+2024,hispanic,4312,20.9,40.9,38.2,al jazeera,hispanic_al jazeera_
+2024,asian,2405,50.7,29.79,19.51,bloomberg,asian_bloomberg_
+2024,indigenous,2517,26.21,34.63,39.16,times,indigenous_the times_
+2024,african,3475,14.53,45.69,39.78,al jazeera,african_al jazeera_
+2024,middle eastern,1567,57.4,30.98,11.61,ny times,middle eastern_ny times_
+2024,european,4425,29.87,29.61,40.52,reuters,european_reuters_
+2024,hispanic,1257,26.61,34.03,39.35,deutsche welle,hispanic_deutsche welle_
+2024,middle eastern,1720,14.74,22.39,62.88,fox news,middle eastern_fox news_
+2024,hispanic,751,46.18,34.56,19.26,fox news,hispanic_fox news_
+2024,asian,4931,35.64,21.08,43.27,bbc,asian_bbc_
+2024,hispanic,3549,55.09,26.59,18.32,bbc,hispanic_bbc_
+2024,hispanic,2027,41.76,22.53,35.71,nbc news,hispanic_nbc news_
+2024,indigenous,1860,48.71,34.92,16.37,bbc,indigenous_bbc_
+2024,hispanic,3489,20.83,22.56,56.61,guardian,hispanic_the guardian_
+2024,asian,4376,28.19,22.77,49.05,abc news,asian_abc news_
+2024,asian,1381,29.79,35.23,34.99,abc news,asian_abc news_
+2024,indigenous,3855,22.35,38.19,39.47,le monde,indigenous_le monde_
+2024,hispanic,3991,19.18,28.92,51.9,times,hispanic_the times_
+2024,hispanic,3553,50.31,30.9,18.8,al jazeera,hispanic_al jazeera_
+2024,asian,1973,27.12,26.79,46.09,bloomberg,asian_bloomberg_
+2024,middle eastern,2859,56.08,46.46,-2.54,guardian,middle eastern_the guardian_
+2024,european,585,11.76,42.13,46.11,bloomberg,european_bloomberg_
+2024,european,1252,37.57,38.32,24.11,le monde,european_le monde_
+2024,indigenous,4086,59.94,45.97,-5.91,cbs news,indigenous_cbs news_
+2024,indigenous,4681,14.59,29.59,55.82,reuters,indigenous_reuters_
+2024,hispanic,3787,30.6,31.31,38.08,al jazeera,hispanic_al jazeera_
+2024,indigenous,1849,55.38,22.89,21.73,bloomberg,indigenous_bloomberg_
+2024,european,1968,59.1,29.2,11.7,cbs news,european_cbs news_
+2024,middle eastern,4596,50.8,50,-0.8,guardian,middle eastern_the guardian_
+2024,african,1451,56.47,21.77,21.76,nbc news,african_nbc news_
+2024,european,2736,15,49.72,35.28,guardian,european_the guardian_
+2024,indigenous,3725,33.95,31.96,34.09,nbc news,indigenous_nbc news_
+2024,hispanic,1030,18.88,33.57,47.55,cbs news,hispanic_cbs news_
+2024,african,4668,14.4,48.05,37.55,reuters,african_reuters_
+2024,hispanic,4091,40.9,36.02,23.08,associated press,hispanic_associated press_
+2024,european,596,34.13,33.01,32.86,bloomberg,european_bloomberg_
+2024,middle eastern,1906,27.27,37.44,35.29,al jazeera,middle eastern_al jazeera_
+2024,hispanic,4695,41.1,42.09,16.81,ny times,hispanic_ny times_

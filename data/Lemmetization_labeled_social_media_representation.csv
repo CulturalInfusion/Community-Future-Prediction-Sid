@@ -1,0 +1,2401 @@
+Year,Community,Total Mentions,Positive Representation (%),Neutral Representation (%),Negative Representation (%),Social Media Platform,Label
+2015,middle eastern,4478,21.16,45.56,33.28,facebook,middle eastern_facebook_
+2014,african,9589,43.15,28.16,28.69,reddit,african_reddit_
+2021,hispanic,5418,55.49,39.54,4.97,youtube,hispanic_youtube_
+2010,european,9606,30.97,30.07,38.95,twitter,european_twitter_
+2024,hispanic,8473,27.64,29.44,42.93,youtube,hispanic_youtube_
+2016,european,9995,24.71,20.15,55.15,reddit,european_reddit_
+2018,european,5356,38.44,38.6,22.96,twitter,european_twitter_
+2023,african,1153,47.18,37.36,15.47,tiktok,african_tiktok_
+2022,african,19295,15.86,25.52,58.61,facebook,african_facebook_
+2006,indigenous,19221,25.72,26.61,47.67,linkedin,indigenous_linkedin_
+2012,indigenous,11313,48.1,31.45,20.45,linkedin,indigenous_linkedin_
+2010,african,17800,23.01,36.81,40.18,youtube,african_youtube_
+2015,asian,17748,27.97,32.32,39.71,youtube,asian_youtube_
+2024,african,15403,46.78,29.49,23.73,instagram,african_instagram_
+2019,middle eastern,11386,57.42,37.84,4.74,reddit,middle eastern_reddit_
+2014,indigenous,11519,49.93,38.59,11.48,instagram,indigenous_instagram_
+2005,european,3111,28.82,43.42,27.77,instagram,european_instagram_
+2004,hispanic,12397,18.58,43.09,38.33,facebook,hispanic_facebook_
+2004,indigenous,16317,15.09,47.31,37.6,youtube,indigenous_youtube_
+2010,middle eastern,17497,44.66,40.02,15.32,twitter,middle eastern_twitter_
+2023,asian,4011,30.65,23.06,46.29,linkedin,asian_linkedin_
+2022,middle eastern,12971,29.71,36.37,33.92,youtube,middle eastern_youtube_
+2024,european,5260,13.61,27.02,59.37,reddit,european_reddit_
+2020,european,13568,59.9,42.63,-2.53,tiktok,european_tiktok_
+2012,asian,16755,37.51,21.81,40.68,instagram,asian_instagram_
+2022,european,6863,32.46,22.87,44.68,twitter,european_twitter_
+2018,asian,4635,13.9,36.17,49.93,instagram,asian_instagram_
+2023,middle eastern,14176,58.83,26.91,14.26,tiktok,middle eastern_tiktok_
+2009,asian,18643,18.62,23.11,58.27,reddit,asian_reddit_
+2013,asian,15888,24.44,27.7,47.86,reddit,asian_reddit_
+2024,middle eastern,6520,31.21,36.43,32.36,instagram,middle eastern_instagram_
+2017,middle eastern,15405,32.82,43.65,23.52,reddit,middle eastern_reddit_
+2021,middle eastern,9098,45.83,24,30.17,tiktok,middle eastern_tiktok_
+2024,middle eastern,13690,57.66,47.7,-5.36,facebook,middle eastern_facebook_
+2007,indigenous,8657,13.93,26.37,59.7,tiktok,indigenous_tiktok_
+2016,middle eastern,9780,38.09,44.09,17.83,reddit,middle eastern_reddit_
+2024,indigenous,9315,41.34,30.13,28.53,reddit,indigenous_reddit_
+2017,european,6042,26.94,20.54,52.52,linkedin,european_linkedin_
+2007,african,6117,56.25,21.5,22.25,tiktok,african_tiktok_
+2024,indigenous,9375,17.25,46.15,36.59,facebook,indigenous_facebook_
+2024,european,4891,59.89,49.75,-9.64,linkedin,european_linkedin_
+2024,middle eastern,7377,51.87,31.83,16.31,reddit,middle eastern_reddit_
+2013,hispanic,7607,37.75,20.61,41.64,tiktok,hispanic_tiktok_
+2016,asian,1209,22.89,26.81,50.3,twitter,asian_twitter_
+2021,african,18799,42.9,29.05,28.05,instagram,african_instagram_
+2022,asian,3300,12.74,28.54,58.72,linkedin,asian_linkedin_
+2009,african,2049,23.5,34.95,41.55,tiktok,african_tiktok_
+2012,hispanic,5523,55.03,32.18,12.79,tiktok,hispanic_tiktok_
+2011,european,16862,14.11,48.76,37.13,twitter,european_twitter_
+2024,hispanic,15904,24.03,28.51,47.46,linkedin,hispanic_linkedin_
+2016,asian,12775,41.56,43.2,15.24,reddit,asian_reddit_
+2019,european,11986,16.54,35.36,48.1,youtube,european_youtube_
+2006,european,11054,22.77,21.77,55.46,instagram,european_instagram_
+2023,european,9092,47.37,25.15,27.48,tiktok,european_tiktok_
+2016,asian,12491,33.4,47.51,19.1,twitter,asian_twitter_
+2021,asian,5278,21.66,21.39,56.95,twitter,asian_twitter_
+2006,hispanic,15216,12.63,28.29,59.07,facebook,hispanic_facebook_
+2005,middle eastern,14042,26.21,44.61,29.18,linkedin,middle eastern_linkedin_
+2012,african,18203,43.26,25.65,31.08,facebook,african_facebook_
+2005,asian,9965,45.72,32.91,21.37,twitter,asian_twitter_
+2018,european,18274,48.8,38.01,13.19,linkedin,european_linkedin_
+2014,hispanic,9726,55.29,46.02,-1.31,facebook,hispanic_facebook_
+2015,european,18374,35.92,32.67,31.41,instagram,european_instagram_
+2004,hispanic,9461,53.14,24.21,22.65,reddit,hispanic_reddit_
+2012,european,11906,18.51,20.44,61.05,tiktok,european_tiktok_
+2021,indigenous,6277,53.23,47.95,-1.18,tiktok,indigenous_tiktok_
+2006,european,10059,28.09,31.58,40.33,youtube,european_youtube_
+2004,european,1965,51.49,41.91,6.6,twitter,european_twitter_
+2024,hispanic,9320,54.43,45.25,0.33,instagram,hispanic_instagram_
+2014,middle eastern,6718,36.35,26.37,37.28,instagram,middle eastern_instagram_
+2017,african,14844,22.36,21.12,56.52,linkedin,african_linkedin_
+2020,middle eastern,13492,47.86,48.23,3.91,facebook,middle eastern_facebook_
+2023,middle eastern,6120,25.12,32.13,42.75,facebook,middle eastern_facebook_
+2021,hispanic,13407,46.07,21.75,32.18,twitter,hispanic_twitter_
+2022,european,15245,48.98,29.93,21.09,youtube,european_youtube_
+2005,indigenous,14596,51.85,38.52,9.63,facebook,indigenous_facebook_
+2018,african,9844,44.68,21.17,34.15,reddit,african_reddit_
+2018,european,16475,29.72,25.39,44.89,youtube,european_youtube_
+2009,hispanic,10435,10.09,22.31,67.59,youtube,hispanic_youtube_
+2007,european,3655,41.87,23.15,34.98,instagram,european_instagram_
+2022,african,19459,39.99,37.21,22.81,youtube,african_youtube_
+2023,middle eastern,10535,38.7,45.03,16.27,instagram,middle eastern_instagram_
+2017,indigenous,3282,45.45,47.52,7.03,youtube,indigenous_youtube_
+2007,african,15304,55.19,33.64,11.16,instagram,african_instagram_
+2005,european,9457,55.77,47.06,-2.83,reddit,european_reddit_
+2024,african,5215,45.33,41.13,13.54,facebook,african_facebook_
+2017,indigenous,10980,58.6,25.8,15.6,facebook,indigenous_facebook_
+2011,hispanic,13267,46.62,22.21,31.17,linkedin,hispanic_linkedin_
+2022,indigenous,12191,30.94,26.15,42.91,facebook,indigenous_facebook_
+2017,indigenous,14137,43.22,34.33,22.44,tiktok,indigenous_tiktok_
+2005,african,14635,14.85,32.65,52.49,twitter,african_twitter_
+2006,european,11718,20.78,41.01,38.21,instagram,european_instagram_
+2014,middle eastern,6349,38.45,40.7,20.85,linkedin,middle eastern_linkedin_
+2017,middle eastern,14436,59.81,42.92,-2.73,youtube,middle eastern_youtube_
+2023,middle eastern,5377,57.09,23.73,19.18,youtube,middle eastern_youtube_
+2011,asian,9281,34.9,47.41,17.69,reddit,asian_reddit_
+2018,middle eastern,9903,20.25,25.55,54.2,facebook,middle eastern_facebook_
+2014,european,14187,43.86,44.25,11.88,tiktok,european_tiktok_
+2024,indigenous,10220,27.46,40.54,32,facebook,indigenous_facebook_
+2024,hispanic,6713,55.27,26.04,18.68,tiktok,hispanic_tiktok_
+2016,european,5444,51.52,28.94,19.54,instagram,european_instagram_
+2019,middle eastern,4446,30.49,27.91,41.6,reddit,middle eastern_reddit_
+2019,hispanic,2544,57.68,44.78,-2.46,reddit,hispanic_reddit_
+2019,african,11537,59.41,22.68,17.91,facebook,african_facebook_
+2005,indigenous,5469,55.03,25.84,19.13,youtube,indigenous_youtube_
+2014,european,11361,28.48,25.43,46.09,facebook,european_facebook_
+2015,indigenous,16980,56.37,48.81,-5.18,tiktok,indigenous_tiktok_
+2024,asian,15957,14.97,48.75,36.28,facebook,asian_facebook_
+2008,middle eastern,19863,42.74,31.31,25.95,youtube,middle eastern_youtube_
+2012,african,19612,13.85,41.89,44.26,facebook,african_facebook_
+2006,hispanic,11275,38,47.64,14.36,reddit,hispanic_reddit_
+2019,asian,16615,49.35,44.62,6.03,linkedin,asian_linkedin_
+2016,hispanic,13535,31.33,27.98,40.69,twitter,hispanic_twitter_
+2012,indigenous,18507,21.51,25.94,52.55,twitter,indigenous_twitter_
+2014,hispanic,3355,37.53,26.42,36.06,facebook,hispanic_facebook_
+2008,african,6129,22.79,42.46,34.76,reddit,african_reddit_
+2023,hispanic,18195,25.69,39.13,35.18,instagram,hispanic_instagram_
+2021,middle eastern,19744,31.34,22.43,46.23,instagram,middle eastern_instagram_
+2011,european,14519,47.2,24.71,28.09,facebook,european_facebook_
+2011,european,14014,24.73,21.89,53.38,linkedin,european_linkedin_
+2005,african,6638,31.28,27.53,41.18,reddit,african_reddit_
+2014,indigenous,13318,46.76,46.54,6.7,youtube,indigenous_youtube_
+2007,european,9655,43.63,41.55,14.82,youtube,european_youtube_
+2022,middle eastern,15683,55.99,48.14,-4.13,facebook,middle eastern_facebook_
+2023,african,4414,48.51,49.41,2.08,instagram,african_instagram_
+2005,hispanic,7314,19.22,26.92,53.85,linkedin,hispanic_linkedin_
+2019,middle eastern,7479,22,44.22,33.78,instagram,middle eastern_instagram_
+2004,asian,9495,53.76,39.17,7.07,reddit,asian_reddit_
+2021,hispanic,10385,22.79,32.3,44.91,reddit,hispanic_reddit_
+2008,hispanic,2546,23.62,36.82,39.56,tiktok,hispanic_tiktok_
+2011,african,8116,15.49,44.48,40.03,linkedin,african_linkedin_
+2019,indigenous,1970,58.9,42.85,-1.74,youtube,indigenous_youtube_
+2022,european,4316,16.74,46.33,36.93,reddit,european_reddit_
+2011,hispanic,9652,51.1,24.01,24.89,linkedin,hispanic_linkedin_
+2019,middle eastern,13955,23.1,28.81,48.1,tiktok,middle eastern_tiktok_
+2020,hispanic,13075,49.06,38.87,12.07,linkedin,hispanic_linkedin_
+2005,european,5299,19.61,22.12,58.27,youtube,european_youtube_
+2009,african,4810,17.14,22.41,60.45,twitter,african_twitter_
+2012,indigenous,11400,34.44,41.21,24.34,twitter,indigenous_twitter_
+2008,asian,7891,40.52,36.98,22.5,twitter,asian_twitter_
+2017,middle eastern,13865,32.99,37.16,29.85,twitter,middle eastern_twitter_
+2016,indigenous,5300,59.82,26.12,14.07,twitter,indigenous_twitter_
+2009,european,1437,44.28,25.37,30.36,youtube,european_youtube_
+2005,asian,4573,10.93,28.75,60.31,youtube,asian_youtube_
+2023,asian,15018,28.95,38.49,32.57,reddit,asian_reddit_
+2020,asian,4626,32.13,44.38,23.49,instagram,asian_instagram_
+2024,indigenous,2300,29.85,27.79,42.36,facebook,indigenous_facebook_
+2007,african,6971,56.13,24.73,19.15,instagram,african_instagram_
+2014,indigenous,13481,36.5,39.32,24.18,reddit,indigenous_reddit_
+2022,indigenous,9815,37.92,47.35,14.72,tiktok,indigenous_tiktok_
+2011,european,4677,27.17,25.37,47.46,tiktok,european_tiktok_
+2011,hispanic,17083,18.59,48.39,33.03,reddit,hispanic_reddit_
+2019,middle eastern,17090,27.31,29.99,42.7,youtube,middle eastern_youtube_
+2024,african,2357,31.77,48.09,20.13,linkedin,african_linkedin_
+2006,african,14664,16.31,41.97,41.72,facebook,african_facebook_
+2020,european,1703,10.47,31.34,58.2,tiktok,european_tiktok_
+2014,african,15266,36.54,26.19,37.27,youtube,african_youtube_
+2014,asian,17398,59.88,41.75,-1.63,youtube,asian_youtube_
+2022,asian,12364,57.37,26.55,16.08,reddit,asian_reddit_
+2017,asian,17697,39.99,36.24,23.77,twitter,asian_twitter_
+2018,hispanic,14376,23,38.67,38.32,youtube,hispanic_youtube_
+2018,european,13581,59.86,47.13,-6.99,tiktok,european_tiktok_
+2023,hispanic,12211,11.32,45.63,43.05,youtube,hispanic_youtube_
+2018,middle eastern,6062,45.52,40.95,13.53,reddit,middle eastern_reddit_
+2007,asian,3562,45.52,43.89,10.59,reddit,asian_reddit_
+2014,hispanic,6834,33.27,23.61,43.11,twitter,hispanic_twitter_
+2014,african,10704,46.9,22.34,30.76,instagram,african_instagram_
+2018,european,4294,35.89,30.19,33.93,twitter,european_twitter_
+2019,asian,14555,35.6,41.99,22.41,youtube,asian_youtube_
+2013,asian,5621,26.06,47.32,26.62,youtube,asian_youtube_
+2022,middle eastern,10383,16.18,28.21,55.61,instagram,middle eastern_instagram_
+2022,hispanic,15457,46.53,22.22,31.26,linkedin,hispanic_linkedin_
+2020,hispanic,12503,39.16,45.17,15.67,linkedin,hispanic_linkedin_
+2016,asian,17688,28.02,28.82,43.17,reddit,asian_reddit_
+2013,middle eastern,15891,17.12,30.19,52.7,youtube,middle eastern_youtube_
+2007,middle eastern,17656,21.97,35.22,42.81,reddit,middle eastern_reddit_
+2008,african,14056,50.26,49.39,0.35,tiktok,african_tiktok_
+2007,asian,3893,29.55,42.09,28.36,linkedin,asian_linkedin_
+2022,european,14555,21.22,49.77,29.01,instagram,european_instagram_
+2008,european,17083,22.37,24.47,53.15,youtube,european_youtube_
+2022,middle eastern,6327,18.14,33.86,48,twitter,middle eastern_twitter_
+2020,indigenous,12489,33.96,33.29,32.75,reddit,indigenous_reddit_
+2016,european,3712,42.45,41.85,15.7,twitter,european_twitter_
+2018,african,12128,48.96,42.67,8.37,youtube,african_youtube_
+2004,middle eastern,19231,34.28,39.68,26.05,tiktok,middle eastern_tiktok_
+2018,middle eastern,18858,40.19,41.43,18.38,instagram,middle eastern_instagram_
+2008,hispanic,19614,13.09,21.63,65.28,facebook,hispanic_facebook_
+2008,hispanic,14179,58.66,31.18,10.17,linkedin,hispanic_linkedin_
+2021,middle eastern,12848,15.42,25.07,59.51,facebook,middle eastern_facebook_
+2013,european,13275,18.32,33.16,48.52,twitter,european_twitter_
+2007,european,1510,32.05,45.74,22.21,linkedin,european_linkedin_
+2018,european,12342,34.28,28.17,37.55,youtube,european_youtube_
+2012,middle eastern,17064,26.56,35.35,38.1,reddit,middle eastern_reddit_
+2023,asian,2293,35.85,30.92,33.22,facebook,asian_facebook_
+2007,african,8304,54.26,39.36,6.37,instagram,african_instagram_
+2020,middle eastern,3214,56.21,20.81,22.99,linkedin,middle eastern_linkedin_
+2006,hispanic,18732,29,33.24,37.76,tiktok,hispanic_tiktok_
+2008,asian,5841,56.86,39.59,3.55,instagram,asian_instagram_
+2014,asian,18607,44.78,35.61,19.61,facebook,asian_facebook_
+2007,hispanic,19830,48.63,26.42,24.95,reddit,hispanic_reddit_
+2005,hispanic,3660,21.13,34.51,44.36,facebook,hispanic_facebook_
+2006,european,16130,35.57,21.9,42.53,instagram,european_instagram_
+2024,indigenous,4473,17.85,41.4,40.75,twitter,indigenous_twitter_
+2005,hispanic,12756,45.65,33.92,20.43,twitter,hispanic_twitter_
+2005,indigenous,16855,32.02,26.05,41.93,twitter,indigenous_twitter_
+2006,asian,4017,12.12,29.44,58.44,youtube,asian_youtube_
+2010,european,7963,50,44.68,5.32,reddit,european_reddit_
+2014,european,9045,47.87,42.02,10.11,reddit,european_reddit_
+2004,hispanic,11323,58.06,30.35,11.6,tiktok,hispanic_tiktok_
+2020,middle eastern,6183,53.76,33.87,12.37,youtube,middle eastern_youtube_
+2009,middle eastern,10296,21.96,20.22,57.82,instagram,middle eastern_instagram_
+2008,middle eastern,13122,29.6,28.22,42.18,twitter,middle eastern_twitter_
+2009,indigenous,4170,14.31,37.55,48.14,linkedin,indigenous_linkedin_
+2008,hispanic,16476,16.13,21.67,62.19,instagram,hispanic_instagram_
+2020,european,5929,11.17,41.13,47.7,linkedin,european_linkedin_
+2005,hispanic,10224,54.61,49.61,-4.22,tiktok,hispanic_tiktok_
+2022,middle eastern,19690,10.57,48.13,41.3,linkedin,middle eastern_linkedin_
+2005,indigenous,5721,43.63,40.99,15.38,youtube,indigenous_youtube_
+2004,middle eastern,3618,19.74,24.11,56.15,tiktok,middle eastern_tiktok_
+2005,middle eastern,17333,17.14,36.98,45.89,tiktok,middle eastern_tiktok_
+2017,indigenous,11993,13.3,26.76,59.94,reddit,indigenous_reddit_
+2006,indigenous,14329,48.17,23.6,28.23,twitter,indigenous_twitter_
+2017,asian,11586,30.19,46.67,23.13,reddit,asian_reddit_
+2017,european,16460,56.89,24.19,18.92,linkedin,european_linkedin_
+2008,indigenous,3876,50.48,26.68,22.84,facebook,indigenous_facebook_
+2010,indigenous,1757,49.98,22.97,27.04,linkedin,indigenous_linkedin_
+2008,hispanic,8350,23.71,28.32,47.97,facebook,hispanic_facebook_
+2024,african,3632,37.28,38.04,24.67,facebook,african_facebook_
+2013,hispanic,13030,35.4,41.87,22.73,instagram,hispanic_instagram_
+2024,middle eastern,6558,46.16,44.33,9.51,instagram,middle eastern_instagram_
+2017,hispanic,6846,17.81,40.06,42.13,twitter,hispanic_twitter_
+2005,middle eastern,2310,50.96,26.67,22.37,instagram,middle eastern_instagram_
+2022,european,9928,23.8,25.45,50.75,reddit,european_reddit_
+2010,middle eastern,14303,59.77,34.27,5.96,youtube,middle eastern_youtube_
+2019,middle eastern,16261,34.26,31.74,34,instagram,middle eastern_instagram_
+2013,european,17133,30.04,21,48.96,facebook,european_facebook_
+2016,african,18199,39.93,32.28,27.79,reddit,african_reddit_
+2008,middle eastern,14251,28.32,39.17,32.51,facebook,middle eastern_facebook_
+2004,indigenous,19734,43.95,23.2,32.85,facebook,indigenous_facebook_
+2020,middle eastern,13318,17.43,26.62,55.94,twitter,middle eastern_twitter_
+2023,indigenous,9030,38.56,20.33,41.11,linkedin,indigenous_linkedin_
+2013,asian,14001,39.85,39.17,20.99,reddit,asian_reddit_
+2006,asian,18792,43.54,43.04,13.41,tiktok,asian_tiktok_
+2023,european,12987,12.14,28.67,59.19,reddit,european_reddit_
+2004,indigenous,8061,10.82,46.1,43.08,instagram,indigenous_instagram_
+2004,asian,1555,18.57,38.3,43.13,instagram,asian_instagram_
+2005,hispanic,16157,31.05,30.96,37.99,facebook,hispanic_facebook_
+2004,asian,14652,20.14,30.53,49.33,instagram,asian_instagram_
+2007,hispanic,10418,44.99,42.03,12.98,tiktok,hispanic_tiktok_
+2013,middle eastern,17402,18.35,49.93,31.72,instagram,middle eastern_instagram_
+2016,asian,17254,15.7,21.17,63.13,tiktok,asian_tiktok_
+2011,asian,17985,18.52,47.63,33.86,tiktok,asian_tiktok_
+2006,hispanic,18157,27.84,30.21,41.95,twitter,hispanic_twitter_
+2024,asian,12686,28.69,31.34,39.97,twitter,asian_twitter_
+2008,indigenous,6882,41.39,32.23,26.38,instagram,indigenous_instagram_
+2004,european,17539,21.12,26.3,52.58,youtube,european_youtube_
+2019,hispanic,13010,48.76,40.19,11.05,linkedin,hispanic_linkedin_
+2018,middle eastern,2892,41.42,37.08,21.5,linkedin,middle eastern_linkedin_
+2008,asian,18661,48.4,24.32,27.28,facebook,asian_facebook_
+2004,african,9125,48.97,48.86,2.18,linkedin,african_linkedin_
+2014,indigenous,18366,42.74,25.59,31.67,youtube,indigenous_youtube_
+2018,hispanic,2427,27.64,47.27,25.08,instagram,hispanic_instagram_
+2023,indigenous,9247,33.05,23,43.95,twitter,indigenous_twitter_
+2007,european,1908,34.55,41.65,23.8,facebook,european_facebook_
+2022,asian,13076,16.66,29.65,53.69,linkedin,asian_linkedin_
+2021,asian,15834,27.39,37.08,35.53,linkedin,asian_linkedin_
+2008,asian,5913,14.58,49.73,35.69,twitter,asian_twitter_
+2013,middle eastern,8260,17.31,26.52,56.17,tiktok,middle eastern_tiktok_
+2010,asian,3440,28.55,33.49,37.95,facebook,asian_facebook_
+2023,middle eastern,9379,51.35,25.29,23.35,instagram,middle eastern_instagram_
+2017,hispanic,7282,48.9,32.98,18.12,facebook,hispanic_facebook_
+2005,asian,14889,37,40.34,22.65,instagram,asian_instagram_
+2021,hispanic,14030,56.01,49.5,-5.51,instagram,hispanic_instagram_
+2012,asian,5230,31.03,45.6,23.37,facebook,asian_facebook_
+2018,hispanic,10183,13.71,27.51,58.78,youtube,hispanic_youtube_
+2009,african,8833,17.16,40.66,42.18,tiktok,african_tiktok_
+2014,asian,11251,23.84,21.37,54.78,facebook,asian_facebook_
+2022,indigenous,13714,46.58,32.52,20.9,twitter,indigenous_twitter_
+2024,indigenous,10567,27.49,47.2,25.3,linkedin,indigenous_linkedin_
+2004,african,18180,15.65,25.26,59.09,facebook,african_facebook_
+2018,african,15925,16.61,49.5,33.9,facebook,african_facebook_
+2008,asian,16241,49.97,43.66,6.37,reddit,asian_reddit_
+2020,african,6140,28.64,39.14,32.22,facebook,african_facebook_
+2004,african,2249,54.65,22.19,23.16,tiktok,african_tiktok_
+2022,hispanic,1729,57.36,24.57,18.07,linkedin,hispanic_linkedin_
+2018,middle eastern,4732,27.47,46.34,26.19,facebook,middle eastern_facebook_
+2013,african,6473,41.72,25.92,32.37,instagram,african_instagram_
+2014,african,9608,17.53,38.12,44.35,reddit,african_reddit_
+2012,african,16510,41.64,39.07,19.28,linkedin,african_linkedin_
+2014,african,13524,31.69,49.59,18.72,linkedin,african_linkedin_
+2022,middle eastern,15861,39.8,36.54,23.66,tiktok,middle eastern_tiktok_
+2024,indigenous,12950,56.93,45.29,-2.22,twitter,indigenous_twitter_
+2007,hispanic,18767,59.18,32.98,7.84,tiktok,hispanic_tiktok_
+2013,european,16420,35.58,43.03,21.38,youtube,european_youtube_
+2007,indigenous,2132,17.72,34.67,47.62,tiktok,indigenous_tiktok_
+2022,african,4226,14.63,48.44,36.93,youtube,african_youtube_
+2005,middle eastern,8631,38.99,49.87,11.14,reddit,middle eastern_reddit_
+2020,hispanic,12882,38.58,40.05,21.37,tiktok,hispanic_tiktok_
+2020,european,9300,58.99,46.57,-5.56,linkedin,european_linkedin_
+2006,hispanic,5247,38.73,35.81,25.47,youtube,hispanic_youtube_
+2020,hispanic,17303,11.81,45.26,42.93,instagram,hispanic_instagram_
+2010,indigenous,14484,21.26,46.77,31.97,youtube,indigenous_youtube_
+2007,asian,7446,35.49,42.02,22.49,twitter,asian_twitter_
+2014,hispanic,11418,41.93,42.24,15.83,reddit,hispanic_reddit_
+2020,african,9261,11.19,44.73,44.07,linkedin,african_linkedin_
+2016,asian,3972,52.41,25.1,22.48,linkedin,asian_linkedin_
+2004,middle eastern,16158,13.68,36.63,49.69,youtube,middle eastern_youtube_
+2021,african,1041,34.21,22.71,43.08,reddit,african_reddit_
+2005,middle eastern,11029,33.71,29.36,36.93,linkedin,middle eastern_linkedin_
+2006,middle eastern,14099,26.4,21.95,51.65,facebook,middle eastern_facebook_
+2020,middle eastern,2836,54.79,20.53,24.67,instagram,middle eastern_instagram_
+2006,european,2866,24.3,26.84,48.86,reddit,european_reddit_
+2005,asian,9350,59.9,21.12,18.98,tiktok,asian_tiktok_
+2004,african,2237,46.35,34.94,18.71,twitter,african_twitter_
+2015,asian,19371,53.64,40.1,6.26,facebook,asian_facebook_
+2005,asian,19693,35.69,25.65,38.66,linkedin,asian_linkedin_
+2005,indigenous,19151,56.68,22.2,21.12,instagram,indigenous_instagram_
+2015,african,3942,21.72,38.02,40.27,youtube,african_youtube_
+2016,european,8226,33.89,49.93,16.18,twitter,european_twitter_
+2023,european,11093,38.58,27,34.43,linkedin,european_linkedin_
+2019,asian,17585,54.4,42.38,3.22,linkedin,asian_linkedin_
+2024,indigenous,11208,41.66,23.37,34.97,instagram,indigenous_instagram_
+2018,african,3289,38.32,23.48,38.2,tiktok,african_tiktok_
+2005,middle eastern,8720,12.45,43.79,43.76,twitter,middle eastern_twitter_
+2019,hispanic,15132,37.7,34.41,27.89,linkedin,hispanic_linkedin_
+2013,european,4047,31.94,39.82,28.24,facebook,european_facebook_
+2022,middle eastern,14700,45.09,38.45,16.46,facebook,middle eastern_facebook_
+2016,european,8691,54.69,26.77,18.54,facebook,european_facebook_
+2005,hispanic,12435,17.16,32.67,50.16,tiktok,hispanic_tiktok_
+2009,middle eastern,5316,29.01,31.46,39.54,instagram,middle eastern_instagram_
+2017,middle eastern,4295,29.51,32.5,37.99,tiktok,middle eastern_tiktok_
+2023,asian,16161,49.15,48.07,2.79,facebook,asian_facebook_
+2016,african,17069,55.38,45.54,-0.92,youtube,african_youtube_
+2008,hispanic,18550,28.79,41.87,29.34,linkedin,hispanic_linkedin_
+2019,european,19439,48.05,28.83,23.13,youtube,european_youtube_
+2018,hispanic,10533,19.32,37.84,42.84,reddit,hispanic_reddit_
+2012,middle eastern,12920,26.42,47.13,26.46,facebook,middle eastern_facebook_
+2005,asian,7377,48.03,42.53,9.44,instagram,asian_instagram_
+2007,hispanic,14932,17.3,24.3,58.39,twitter,hispanic_twitter_
+2014,european,2259,59.91,35.98,4.11,youtube,european_youtube_
+2023,asian,4627,38.77,25.33,35.9,tiktok,asian_tiktok_
+2004,indigenous,2123,37.38,36.44,26.18,youtube,indigenous_youtube_
+2006,african,18209,39.84,35.18,24.98,reddit,african_reddit_
+2009,hispanic,14863,43.44,31.4,25.16,youtube,hispanic_youtube_
+2016,hispanic,12299,16.67,34.5,48.83,reddit,hispanic_reddit_
+2018,middle eastern,17450,41.94,39.37,18.69,linkedin,middle eastern_linkedin_
+2009,european,13117,26.41,32.78,40.81,linkedin,european_linkedin_
+2010,indigenous,18715,21.04,45.81,33.15,linkedin,indigenous_linkedin_
+2017,european,8791,45.14,23.08,31.78,tiktok,european_tiktok_
+2023,european,13033,41.2,23.99,34.81,tiktok,european_tiktok_
+2013,middle eastern,1432,46.23,40.26,13.51,youtube,middle eastern_youtube_
+2021,african,8177,17.1,39.53,43.37,tiktok,african_tiktok_
+2008,european,4405,47.87,37.19,14.95,twitter,european_twitter_
+2018,indigenous,15633,33.9,30.74,35.36,youtube,indigenous_youtube_
+2013,hispanic,9393,44.67,27.13,28.21,twitter,hispanic_twitter_
+2007,middle eastern,15617,59.2,39.99,0.81,facebook,middle eastern_facebook_
+2022,hispanic,6137,41.66,24.93,33.4,tiktok,hispanic_tiktok_
+2016,african,1253,39.27,21.45,39.28,tiktok,african_tiktok_
+2008,european,19201,26.42,34.41,39.17,twitter,european_twitter_
+2018,asian,18127,24.07,29.06,46.86,facebook,asian_facebook_
+2007,hispanic,15514,18.32,24.71,56.97,reddit,hispanic_reddit_
+2022,middle eastern,10194,38.69,30.02,31.29,reddit,middle eastern_reddit_
+2014,asian,13085,31.97,32.03,36,linkedin,asian_linkedin_
+2009,middle eastern,18124,12.34,26.12,61.53,facebook,middle eastern_facebook_
+2004,indigenous,6786,14.38,41.6,44.03,instagram,indigenous_instagram_
+2021,african,4252,55.12,34.33,10.55,instagram,african_instagram_
+2022,indigenous,15207,12.86,37.59,49.55,facebook,indigenous_facebook_
+2013,european,1709,49.84,23.73,26.43,facebook,european_facebook_
+2017,asian,19680,25.71,26.01,48.28,twitter,asian_twitter_
+2012,european,2140,28.02,33.5,38.49,reddit,european_reddit_
+2008,african,4346,42.33,22.95,34.72,youtube,african_youtube_
+2013,african,16961,20.11,21.84,58.05,facebook,african_facebook_
+2023,asian,3588,16.75,45.42,37.83,facebook,asian_facebook_
+2023,african,5490,45.05,27.39,27.55,reddit,african_reddit_
+2008,asian,2581,23.87,32.45,43.68,reddit,asian_reddit_
+2015,european,12604,37.04,22.72,40.25,tiktok,european_tiktok_
+2017,european,1856,59.35,40.29,0.36,linkedin,european_linkedin_
+2012,european,9571,39.74,47.36,12.9,twitter,european_twitter_
+2019,african,10645,46.7,31.86,21.44,linkedin,african_linkedin_
+2010,middle eastern,8749,46.09,27.15,26.76,facebook,middle eastern_facebook_
+2011,middle eastern,19019,23.58,46.02,30.4,youtube,middle eastern_youtube_
+2012,asian,3449,55.97,25.01,19.02,youtube,asian_youtube_
+2019,hispanic,19975,10.85,22.54,66.61,tiktok,hispanic_tiktok_
+2017,middle eastern,15938,43.07,47.75,9.18,facebook,middle eastern_facebook_
+2024,hispanic,4286,32.1,32.39,35.5,facebook,hispanic_facebook_
+2007,asian,2140,36.49,46.29,17.22,instagram,asian_instagram_
+2013,hispanic,5734,30.82,40.51,28.67,tiktok,hispanic_tiktok_
+2017,indigenous,9140,38.87,37.52,23.61,youtube,indigenous_youtube_
+2015,african,17832,23.89,28.47,47.64,instagram,african_instagram_
+2023,hispanic,9274,23.56,30.44,46,tiktok,hispanic_tiktok_
+2018,hispanic,18399,12,43.27,44.74,tiktok,hispanic_tiktok_
+2006,indigenous,17825,30.11,34.45,35.44,facebook,indigenous_facebook_
+2019,european,8841,46.05,44.43,9.52,tiktok,european_tiktok_
+2016,hispanic,3038,24.55,42.86,32.59,youtube,hispanic_youtube_
+2006,european,2967,37.33,41.56,21.11,reddit,european_reddit_
+2012,asian,6431,40.86,34.13,25.01,linkedin,asian_linkedin_
+2011,hispanic,8185,16.26,35.94,47.8,youtube,hispanic_youtube_
+2018,hispanic,9216,11.52,29.9,58.58,youtube,hispanic_youtube_
+2022,asian,14785,15.79,40.29,43.92,tiktok,asian_tiktok_
+2016,middle eastern,19387,32.04,25.91,42.05,twitter,middle eastern_twitter_
+2009,hispanic,18331,58.88,47.93,-6.8,youtube,hispanic_youtube_
+2019,middle eastern,11502,12.21,40.78,47.01,reddit,middle eastern_reddit_
+2020,african,10733,24.69,37.92,37.4,instagram,african_instagram_
+2004,asian,6030,20.09,49.15,30.76,youtube,asian_youtube_
+2013,european,10143,54.4,44.16,1.44,instagram,european_instagram_
+2005,asian,7807,31.29,21,47.7,instagram,asian_instagram_
+2005,hispanic,8775,20.74,27.81,51.45,facebook,hispanic_facebook_
+2010,european,6596,24.18,20.34,55.48,instagram,european_instagram_
+2006,african,14503,49.36,33.38,17.25,youtube,african_youtube_
+2019,european,13407,51.33,33.48,15.19,twitter,european_twitter_
+2014,hispanic,17701,38.47,40.47,21.06,instagram,hispanic_instagram_
+2007,african,3254,16.9,33.06,50.04,twitter,african_twitter_
+2019,middle eastern,5335,47.9,49.11,2.99,linkedin,middle eastern_linkedin_
+2014,indigenous,5373,25.95,27.69,46.37,reddit,indigenous_reddit_
+2013,middle eastern,13755,17.79,33.58,48.63,facebook,middle eastern_facebook_
+2006,hispanic,5451,25.74,31.63,42.64,reddit,hispanic_reddit_
+2024,asian,16959,59.85,37.34,2.82,twitter,asian_twitter_
+2012,middle eastern,9260,46.1,29.48,24.42,twitter,middle eastern_twitter_
+2006,asian,1515,11.43,31.47,57.1,twitter,asian_twitter_
+2009,asian,2805,47.29,26.29,26.42,instagram,asian_instagram_
+2014,middle eastern,8890,37.01,37.84,25.15,linkedin,middle eastern_linkedin_
+2017,indigenous,16282,17.85,23.88,58.28,facebook,indigenous_facebook_
+2014,indigenous,15136,21.22,39.12,39.65,facebook,indigenous_facebook_
+2004,european,15750,19.9,41.92,38.18,facebook,european_facebook_
+2010,african,14242,12.49,29.2,58.31,tiktok,african_tiktok_
+2020,middle eastern,8720,10.23,32.52,57.26,facebook,middle eastern_facebook_
+2023,hispanic,13562,42.15,30.89,26.96,youtube,hispanic_youtube_
+2014,middle eastern,3374,30.85,25,44.15,reddit,middle eastern_reddit_
+2015,middle eastern,4219,57.61,35,7.38,youtube,middle eastern_youtube_
+2010,middle eastern,9306,28.74,47.52,23.73,instagram,middle eastern_instagram_
+2010,european,6391,12.94,27.01,60.05,twitter,european_twitter_
+2018,indigenous,15948,13.59,45.57,40.84,linkedin,indigenous_linkedin_
+2019,middle eastern,4415,18.43,42.15,39.42,reddit,middle eastern_reddit_
+2004,hispanic,16794,29.85,40.47,29.68,linkedin,hispanic_linkedin_
+2019,african,16942,38.76,48.81,12.43,youtube,african_youtube_
+2020,asian,2406,45.65,43.39,10.96,facebook,asian_facebook_
+2023,european,18266,18.4,36.34,45.26,linkedin,european_linkedin_
+2019,hispanic,16504,30.23,39.67,30.1,linkedin,hispanic_linkedin_
+2024,hispanic,4366,56.62,43.72,-0.34,reddit,hispanic_reddit_
+2015,african,12846,33.8,25.13,41.08,reddit,african_reddit_
+2016,indigenous,8400,47.91,43.32,8.77,linkedin,indigenous_linkedin_
+2006,african,13139,51.59,37.56,10.85,instagram,african_instagram_
+2013,indigenous,2346,19.58,27.61,52.82,reddit,indigenous_reddit_
+2015,hispanic,9882,33.73,38.78,27.49,instagram,hispanic_instagram_
+2023,european,10223,54.25,32.89,12.86,instagram,european_instagram_
+2024,middle eastern,6062,42.11,28.5,29.39,youtube,middle eastern_youtube_
+2020,middle eastern,1088,22.07,41.38,36.55,youtube,middle eastern_youtube_
+2012,african,14450,37.91,40.78,21.31,youtube,african_youtube_
+2008,african,1789,29.66,44.1,26.25,linkedin,african_linkedin_
+2017,indigenous,6579,11.82,38.3,49.87,reddit,indigenous_reddit_
+2015,middle eastern,1472,47.43,20.93,31.64,tiktok,middle eastern_tiktok_
+2013,european,7828,33.37,41.01,25.62,reddit,european_reddit_
+2012,african,13410,59.23,20.05,20.73,twitter,african_twitter_
+2022,hispanic,13537,38.56,20.5,40.94,instagram,hispanic_instagram_
+2010,european,19857,48.51,34.73,16.76,facebook,european_facebook_
+2019,hispanic,19829,14.81,41.11,44.09,tiktok,hispanic_tiktok_
+2024,african,9468,45.32,31.46,23.22,linkedin,african_linkedin_
+2013,european,15550,45.52,25.9,28.58,youtube,european_youtube_
+2012,european,16936,48.85,40.95,10.2,twitter,european_twitter_
+2018,asian,4361,29.49,32.09,38.42,twitter,asian_twitter_
+2005,african,17201,37.75,34.95,27.31,tiktok,african_tiktok_
+2015,middle eastern,1710,21.75,23.29,54.95,facebook,middle eastern_facebook_
+2019,middle eastern,11445,58.16,23.9,17.94,tiktok,middle eastern_tiktok_
+2014,asian,14470,25.67,43.02,31.32,facebook,asian_facebook_
+2023,asian,3534,54.11,46.42,-0.54,reddit,asian_reddit_
+2010,indigenous,17310,14.23,33.44,52.33,linkedin,indigenous_linkedin_
+2005,indigenous,1824,15.44,23.54,61.03,tiktok,indigenous_tiktok_
+2008,asian,10987,48.87,42.42,8.71,reddit,asian_reddit_
+2016,hispanic,14721,39.19,21.81,39,facebook,hispanic_facebook_
+2016,hispanic,3248,50.77,43.61,5.62,reddit,hispanic_reddit_
+2020,indigenous,6791,49.46,24.96,25.59,tiktok,indigenous_tiktok_
+2011,indigenous,13014,55.41,30.88,13.71,tiktok,indigenous_tiktok_
+2016,indigenous,16316,16.32,28.64,55.04,youtube,indigenous_youtube_
+2012,indigenous,12067,53.08,29.27,17.65,twitter,indigenous_twitter_
+2016,african,3806,17.73,31.66,50.61,tiktok,african_tiktok_
+2014,hispanic,17780,37.91,39.06,23.03,reddit,hispanic_reddit_
+2021,european,15165,17.18,33.73,49.09,reddit,european_reddit_
+2021,african,16702,50.5,45.2,4.3,twitter,african_twitter_
+2013,hispanic,19841,57.31,27.16,15.54,youtube,hispanic_youtube_
+2008,middle eastern,1563,14.77,33.1,52.13,youtube,middle eastern_youtube_
+2006,african,2852,16.81,46.98,36.21,reddit,african_reddit_
+2018,indigenous,18662,18.16,46.46,35.38,linkedin,indigenous_linkedin_
+2005,hispanic,17362,56.87,38.24,4.9,tiktok,hispanic_tiktok_
+2020,asian,2926,55.89,41.57,2.54,facebook,asian_facebook_
+2010,european,1660,59.65,27.44,12.91,instagram,european_instagram_
+2006,european,12394,31.45,44.37,24.19,twitter,european_twitter_
+2011,middle eastern,9561,35.08,28.49,36.43,linkedin,middle eastern_linkedin_
+2019,middle eastern,16344,36.62,21.61,41.77,instagram,middle eastern_instagram_
+2023,african,4343,12.45,37.19,50.36,youtube,african_youtube_
+2005,indigenous,17480,54.71,41.25,4.04,twitter,indigenous_twitter_
+2015,european,2177,40.03,31.56,28.41,twitter,european_twitter_
+2015,indigenous,5012,45.45,42.66,11.9,instagram,indigenous_instagram_
+2004,middle eastern,9721,53.67,42.3,4.03,twitter,middle eastern_twitter_
+2006,asian,11484,55.59,34.83,9.58,linkedin,asian_linkedin_
+2009,asian,18688,16.86,29.28,53.86,linkedin,asian_linkedin_
+2016,indigenous,14398,59.53,37.31,3.16,reddit,indigenous_reddit_
+2010,african,5610,11.58,26.22,62.2,linkedin,african_linkedin_
+2011,asian,7908,35.12,26.65,38.23,linkedin,asian_linkedin_
+2016,asian,13175,35.47,33.56,30.97,instagram,asian_instagram_
+2005,middle eastern,18008,31.88,33.75,34.37,youtube,middle eastern_youtube_
+2009,asian,10447,13,36.66,50.34,linkedin,asian_linkedin_
+2004,asian,7617,27.79,28.67,43.54,facebook,asian_facebook_
+2006,asian,15637,23.2,49.89,26.92,reddit,asian_reddit_
+2017,indigenous,16640,37.21,28.57,34.22,facebook,indigenous_facebook_
+2009,african,10142,14.73,41.86,43.41,tiktok,african_tiktok_
+2018,european,15448,24.98,37.88,37.15,facebook,european_facebook_
+2013,european,13834,38.65,24.69,36.66,facebook,european_facebook_
+2008,indigenous,13263,17.33,43.37,39.3,twitter,indigenous_twitter_
+2022,asian,16284,30.14,31.58,38.28,reddit,asian_reddit_
+2007,hispanic,6788,36.81,42.53,20.66,instagram,hispanic_instagram_
+2015,hispanic,3520,41.73,30.72,27.56,linkedin,hispanic_linkedin_
+2019,middle eastern,17667,54.66,43.1,2.24,youtube,middle eastern_youtube_
+2007,european,10667,31.91,21.16,46.92,youtube,european_youtube_
+2005,african,6256,44.6,30.91,24.49,instagram,african_instagram_
+2005,middle eastern,14705,19.43,41.07,39.5,instagram,middle eastern_instagram_
+2020,middle eastern,15616,33.45,32.9,33.64,reddit,middle eastern_reddit_
+2011,indigenous,15698,34.86,25.44,39.71,youtube,indigenous_youtube_
+2018,african,17918,33.3,44.6,22.1,youtube,african_youtube_
+2015,european,14091,46.77,43.96,9.27,tiktok,european_tiktok_
+2023,european,8526,46.59,48.83,4.58,tiktok,european_tiktok_
+2004,indigenous,16426,22.77,23.87,53.36,reddit,indigenous_reddit_
+2005,asian,10451,42.83,26.56,30.6,reddit,asian_reddit_
+2013,middle eastern,7828,13.87,39.69,46.44,reddit,middle eastern_reddit_
+2011,european,14868,20.18,45.18,34.64,tiktok,european_tiktok_
+2017,european,10281,51.35,40.91,7.74,reddit,european_reddit_
+2015,middle eastern,17256,55.79,47.47,-3.26,tiktok,middle eastern_tiktok_
+2016,middle eastern,13018,53.35,28.46,18.18,facebook,middle eastern_facebook_
+2013,asian,19264,50.9,34.55,14.55,twitter,asian_twitter_
+2014,middle eastern,16007,30.57,27.87,41.56,tiktok,middle eastern_tiktok_
+2016,middle eastern,14488,12.31,21.44,66.25,twitter,middle eastern_twitter_
+2004,indigenous,2017,43.6,26.19,30.22,instagram,indigenous_instagram_
+2013,african,9892,20.96,26.54,52.5,instagram,african_instagram_
+2017,middle eastern,11147,54.78,33.47,11.75,facebook,middle eastern_facebook_
+2004,african,8541,49.53,45.77,4.71,youtube,african_youtube_
+2015,european,14821,19.09,41.35,39.56,instagram,european_instagram_
+2004,asian,3221,24.56,25.65,49.79,facebook,asian_facebook_
+2014,european,5165,52.99,40.5,6.5,reddit,european_reddit_
+2013,middle eastern,12248,44.88,39.97,15.15,tiktok,middle eastern_tiktok_
+2024,african,12415,14.83,40.53,44.64,linkedin,african_linkedin_
+2004,asian,13845,17.92,27,55.08,instagram,asian_instagram_
+2005,european,2449,27.31,25.72,46.98,facebook,european_facebook_
+2024,european,15941,53.05,29.37,17.58,reddit,european_reddit_
+2020,african,13978,30.87,34.37,34.76,instagram,african_instagram_
+2016,african,2809,30.07,35.44,34.49,reddit,african_reddit_
+2018,indigenous,12811,57.05,36.19,6.76,twitter,indigenous_twitter_
+2017,european,13853,52.59,21.51,25.89,tiktok,european_tiktok_
+2024,african,4729,27.3,47.41,25.29,twitter,african_twitter_
+2007,asian,18235,57.55,25.34,17.11,linkedin,asian_linkedin_
+2007,asian,4127,52.22,48.48,-0.7,instagram,asian_instagram_
+2024,asian,4689,33.66,26.31,40.02,facebook,asian_facebook_
+2006,hispanic,6784,23.04,24.9,52.06,youtube,hispanic_youtube_
+2004,asian,16480,59.28,37.81,2.91,linkedin,asian_linkedin_
+2014,indigenous,14730,17.14,29.87,53,linkedin,indigenous_linkedin_
+2015,middle eastern,19154,54.81,29.89,15.29,instagram,middle eastern_instagram_
+2013,african,12173,17.96,33.18,48.86,instagram,african_instagram_
+2015,european,9240,58.69,37.89,3.42,instagram,european_instagram_
+2012,hispanic,2098,56.21,27.46,16.33,linkedin,hispanic_linkedin_
+2005,hispanic,4163,41.9,39.51,18.59,tiktok,hispanic_tiktok_
+2020,middle eastern,1453,30.98,36.51,32.51,linkedin,middle eastern_linkedin_
+2008,european,11319,10.75,38.32,50.93,facebook,european_facebook_
+2020,asian,9724,40.86,45.36,13.77,facebook,asian_facebook_
+2022,middle eastern,6015,12.41,33.2,54.39,linkedin,middle eastern_linkedin_
+2023,indigenous,1403,41.84,47.68,10.47,reddit,indigenous_reddit_
+2004,european,17207,38.55,47.23,14.23,youtube,european_youtube_
+2024,middle eastern,18541,25.54,45.06,29.4,facebook,middle eastern_facebook_
+2012,european,17513,39.25,45.82,14.94,reddit,european_reddit_
+2018,hispanic,13835,12.91,31.09,55.99,linkedin,hispanic_linkedin_
+2023,middle eastern,2444,40.77,42.66,16.57,facebook,middle eastern_facebook_
+2006,middle eastern,19432,24.14,37.63,38.23,youtube,middle eastern_youtube_
+2010,indigenous,13815,21,42.99,36.01,youtube,indigenous_youtube_
+2018,european,9277,16.83,27.69,55.48,instagram,european_instagram_
+2017,hispanic,18725,56.84,44.29,-1.12,facebook,hispanic_facebook_
+2017,european,2296,29.73,46.8,23.47,facebook,european_facebook_
+2021,hispanic,5888,57.73,29.22,13.06,instagram,hispanic_instagram_
+2012,middle eastern,3345,18.74,25.16,56.1,linkedin,middle eastern_linkedin_
+2018,asian,3473,41.7,28.07,30.22,facebook,asian_facebook_
+2012,asian,15120,17.61,34.61,47.78,facebook,asian_facebook_
+2013,indigenous,11340,29.74,42.27,27.99,tiktok,indigenous_tiktok_
+2008,asian,14568,20.91,46.48,32.61,facebook,asian_facebook_
+2006,african,13674,52.5,49.47,-1.96,twitter,african_twitter_
+2012,european,18726,30.39,27.34,42.26,reddit,european_reddit_
+2008,indigenous,16047,32.77,45.55,21.68,instagram,indigenous_instagram_
+2022,european,11560,50.41,37.81,11.77,linkedin,european_linkedin_
+2005,african,7408,29.4,28.31,42.29,facebook,african_facebook_
+2017,hispanic,17762,54.2,45.27,0.53,youtube,hispanic_youtube_
+2011,african,14152,45.9,21.74,32.36,youtube,african_youtube_
+2015,african,14846,10.85,48.67,40.48,facebook,african_facebook_
+2020,indigenous,1557,22.4,38.08,39.52,tiktok,indigenous_tiktok_
+2012,indigenous,8073,52.25,48.33,-0.58,instagram,indigenous_instagram_
+2023,middle eastern,4674,23.8,28.21,47.99,twitter,middle eastern_twitter_
+2019,european,7560,30.94,31.11,37.95,facebook,european_facebook_
+2012,middle eastern,19126,16.02,36.71,47.27,facebook,middle eastern_facebook_
+2013,hispanic,9219,10.58,27.31,62.12,linkedin,hispanic_linkedin_
+2016,european,3531,23.34,23.53,53.13,instagram,european_instagram_
+2021,african,19136,23.96,28.66,47.38,twitter,african_twitter_
+2011,indigenous,5850,49.03,47.04,3.93,facebook,indigenous_facebook_
+2008,indigenous,11549,51.07,49.86,-0.93,linkedin,indigenous_linkedin_
+2005,european,15169,26.23,26.31,47.46,linkedin,european_linkedin_
+2021,asian,8688,31.57,25.36,43.07,reddit,asian_reddit_
+2005,middle eastern,8394,42.7,47.72,9.58,instagram,middle eastern_instagram_
+2014,middle eastern,12463,54.94,26.9,18.15,linkedin,middle eastern_linkedin_
+2006,middle eastern,14602,58.18,41.81,0.01,youtube,middle eastern_youtube_
+2018,african,5593,59.32,39.84,0.84,twitter,african_twitter_
+2010,asian,5071,12.93,38.69,48.38,twitter,asian_twitter_
+2007,european,7748,29.88,30.14,39.98,youtube,european_youtube_
+2004,african,7698,28.47,31.55,39.98,twitter,african_twitter_
+2007,european,4975,56.81,36.56,6.62,instagram,european_instagram_
+2013,indigenous,17324,12.86,33.89,53.25,reddit,indigenous_reddit_
+2007,indigenous,9407,30.09,29.64,40.27,facebook,indigenous_facebook_
+2007,indigenous,12886,20.9,36.57,42.53,twitter,indigenous_twitter_
+2022,indigenous,1570,49.75,30.49,19.76,facebook,indigenous_facebook_
+2018,african,8805,10.77,44.43,44.81,facebook,african_facebook_
+2016,asian,18412,23.19,47.55,29.26,instagram,asian_instagram_
+2021,asian,3057,31.03,35.04,33.93,youtube,asian_youtube_
+2014,hispanic,12992,39.86,35.42,24.72,linkedin,hispanic_linkedin_
+2010,middle eastern,1349,15.23,35.99,48.77,reddit,middle eastern_reddit_
+2005,european,12572,13.36,31.84,54.8,reddit,european_reddit_
+2010,indigenous,14421,11.51,28.01,60.48,tiktok,indigenous_tiktok_
+2016,asian,8485,10.05,38.85,51.1,reddit,asian_reddit_
+2012,asian,11834,39.03,24.41,36.56,youtube,asian_youtube_
+2013,indigenous,19644,44.14,48.74,7.11,instagram,indigenous_instagram_
+2008,european,2632,25.42,26.98,47.6,instagram,european_instagram_
+2019,european,3836,41.37,21.01,37.62,reddit,european_reddit_
+2010,hispanic,14112,20.8,38.14,41.06,reddit,hispanic_reddit_
+2004,hispanic,4078,53.35,45.63,1.02,facebook,hispanic_facebook_
+2008,european,16661,41.44,33.86,24.7,youtube,european_youtube_
+2022,european,18801,10.47,42.85,46.68,facebook,european_facebook_
+2006,european,13899,19.14,42.22,38.63,reddit,european_reddit_
+2014,asian,4508,23.69,48.92,27.39,youtube,asian_youtube_
+2008,hispanic,11059,38.54,42.29,19.17,facebook,hispanic_facebook_
+2005,hispanic,8220,38.54,29.97,31.49,instagram,hispanic_instagram_
+2013,hispanic,11953,54.24,27.88,17.88,youtube,hispanic_youtube_
+2010,european,11040,59.6,41,-0.6,facebook,european_facebook_
+2014,european,7602,46.03,27.53,26.44,facebook,european_facebook_
+2005,indigenous,12845,29.45,33,37.55,reddit,indigenous_reddit_
+2006,indigenous,3543,24.2,27.52,48.28,twitter,indigenous_twitter_
+2018,indigenous,9848,33.05,36.61,30.34,reddit,indigenous_reddit_
+2021,indigenous,8645,39.43,24.38,36.19,tiktok,indigenous_tiktok_
+2009,indigenous,18567,23.69,36.45,39.86,instagram,indigenous_instagram_
+2012,indigenous,19416,22.17,45.69,32.15,linkedin,indigenous_linkedin_
+2008,indigenous,19499,55.62,49.94,-5.56,instagram,indigenous_instagram_
+2004,asian,9259,35.96,45.41,18.63,youtube,asian_youtube_
+2021,asian,7484,11.65,42.7,45.65,linkedin,asian_linkedin_
+2005,middle eastern,12690,54.44,29.44,16.12,facebook,middle eastern_facebook_
+2013,indigenous,7959,10.16,39.06,50.78,reddit,indigenous_reddit_
+2011,african,6613,15.67,45.57,38.76,youtube,african_youtube_
+2014,hispanic,5644,17.3,43.83,38.86,linkedin,hispanic_linkedin_
+2008,hispanic,7148,51.61,35.6,12.8,twitter,hispanic_twitter_
+2019,hispanic,17213,31.35,44.2,24.45,linkedin,hispanic_linkedin_
+2009,african,5322,25.61,28.18,46.21,twitter,african_twitter_
+2019,hispanic,10553,29.29,44.58,26.14,instagram,hispanic_instagram_
+2022,middle eastern,17348,32.15,49.47,18.38,youtube,middle eastern_youtube_
+2007,european,9366,39.47,49.09,11.43,facebook,european_facebook_
+2018,indigenous,19020,47.26,42.14,10.6,youtube,indigenous_youtube_
+2024,middle eastern,15546,49.45,24.69,25.86,reddit,middle eastern_reddit_
+2011,middle eastern,9282,29.88,29.14,40.98,instagram,middle eastern_instagram_
+2007,indigenous,18028,28.94,29.85,41.22,youtube,indigenous_youtube_
+2023,european,1376,31.5,27.59,40.91,reddit,european_reddit_
+2021,indigenous,11500,40.59,30.52,28.89,tiktok,indigenous_tiktok_
+2012,indigenous,14579,59.08,32.4,8.53,tiktok,indigenous_tiktok_
+2018,african,18641,18.16,44.65,37.19,instagram,african_instagram_
+2012,asian,10792,23.47,48.61,27.91,reddit,asian_reddit_
+2009,african,15198,50.77,39.35,9.89,twitter,african_twitter_
+2018,middle eastern,4048,42.7,26.8,30.49,twitter,middle eastern_twitter_
+2016,indigenous,11425,54.86,20.19,24.94,instagram,indigenous_instagram_
+2023,hispanic,17742,31.64,44.5,23.86,twitter,hispanic_twitter_
+2023,european,3977,20.48,42.17,37.35,reddit,european_reddit_
+2004,european,4603,14.45,25.45,60.1,twitter,european_twitter_
+2024,hispanic,12464,42.03,25.09,32.88,instagram,hispanic_instagram_
+2022,hispanic,18059,49.22,47.76,3.02,linkedin,hispanic_linkedin_
+2018,european,9968,31.09,28.4,40.51,tiktok,european_tiktok_
+2022,african,18078,34.01,35.62,30.37,facebook,african_facebook_
+2009,middle eastern,5759,25.16,30.92,43.92,reddit,middle eastern_reddit_
+2019,indigenous,3132,37.05,43.88,19.07,youtube,indigenous_youtube_
+2011,indigenous,15434,10.8,38.13,51.06,twitter,indigenous_twitter_
+2018,african,12725,54.68,40.05,5.27,linkedin,african_linkedin_
+2004,asian,1658,16.3,41.74,41.96,reddit,asian_reddit_
+2017,hispanic,18667,10.86,24.09,65.06,twitter,hispanic_twitter_
+2024,indigenous,10188,10.23,42.39,47.39,tiktok,indigenous_tiktok_
+2014,middle eastern,19666,56.72,45.59,-2.31,linkedin,middle eastern_linkedin_
+2021,hispanic,9250,22.5,21.72,55.78,youtube,hispanic_youtube_
+2010,hispanic,10290,31.27,37.9,30.83,linkedin,hispanic_linkedin_
+2016,asian,14324,17.85,22.95,59.2,instagram,asian_instagram_
+2018,hispanic,11583,55.2,24.59,20.21,youtube,hispanic_youtube_
+2021,indigenous,11418,18.79,33.12,48.09,linkedin,indigenous_linkedin_
+2014,european,1951,37.4,26.94,35.66,youtube,european_youtube_
+2023,european,7417,37.4,40.15,22.45,twitter,european_twitter_
+2005,african,17824,40.38,22.28,37.34,linkedin,african_linkedin_
+2014,asian,5611,59.4,38.58,2.02,facebook,asian_facebook_
+2010,hispanic,8803,17.74,28.03,54.23,reddit,hispanic_reddit_
+2017,hispanic,3201,10.03,34.73,55.25,twitter,hispanic_twitter_
+2023,middle eastern,1794,36.36,45.35,18.29,facebook,middle eastern_facebook_
+2007,asian,13198,55.51,33.85,10.64,reddit,asian_reddit_
+2024,indigenous,14391,50.11,36.73,13.16,linkedin,indigenous_linkedin_
+2021,indigenous,13315,54.95,21.07,23.98,youtube,indigenous_youtube_
+2018,african,1558,53.5,23.71,22.79,twitter,african_twitter_
+2005,asian,8606,49.84,34.69,15.46,reddit,asian_reddit_
+2021,african,13284,17.65,29.46,52.89,tiktok,african_tiktok_
+2020,middle eastern,5949,30.56,43.33,26.11,instagram,middle eastern_instagram_
+2014,african,7452,50.46,29.78,19.76,twitter,african_twitter_
+2017,indigenous,15813,32.03,41.76,26.21,twitter,indigenous_twitter_
+2017,hispanic,4979,47.25,27.92,24.83,linkedin,hispanic_linkedin_
+2024,middle eastern,1340,55.04,26.98,17.97,youtube,middle eastern_youtube_
+2022,indigenous,8795,27.7,39.97,32.34,twitter,indigenous_twitter_
+2016,hispanic,13504,47.25,37.92,14.84,facebook,hispanic_facebook_
+2011,african,13137,33.16,26.29,40.54,twitter,african_twitter_
+2008,european,15731,51.92,25.42,22.66,tiktok,european_tiktok_
+2005,asian,7096,23.07,48.63,28.3,facebook,asian_facebook_
+2013,hispanic,19350,26.28,28.64,45.09,reddit,hispanic_reddit_
+2018,african,5937,11.46,49.92,38.61,reddit,african_reddit_
+2005,european,1407,10.88,24.42,64.7,twitter,european_twitter_
+2022,european,11277,19.66,21.08,59.26,facebook,european_facebook_
+2019,middle eastern,15686,22,32.92,45.07,twitter,middle eastern_twitter_
+2021,asian,15480,15.47,37.05,47.48,facebook,asian_facebook_
+2004,indigenous,12332,12.19,23.45,64.35,tiktok,indigenous_tiktok_
+2024,middle eastern,10324,56.79,23.28,19.93,facebook,middle eastern_facebook_
+2019,european,17127,27.37,27.39,45.24,tiktok,european_tiktok_
+2012,african,2766,14.84,48.72,36.44,twitter,african_twitter_
+2016,african,6503,42.73,27.35,29.91,twitter,african_twitter_
+2013,indigenous,2182,13.71,36.96,49.33,reddit,indigenous_reddit_
+2017,hispanic,11669,57.61,21.17,21.21,linkedin,hispanic_linkedin_
+2018,european,14317,23.37,21.62,55.01,youtube,european_youtube_
+2024,hispanic,5930,37.88,35.05,27.08,youtube,hispanic_youtube_
+2019,african,11418,33.3,49.73,16.97,youtube,african_youtube_
+2021,african,18540,49.08,46.09,4.83,linkedin,african_linkedin_
+2021,middle eastern,10434,57.05,48.6,-5.64,instagram,middle eastern_instagram_
+2010,asian,1772,36.14,44.54,19.32,reddit,asian_reddit_
+2020,african,12526,41.45,42.54,16.01,reddit,african_reddit_
+2024,asian,2444,36.62,33.39,29.99,linkedin,asian_linkedin_
+2005,european,11671,39.92,38.27,21.8,reddit,european_reddit_
+2018,hispanic,12308,14.5,20.66,64.85,twitter,hispanic_twitter_
+2013,middle eastern,18500,32.2,27.52,40.28,tiktok,middle eastern_tiktok_
+2010,african,19941,14.44,48.76,36.8,linkedin,african_linkedin_
+2010,hispanic,2940,37.08,46.26,16.65,tiktok,hispanic_tiktok_
+2019,hispanic,19638,43.07,26.29,30.64,tiktok,hispanic_tiktok_
+2010,middle eastern,19129,54.91,38.74,6.35,facebook,middle eastern_facebook_
+2015,middle eastern,19017,13,47.64,39.35,facebook,middle eastern_facebook_
+2006,indigenous,14054,46.04,47.53,6.43,youtube,indigenous_youtube_
+2018,middle eastern,9074,50.32,40.85,8.84,tiktok,middle eastern_tiktok_
+2018,middle eastern,7727,53.17,41.65,5.17,twitter,middle eastern_twitter_
+2009,asian,12331,21.11,25.57,53.32,facebook,asian_facebook_
+2005,african,14190,14.97,48.4,36.63,twitter,african_twitter_
+2015,asian,12022,24.23,26.8,48.97,linkedin,asian_linkedin_
+2008,middle eastern,16042,50.24,40.37,9.39,facebook,middle eastern_facebook_
+2024,indigenous,17282,32.83,47.7,19.47,instagram,indigenous_instagram_
+2015,indigenous,2771,32.86,30.07,37.07,reddit,indigenous_reddit_
+2021,african,13855,50.35,40.33,9.32,youtube,african_youtube_
+2020,indigenous,11104,21.01,39.18,39.81,twitter,indigenous_twitter_
+2023,middle eastern,11035,58.52,45.72,-4.24,facebook,middle eastern_facebook_
+2022,middle eastern,3705,41.67,35,23.32,reddit,middle eastern_reddit_
+2015,asian,5492,20.7,28.44,50.86,facebook,asian_facebook_
+2007,african,6678,37.64,40.07,22.3,reddit,african_reddit_
+2008,hispanic,18218,50.14,48.56,1.3,youtube,hispanic_youtube_
+2020,middle eastern,2081,36.57,25.53,37.9,youtube,middle eastern_youtube_
+2019,middle eastern,9707,38,38.19,23.81,youtube,middle eastern_youtube_
+2008,middle eastern,11577,15.74,32.93,51.33,reddit,middle eastern_reddit_
+2012,african,4894,57.39,41.6,1.01,twitter,african_twitter_
+2022,african,19998,59.27,47.15,-6.41,instagram,african_instagram_
+2010,hispanic,7995,10.25,43.8,45.96,facebook,hispanic_facebook_
+2014,indigenous,11189,44.52,41.26,14.22,reddit,indigenous_reddit_
+2018,indigenous,7729,17.51,38.47,44.02,tiktok,indigenous_tiktok_
+2021,middle eastern,11890,35.74,34.89,29.37,youtube,middle eastern_youtube_
+2011,middle eastern,2976,19.82,34.1,46.07,youtube,middle eastern_youtube_
+2016,european,2421,18.95,23.03,58.02,twitter,european_twitter_
+2017,asian,5242,36.2,28.4,35.4,twitter,asian_twitter_
+2004,hispanic,3335,57.69,47,-4.69,reddit,hispanic_reddit_
+2007,european,8986,59.19,43.49,-2.68,youtube,european_youtube_
+2009,middle eastern,2050,14.04,44.69,41.27,twitter,middle eastern_twitter_
+2004,indigenous,14247,16.28,20.42,63.3,youtube,indigenous_youtube_
+2021,middle eastern,8726,17.83,20.73,61.43,linkedin,middle eastern_linkedin_
+2010,african,7312,45.1,40.02,14.87,instagram,african_instagram_
+2014,asian,5863,18.94,49.87,31.19,youtube,asian_youtube_
+2021,middle eastern,11626,59.27,28.87,11.87,linkedin,middle eastern_linkedin_
+2024,hispanic,13571,58.28,33.75,7.96,reddit,hispanic_reddit_
+2016,european,16515,19.85,39.85,40.29,tiktok,european_tiktok_
+2024,middle eastern,10772,52.31,26.22,21.47,facebook,middle eastern_facebook_
+2013,african,13276,19.68,32.17,48.15,tiktok,african_tiktok_
+2004,hispanic,15470,37.69,48.87,13.44,tiktok,hispanic_tiktok_
+2013,asian,17467,47.97,35.08,16.95,youtube,asian_youtube_
+2015,asian,2445,27.95,28.86,43.19,twitter,asian_twitter_
+2019,asian,10676,41.98,23.91,34.12,tiktok,asian_tiktok_
+2022,middle eastern,1636,17.38,44.49,38.13,twitter,middle eastern_twitter_
+2004,asian,13449,51.33,33.74,14.92,facebook,asian_facebook_
+2016,hispanic,17619,40.55,24.82,34.62,tiktok,hispanic_tiktok_
+2014,european,14421,19.28,47.76,32.96,facebook,european_facebook_
+2022,hispanic,14884,24.46,26.07,49.47,youtube,hispanic_youtube_
+2006,asian,5417,49.93,20.21,29.86,youtube,asian_youtube_
+2005,african,5182,46.42,27.34,26.24,reddit,african_reddit_
+2013,indigenous,4083,42.56,47.32,10.12,reddit,indigenous_reddit_
+2020,middle eastern,11821,51.32,47.11,1.56,facebook,middle eastern_facebook_
+2005,asian,9848,27.78,39.26,32.96,twitter,asian_twitter_
+2014,european,9905,54.53,23.92,21.55,instagram,european_instagram_
+2011,african,4139,55.58,39.68,4.75,instagram,african_instagram_
+2010,african,5934,46.67,42.57,10.76,twitter,african_twitter_
+2006,indigenous,9674,54.34,45.73,-0.07,linkedin,indigenous_linkedin_
+2016,middle eastern,1605,32.84,20.14,47.02,tiktok,middle eastern_tiktok_
+2014,middle eastern,2629,20.2,32.1,47.7,reddit,middle eastern_reddit_
+2011,middle eastern,17233,14.46,21.13,64.4,youtube,middle eastern_youtube_
+2011,european,9705,59.44,21.64,18.92,instagram,european_instagram_
+2010,european,16603,41.55,41.86,16.59,twitter,european_twitter_
+2004,middle eastern,15972,25.89,22.89,51.22,youtube,middle eastern_youtube_
+2024,asian,6852,48.41,35.25,16.33,twitter,asian_twitter_
+2019,african,15468,32.74,48.47,18.79,youtube,african_youtube_
+2014,indigenous,5722,21.12,26.42,52.46,reddit,indigenous_reddit_
+2014,indigenous,8986,52.06,26.63,21.31,twitter,indigenous_twitter_
+2017,european,15157,49.54,41.57,8.89,youtube,european_youtube_
+2020,asian,7529,48.05,31.16,20.78,linkedin,asian_linkedin_
+2013,indigenous,6626,35.17,33.95,30.88,instagram,indigenous_instagram_
+2010,hispanic,10213,50.23,40.48,9.29,twitter,hispanic_twitter_
+2020,hispanic,7886,59.33,35.1,5.57,tiktok,hispanic_tiktok_
+2006,asian,1537,17.36,31.5,51.13,facebook,asian_facebook_
+2024,african,1259,52.97,34.27,12.76,instagram,african_instagram_
+2006,hispanic,18031,11.6,38.39,50.01,tiktok,hispanic_tiktok_
+2005,asian,2787,19.64,25.43,54.93,facebook,asian_facebook_
+2009,hispanic,4352,16.1,31.54,52.37,tiktok,hispanic_tiktok_
+2009,european,7553,11.34,35.1,53.56,twitter,european_twitter_
+2012,european,2119,58.71,24.99,16.29,tiktok,european_tiktok_
+2020,indigenous,7063,11.87,26.74,61.39,twitter,indigenous_twitter_
+2021,hispanic,17116,14.25,42.03,43.72,reddit,hispanic_reddit_
+2019,european,18597,13.1,43.55,43.35,twitter,european_twitter_
+2005,indigenous,13548,43.08,33.86,23.06,linkedin,indigenous_linkedin_
+2008,european,16462,41.2,30.47,28.34,youtube,european_youtube_
+2018,african,4036,19.42,22.34,58.24,facebook,african_facebook_
+2016,indigenous,19374,11.38,40.02,48.6,reddit,indigenous_reddit_
+2015,indigenous,18807,23.56,28.03,48.41,instagram,indigenous_instagram_
+2004,african,11318,45.58,40.07,14.35,instagram,african_instagram_
+2022,hispanic,13945,56.89,48.19,-5.08,twitter,hispanic_twitter_
+2006,hispanic,1558,59.77,39,1.24,reddit,hispanic_reddit_
+2018,european,8326,24.22,30.1,45.68,instagram,european_instagram_
+2009,asian,4026,44.23,36.03,19.74,facebook,asian_facebook_
+2015,indigenous,1302,29.01,46.39,24.6,facebook,indigenous_facebook_
+2019,asian,16152,13.41,46.9,39.68,linkedin,asian_linkedin_
+2010,european,8846,11.84,42.46,45.7,instagram,european_instagram_
+2017,middle eastern,18213,40.94,34.92,24.14,youtube,middle eastern_youtube_
+2012,hispanic,13081,30.27,22.28,47.45,youtube,hispanic_youtube_
+2019,european,5321,37.82,39.31,22.87,twitter,european_twitter_
+2008,asian,9943,14.17,45.63,40.2,facebook,asian_facebook_
+2021,african,9108,33.28,23.86,42.86,tiktok,african_tiktok_
+2019,african,3792,14.17,30.39,55.44,instagram,african_instagram_
+2004,hispanic,4324,50.69,25.45,23.87,linkedin,hispanic_linkedin_
+2012,asian,11510,15.1,49.08,35.82,tiktok,asian_tiktok_
+2012,indigenous,5713,49.97,46.39,3.64,reddit,indigenous_reddit_
+2017,middle eastern,14928,35.36,21.84,42.79,facebook,middle eastern_facebook_
+2013,european,3686,37.65,32.25,30.11,tiktok,european_tiktok_
+2014,african,5799,48.08,32.67,19.26,tiktok,african_tiktok_
+2024,middle eastern,4592,28.85,42.69,28.46,reddit,middle eastern_reddit_
+2012,indigenous,9978,40.84,21.9,37.26,linkedin,indigenous_linkedin_
+2006,hispanic,13058,14.28,22.47,63.25,linkedin,hispanic_linkedin_
+2024,indigenous,16211,30.08,34.46,35.46,linkedin,indigenous_linkedin_
+2010,middle eastern,10503,48.26,36.75,14.99,facebook,middle eastern_facebook_
+2019,middle eastern,12307,19.59,28.62,51.79,tiktok,middle eastern_tiktok_
+2023,african,2918,25.92,22.65,51.43,reddit,african_reddit_
+2016,african,17495,33.27,31.92,34.81,facebook,african_facebook_
+2007,middle eastern,7592,15.79,29.5,54.72,twitter,middle eastern_twitter_
+2016,middle eastern,8177,32.72,27.77,39.51,tiktok,middle eastern_tiktok_
+2007,asian,7885,14.36,41.91,43.73,tiktok,asian_tiktok_
+2015,asian,7802,33.24,34.09,32.68,reddit,asian_reddit_
+2016,middle eastern,7580,45.2,29.26,25.54,twitter,middle eastern_twitter_
+2021,asian,15547,33.52,22.1,44.37,facebook,asian_facebook_
+2006,indigenous,10230,25.65,39.09,35.26,youtube,indigenous_youtube_
+2011,asian,9934,49.47,40.27,10.25,youtube,asian_youtube_
+2018,african,7004,45.4,23.99,30.61,twitter,african_twitter_
+2017,middle eastern,4380,28.86,43.82,27.32,twitter,middle eastern_twitter_
+2021,indigenous,1800,39.19,49.01,11.8,reddit,indigenous_reddit_
+2020,indigenous,16456,47.55,27.93,24.52,instagram,indigenous_instagram_
+2016,european,3222,16.48,26.63,56.89,instagram,european_instagram_
+2011,indigenous,13792,54.51,24.62,20.87,tiktok,indigenous_tiktok_
+2006,hispanic,16990,41.45,37.03,21.52,linkedin,hispanic_linkedin_
+2009,hispanic,18948,28.9,35.29,35.81,instagram,hispanic_instagram_
+2005,european,18742,44.13,36.11,19.77,tiktok,european_tiktok_
+2011,middle eastern,15763,49.65,31.4,18.96,twitter,middle eastern_twitter_
+2008,middle eastern,2610,42.4,25.47,32.13,facebook,middle eastern_facebook_
+2014,indigenous,4816,21.74,43.83,34.43,tiktok,indigenous_tiktok_
+2017,european,3412,55.11,30.15,14.74,instagram,european_instagram_
+2014,indigenous,14439,19.92,20.74,59.33,facebook,indigenous_facebook_
+2012,asian,11646,29.83,38.59,31.59,instagram,asian_instagram_
+2021,african,10026,14.12,41.06,44.82,tiktok,african_tiktok_
+2006,hispanic,11892,31.06,45.26,23.68,twitter,hispanic_twitter_
+2007,asian,18349,56.61,45.04,-1.65,tiktok,asian_tiktok_
+2010,african,12754,12.43,31.56,56.02,reddit,african_reddit_
+2016,hispanic,6627,43.97,27.68,28.35,youtube,hispanic_youtube_
+2021,middle eastern,17120,31.68,31.9,36.42,twitter,middle eastern_twitter_
+2020,asian,1782,52.97,35.63,11.4,twitter,asian_twitter_
+2019,african,11811,35.67,35.94,28.38,tiktok,african_tiktok_
+2024,middle eastern,9920,13.5,40.72,45.79,youtube,middle eastern_youtube_
+2007,indigenous,2657,51.1,43.08,5.82,instagram,indigenous_instagram_
+2013,asian,18517,25.29,47.23,27.48,facebook,asian_facebook_
+2008,asian,16363,39.83,45.57,14.6,youtube,asian_youtube_
+2022,hispanic,7367,38.72,38.21,23.07,tiktok,hispanic_tiktok_
+2004,indigenous,9333,40.56,45.26,14.17,youtube,indigenous_youtube_
+2011,hispanic,13761,15.86,26.05,58.09,youtube,hispanic_youtube_
+2006,middle eastern,14142,29.17,34.1,36.73,reddit,middle eastern_reddit_
+2019,indigenous,7127,55.98,21.73,22.29,facebook,indigenous_facebook_
+2011,hispanic,7913,35.39,32.62,31.99,reddit,hispanic_reddit_
+2011,indigenous,18161,12.64,26,61.36,linkedin,indigenous_linkedin_
+2020,european,4543,54.58,28.43,16.98,youtube,european_youtube_
+2018,hispanic,7760,47.94,31.25,20.81,linkedin,hispanic_linkedin_
+2024,european,11494,38.78,33.15,28.07,tiktok,european_tiktok_
+2015,african,8598,38.62,46.73,14.66,reddit,african_reddit_
+2024,african,7772,44.99,30.25,24.77,instagram,african_instagram_
+2020,european,4648,24.61,36.64,38.76,tiktok,european_tiktok_
+2007,asian,5629,40.97,32.25,26.78,youtube,asian_youtube_
+2020,asian,17871,12.49,20.89,66.62,facebook,asian_facebook_
+2006,asian,7190,31.01,30.88,38.11,instagram,asian_instagram_
+2021,african,4502,43.36,33.27,23.37,instagram,african_instagram_
+2004,indigenous,19846,51.01,48.07,0.93,tiktok,indigenous_tiktok_
+2010,middle eastern,18346,47.39,25.09,27.51,reddit,middle eastern_reddit_
+2006,indigenous,18230,14.46,39.91,45.64,reddit,indigenous_reddit_
+2024,hispanic,19514,45.74,38.95,15.3,youtube,hispanic_youtube_
+2008,middle eastern,2600,11.97,41.91,46.12,youtube,middle eastern_youtube_
+2010,middle eastern,8738,47.96,49.26,2.79,youtube,middle eastern_youtube_
+2007,middle eastern,6888,19.86,33.98,46.17,facebook,middle eastern_facebook_
+2017,middle eastern,16993,39.94,32,28.07,reddit,middle eastern_reddit_
+2022,indigenous,18033,50.25,35.49,14.26,linkedin,indigenous_linkedin_
+2021,african,17226,54.37,46.94,-1.31,facebook,african_facebook_
+2004,african,3409,17.01,31.89,51.09,reddit,african_reddit_
+2021,middle eastern,15648,37.93,37.61,24.46,youtube,middle eastern_youtube_
+2024,european,18620,15.82,33.6,50.58,tiktok,european_tiktok_
+2016,hispanic,6751,49.65,49.48,0.87,linkedin,hispanic_linkedin_
+2011,asian,15547,39.83,43.31,16.85,linkedin,asian_linkedin_
+2019,european,7740,33.8,38.26,27.95,youtube,european_youtube_
+2019,hispanic,12947,17.11,22.89,60,reddit,hispanic_reddit_
+2012,hispanic,13974,52.45,26.46,21.09,linkedin,hispanic_linkedin_
+2006,african,2236,34.55,40.14,25.31,linkedin,african_linkedin_
+2014,european,18584,19.39,40.85,39.76,twitter,european_twitter_
+2022,african,5301,38.21,20.79,41,youtube,african_youtube_
+2018,hispanic,5018,59.35,35.05,5.6,linkedin,hispanic_linkedin_
+2024,middle eastern,9819,30.69,33.57,35.75,reddit,middle eastern_reddit_
+2021,middle eastern,5261,14.49,33.46,52.05,youtube,middle eastern_youtube_
+2022,indigenous,16018,35.27,35.64,29.09,facebook,indigenous_facebook_
+2006,hispanic,13505,26.31,20.81,52.88,reddit,hispanic_reddit_
+2014,european,3310,46.8,29.8,23.4,reddit,european_reddit_
+2012,european,8771,13.23,46.87,39.9,reddit,european_reddit_
+2022,european,16677,11.97,47.79,40.24,reddit,european_reddit_
+2024,middle eastern,1147,41.46,33.73,24.8,linkedin,middle eastern_linkedin_
+2023,european,9470,33.13,47.26,19.61,tiktok,european_tiktok_
+2015,african,3382,28.15,28.25,43.6,facebook,african_facebook_
+2004,asian,3654,40.56,35.91,23.53,twitter,asian_twitter_
+2015,asian,1271,27.07,28.03,44.89,tiktok,asian_tiktok_
+2008,asian,7719,54.34,42.84,2.82,instagram,asian_instagram_
+2004,hispanic,2359,18.86,27.22,53.92,youtube,hispanic_youtube_
+2004,african,13410,20.6,39.08,40.32,linkedin,african_linkedin_
+2020,hispanic,14682,13.09,45.5,41.41,reddit,hispanic_reddit_
+2007,indigenous,11288,42.76,42.93,14.31,youtube,indigenous_youtube_
+2020,african,14423,15.47,35.14,49.39,tiktok,african_tiktok_
+2005,indigenous,11106,18.41,23.05,58.54,tiktok,indigenous_tiktok_
+2014,middle eastern,19397,32.57,41.46,25.98,instagram,middle eastern_instagram_
+2023,hispanic,3686,12.32,27.66,60.02,twitter,hispanic_twitter_
+2022,european,4480,42.7,24.83,32.48,linkedin,european_linkedin_
+2019,hispanic,15108,52.36,49.66,-2.03,linkedin,hispanic_linkedin_
+2007,indigenous,12958,29.73,24.41,45.86,twitter,indigenous_twitter_
+2006,hispanic,12162,23.65,28.05,48.3,youtube,hispanic_youtube_
+2015,hispanic,17358,30.42,38.22,31.36,linkedin,hispanic_linkedin_
+2016,middle eastern,16705,37.04,28.68,34.28,twitter,middle eastern_twitter_
+2009,asian,3735,50.2,47.02,2.77,instagram,asian_instagram_
+2010,hispanic,10060,23.67,42.46,33.87,facebook,hispanic_facebook_
+2023,european,13598,52.64,46.64,0.72,youtube,european_youtube_
+2011,indigenous,1517,11.47,32.63,55.89,twitter,indigenous_twitter_
+2023,asian,16372,50.55,23.67,25.78,twitter,asian_twitter_
+2008,middle eastern,5258,44.49,33.97,21.54,linkedin,middle eastern_linkedin_
+2018,hispanic,19969,40.14,41.19,18.68,reddit,hispanic_reddit_
+2012,indigenous,10793,23.88,23.94,52.18,tiktok,indigenous_tiktok_
+2012,indigenous,2114,39.95,30.52,29.53,facebook,indigenous_facebook_
+2010,african,1653,15.14,35.27,49.59,reddit,african_reddit_
+2005,african,4219,22.68,38.93,38.39,twitter,african_twitter_
+2020,hispanic,10707,26.05,30.98,42.98,reddit,hispanic_reddit_
+2023,african,1356,56.72,30.47,12.81,facebook,african_facebook_
+2013,hispanic,5281,54.49,21.12,24.39,facebook,hispanic_facebook_
+2006,african,13402,17.1,23.82,59.09,twitter,african_twitter_
+2020,european,9744,21.81,42.87,35.32,instagram,european_instagram_
+2009,hispanic,3846,36.58,27.45,35.97,linkedin,hispanic_linkedin_
+2011,european,13176,41.54,38.92,19.54,linkedin,european_linkedin_
+2017,indigenous,16926,56.22,36.26,7.52,youtube,indigenous_youtube_
+2013,african,11868,27.49,35.79,36.72,facebook,african_facebook_
+2022,european,9396,53.49,31.94,14.57,youtube,european_youtube_
+2004,african,14009,49.56,38.19,12.25,twitter,african_twitter_
+2014,european,8593,20.38,28.45,51.17,twitter,european_twitter_
+2006,african,13204,17.05,30.23,52.73,instagram,african_instagram_
+2023,asian,5998,37.33,42.57,20.1,instagram,asian_instagram_
+2024,middle eastern,3538,52.25,32.62,15.13,facebook,middle eastern_facebook_
+2021,middle eastern,11050,10.46,47.54,42,tiktok,middle eastern_tiktok_
+2017,asian,13389,26.6,46.35,27.05,linkedin,asian_linkedin_
+2017,asian,5180,28.16,33.2,38.65,instagram,asian_instagram_
+2021,african,16564,54.79,28.55,16.67,facebook,african_facebook_
+2004,middle eastern,9393,58.38,21.67,19.95,reddit,middle eastern_reddit_
+2019,indigenous,18582,19.98,46.59,33.43,linkedin,indigenous_linkedin_
+2017,middle eastern,3236,37.84,49.41,12.74,facebook,middle eastern_facebook_
+2021,indigenous,12849,59.74,48.96,-8.7,linkedin,indigenous_linkedin_
+2009,hispanic,5059,57.7,22.22,20.09,youtube,hispanic_youtube_
+2007,hispanic,19746,12.6,21.73,65.67,twitter,hispanic_twitter_
+2011,hispanic,4320,18.08,49.23,32.69,facebook,hispanic_facebook_
+2008,african,5215,40.35,45.68,13.97,reddit,african_reddit_
+2017,indigenous,6094,29.11,46.33,24.56,tiktok,indigenous_tiktok_
+2019,indigenous,8244,59.9,33.84,6.26,facebook,indigenous_facebook_
+2023,middle eastern,19198,33.56,42.84,23.6,twitter,middle eastern_twitter_
+2006,asian,17479,55.26,22.28,22.46,instagram,asian_instagram_
+2024,hispanic,16036,32.98,30.21,36.81,youtube,hispanic_youtube_
+2017,european,4237,42.83,22.59,34.58,reddit,european_reddit_
+2022,middle eastern,11107,47.46,28.15,24.39,twitter,middle eastern_twitter_
+2004,african,12763,35.21,32.99,31.8,facebook,african_facebook_
+2021,hispanic,9764,13.03,22.84,64.13,youtube,hispanic_youtube_
+2011,asian,2336,14.16,30.64,55.2,twitter,asian_twitter_
+2013,asian,5751,30.62,40.36,29.02,reddit,asian_reddit_
+2010,middle eastern,13259,59.18,41.66,-0.83,linkedin,middle eastern_linkedin_
+2015,european,15628,36.12,33.67,30.21,linkedin,european_linkedin_
+2004,european,11242,53.24,47.12,-0.36,facebook,european_facebook_
+2006,indigenous,12906,43.08,32.94,23.98,youtube,indigenous_youtube_
+2016,african,2095,36.62,22.17,41.22,linkedin,african_linkedin_
+2016,european,7757,59.12,40.47,0.41,linkedin,european_linkedin_
+2018,european,3278,36.45,44,19.55,tiktok,european_tiktok_
+2022,european,15639,60,20.76,19.25,facebook,european_facebook_
+2009,hispanic,2919,22.15,25.45,52.4,youtube,hispanic_youtube_
+2006,european,2202,53.05,36.98,9.96,twitter,european_twitter_
+2024,indigenous,5578,21.06,44.48,34.46,tiktok,indigenous_tiktok_
+2018,middle eastern,13084,28.18,25.62,46.2,facebook,middle eastern_facebook_
+2013,african,15673,59.53,47.25,-6.78,tiktok,african_tiktok_
+2013,asian,12428,11.36,34.17,54.47,reddit,asian_reddit_
+2011,asian,18524,35.96,20.93,43.11,twitter,asian_twitter_
+2016,african,15735,52.51,43.97,3.52,reddit,african_reddit_
+2010,asian,5711,38.13,22.16,39.7,tiktok,asian_tiktok_
+2019,european,16991,42.76,38.4,18.84,twitter,european_twitter_
+2006,middle eastern,6740,16.66,30.98,52.36,instagram,middle eastern_instagram_
+2013,indigenous,2046,56.79,20.57,22.65,instagram,indigenous_instagram_
+2024,african,11575,14.26,46.86,38.88,linkedin,african_linkedin_
+2023,european,11990,14.68,26.93,58.39,youtube,european_youtube_
+2014,european,14799,21.88,29.61,48.51,twitter,european_twitter_
+2011,hispanic,12374,32.23,23.23,44.54,youtube,hispanic_youtube_
+2021,hispanic,17046,39.07,27.91,33.02,twitter,hispanic_twitter_
+2008,european,15161,21.77,30.98,47.25,instagram,european_instagram_
+2008,middle eastern,8040,39.2,33.81,26.99,facebook,middle eastern_facebook_
+2019,european,7372,21.65,39.3,39.06,reddit,european_reddit_
+2015,indigenous,8235,47.15,44.51,8.34,youtube,indigenous_youtube_
+2007,hispanic,11610,14.42,47.03,38.55,instagram,hispanic_instagram_
+2006,hispanic,19112,35.37,25.29,39.34,reddit,hispanic_reddit_
+2010,european,18185,56.28,33.23,10.49,tiktok,european_tiktok_
+2011,asian,5919,35.51,45.09,19.4,linkedin,asian_linkedin_
+2008,asian,3899,59.76,22.94,17.3,linkedin,asian_linkedin_
+2011,indigenous,7253,46.16,47.17,6.67,twitter,indigenous_twitter_
+2004,middle eastern,6264,54.58,27.69,17.73,facebook,middle eastern_facebook_
+2005,asian,6422,28.77,42.04,29.19,twitter,asian_twitter_
+2021,hispanic,9717,50.7,32.57,16.73,linkedin,hispanic_linkedin_
+2005,african,15971,34.9,39.25,25.85,twitter,african_twitter_
+2023,hispanic,18610,55.54,33.19,11.27,linkedin,hispanic_linkedin_
+2008,european,13400,51.33,34.9,13.77,tiktok,european_tiktok_
+2009,hispanic,5605,31.03,27.08,41.89,twitter,hispanic_twitter_
+2022,asian,15788,27.06,43,29.94,twitter,asian_twitter_
+2009,middle eastern,16172,16.04,47.72,36.24,reddit,middle eastern_reddit_
+2017,asian,17508,51.84,46.11,2.06,instagram,asian_instagram_
+2024,european,12793,38.39,45.02,16.58,tiktok,european_tiktok_
+2007,indigenous,4025,26.42,33.96,39.62,linkedin,indigenous_linkedin_
+2023,european,16163,23.55,31.25,45.2,linkedin,european_linkedin_
+2011,middle eastern,13969,14.43,44.28,41.29,youtube,middle eastern_youtube_
+2009,african,19722,58.19,27.78,14.03,youtube,african_youtube_
+2010,indigenous,8116,36.98,33.99,29.02,youtube,indigenous_youtube_
+2013,african,10554,51.4,34.6,14,tiktok,african_tiktok_
+2024,asian,1305,42.42,38.39,19.18,tiktok,asian_tiktok_
+2016,european,16595,59.38,26.89,13.72,instagram,european_instagram_
+2006,european,1779,32.8,40.06,27.14,tiktok,european_tiktok_
+2018,hispanic,15690,15.05,24.25,60.7,reddit,hispanic_reddit_
+2020,hispanic,4821,54.05,37.32,8.63,twitter,hispanic_twitter_
+2014,indigenous,12354,41.28,34.55,24.17,linkedin,indigenous_linkedin_
+2021,indigenous,11512,45.8,33.86,20.34,tiktok,indigenous_tiktok_
+2014,african,1485,43.58,40.49,15.93,twitter,african_twitter_
+2012,hispanic,10495,27.02,33.79,39.19,reddit,hispanic_reddit_
+2012,asian,3935,14.39,39.5,46.1,instagram,asian_instagram_
+2023,indigenous,5107,52.02,45.14,2.84,linkedin,indigenous_linkedin_
+2024,asian,9148,58.23,38.24,3.53,tiktok,asian_tiktok_
+2024,hispanic,1476,24.57,24.48,50.95,instagram,hispanic_instagram_
+2011,hispanic,8913,52.58,31.62,15.8,facebook,hispanic_facebook_
+2010,african,1345,22.18,46.14,31.68,reddit,african_reddit_
+2011,asian,13449,40.23,32.34,27.42,tiktok,asian_tiktok_
+2012,asian,19102,23.9,25.37,50.73,reddit,asian_reddit_
+2007,indigenous,4826,56.48,45.38,-1.86,tiktok,indigenous_tiktok_
+2016,asian,6269,49.87,42.72,7.41,reddit,asian_reddit_
+2015,hispanic,19496,34.33,29.83,35.84,facebook,hispanic_facebook_
+2006,european,3086,32.64,33.9,33.46,instagram,european_instagram_
+2004,middle eastern,13828,28.03,37.97,34,youtube,middle eastern_youtube_
+2005,african,17923,41.3,44.04,14.66,facebook,african_facebook_
+2011,middle eastern,1565,17.75,40.22,42.03,facebook,middle eastern_facebook_
+2012,asian,13685,45.37,40.18,14.44,facebook,asian_facebook_
+2017,african,13142,15.8,49.59,34.61,tiktok,african_tiktok_
+2004,hispanic,14970,17.69,24.04,58.27,facebook,hispanic_facebook_
+2018,european,18753,14.25,33.97,51.78,reddit,european_reddit_
+2019,indigenous,12542,55.68,43.68,0.64,reddit,indigenous_reddit_
+2012,african,7486,41.81,21.73,36.46,tiktok,african_tiktok_
+2010,middle eastern,6477,38.99,27.31,33.71,instagram,middle eastern_instagram_
+2023,middle eastern,14482,51.74,49.87,-1.61,reddit,middle eastern_reddit_
+2018,hispanic,13250,37.82,22.14,40.04,reddit,hispanic_reddit_
+2018,african,9448,58.35,39.63,2.02,instagram,african_instagram_
+2016,african,15342,32.3,32.82,34.88,reddit,african_reddit_
+2017,african,14686,39.14,48.59,12.27,linkedin,african_linkedin_
+2015,indigenous,16813,36.72,49.17,14.11,youtube,indigenous_youtube_
+2012,middle eastern,6493,45.77,25.01,29.22,instagram,middle eastern_instagram_
+2012,indigenous,2531,55.68,35.17,9.15,reddit,indigenous_reddit_
+2009,indigenous,14289,59.21,26.57,14.22,linkedin,indigenous_linkedin_
+2006,indigenous,3782,33.56,21.57,44.86,instagram,indigenous_instagram_
+2008,indigenous,4647,51.09,41.74,7.17,youtube,indigenous_youtube_
+2024,european,16000,44.3,29.67,26.03,twitter,european_twitter_
+2012,middle eastern,3457,13.12,41.91,44.96,facebook,middle eastern_facebook_
+2009,indigenous,5303,51.92,28.51,19.57,reddit,indigenous_reddit_
+2014,african,1804,20.8,44.46,34.73,tiktok,african_tiktok_
+2020,asian,4413,27.88,26.14,45.98,reddit,asian_reddit_
+2014,hispanic,3618,40.84,27.65,31.5,tiktok,hispanic_tiktok_
+2004,hispanic,10713,32.19,23.68,44.13,reddit,hispanic_reddit_
+2007,european,16151,24.8,48.57,26.63,linkedin,european_linkedin_
+2010,middle eastern,9703,23.94,28.2,47.86,instagram,middle eastern_instagram_
+2006,european,17614,44.5,29.88,25.63,linkedin,european_linkedin_
+2014,african,16065,55.79,49.46,-5.25,facebook,african_facebook_
+2024,european,4650,45.79,49.07,5.13,youtube,european_youtube_
+2023,indigenous,15607,59.54,41.99,-1.53,reddit,indigenous_reddit_
+2007,african,6119,39.7,30.3,30,twitter,african_twitter_
+2024,asian,17718,56.36,35.01,8.63,instagram,asian_instagram_
+2023,hispanic,15691,26.62,37.1,36.28,tiktok,hispanic_tiktok_
+2010,hispanic,1486,59.78,26.2,14.02,reddit,hispanic_reddit_
+2023,african,12003,18.26,36.52,45.22,youtube,african_youtube_
+2011,middle eastern,10237,48.54,48.62,2.84,instagram,middle eastern_instagram_
+2019,asian,14501,41.38,32.64,25.98,reddit,asian_reddit_
+2020,asian,19577,47.67,32.91,19.43,twitter,asian_twitter_
+2019,african,8935,31.94,29.38,38.68,tiktok,african_tiktok_
+2015,indigenous,10627,34.58,28.86,36.57,linkedin,indigenous_linkedin_
+2013,asian,11147,20.41,48.41,31.18,tiktok,asian_tiktok_
+2021,african,6388,54.35,40.18,5.48,twitter,african_twitter_
+2020,indigenous,2183,18.68,32.05,49.27,linkedin,indigenous_linkedin_
+2023,indigenous,8941,56.37,46.17,-2.54,instagram,indigenous_instagram_
+2011,asian,15069,10.86,49.39,39.75,twitter,asian_twitter_
+2022,african,16571,46.62,34.51,18.87,twitter,african_twitter_
+2023,hispanic,17184,28.52,25.73,45.76,linkedin,hispanic_linkedin_
+2006,african,3205,36.66,25.79,37.54,instagram,african_instagram_
+2016,middle eastern,11437,20.18,37.3,42.51,facebook,middle eastern_facebook_
+2014,indigenous,17588,51.02,42.24,6.73,tiktok,indigenous_tiktok_
+2005,asian,11144,10.75,32.39,56.86,instagram,asian_instagram_
+2015,african,16784,47.42,49.99,2.59,instagram,african_instagram_
+2017,middle eastern,12089,41.12,37.88,21,facebook,middle eastern_facebook_
+2021,asian,5321,59.37,24.57,16.06,reddit,asian_reddit_
+2006,hispanic,18090,58.08,26.29,15.63,facebook,hispanic_facebook_
+2020,middle eastern,6035,31.83,23.16,45.01,linkedin,middle eastern_linkedin_
+2011,african,8817,34.9,31.59,33.51,youtube,african_youtube_
+2010,asian,11602,52.63,48.93,-1.56,twitter,asian_twitter_
+2007,european,15190,36.1,28.2,35.7,facebook,european_facebook_
+2023,african,6469,22.31,42.56,35.12,instagram,african_instagram_
+2014,african,1062,56.89,39.59,3.52,instagram,african_instagram_
+2022,asian,7745,35.56,34.53,29.91,tiktok,asian_tiktok_
+2023,asian,2785,57.19,44.98,-2.17,linkedin,asian_linkedin_
+2019,indigenous,15214,16.47,28.55,54.98,twitter,indigenous_twitter_
+2018,asian,9689,26.37,48.28,25.36,instagram,asian_instagram_
+2014,indigenous,13206,58.25,40.76,0.99,facebook,indigenous_facebook_
+2016,hispanic,17965,24.84,39.25,35.91,facebook,hispanic_facebook_
+2022,middle eastern,18688,14.71,34.04,51.26,linkedin,middle eastern_linkedin_
+2017,asian,11172,20.97,35.12,43.91,twitter,asian_twitter_
+2016,middle eastern,5127,49.97,35.5,14.52,linkedin,middle eastern_linkedin_
+2010,hispanic,7763,37.22,27.84,34.94,twitter,hispanic_twitter_
+2008,hispanic,5469,51.84,38.51,9.65,tiktok,hispanic_tiktok_
+2016,middle eastern,3627,58.98,24.39,16.63,facebook,middle eastern_facebook_
+2007,indigenous,17467,14.37,41.73,43.9,instagram,indigenous_instagram_
+2004,hispanic,19231,13.08,26.54,60.38,linkedin,hispanic_linkedin_
+2010,indigenous,4617,21.27,34.54,44.19,instagram,indigenous_instagram_
+2019,middle eastern,11560,47.48,44.12,8.4,linkedin,middle eastern_linkedin_
+2010,middle eastern,3681,49.44,46.77,3.79,youtube,middle eastern_youtube_
+2021,indigenous,14475,21.88,25.12,53,instagram,indigenous_instagram_
+2023,indigenous,8382,22.19,28.22,49.59,reddit,indigenous_reddit_
+2014,indigenous,16459,30.71,29.45,39.84,twitter,indigenous_twitter_
+2019,hispanic,11385,23.52,32.55,43.93,youtube,hispanic_youtube_
+2008,african,2160,26.68,26.57,46.75,youtube,african_youtube_
+2023,indigenous,7644,49,44.17,6.83,reddit,indigenous_reddit_
+2021,african,2005,18.86,49.95,31.19,twitter,african_twitter_
+2006,european,6891,31.72,37.17,31.11,instagram,european_instagram_
+2015,european,4981,11.26,47.29,41.45,instagram,european_instagram_
+2011,asian,5217,45.44,32.04,22.53,reddit,asian_reddit_
+2005,hispanic,13611,45.57,26.28,28.15,tiktok,hispanic_tiktok_
+2014,indigenous,5889,18.01,36.9,45.09,instagram,indigenous_instagram_
+2009,african,6784,53.36,26.95,19.69,twitter,african_twitter_
+2008,african,7703,11.91,21.79,66.3,reddit,african_reddit_
+2017,african,4013,43.33,20.83,35.84,linkedin,african_linkedin_
+2018,hispanic,11746,28.8,30.4,40.8,tiktok,hispanic_tiktok_
+2012,hispanic,12139,45.43,46.08,8.49,reddit,hispanic_reddit_
+2004,middle eastern,16586,56.8,23.73,19.47,youtube,middle eastern_youtube_
+2008,indigenous,8987,46.12,34.97,18.91,tiktok,indigenous_tiktok_
+2008,european,6292,19.9,34.72,45.38,youtube,european_youtube_
+2016,european,6385,28.38,38.57,33.05,youtube,european_youtube_
+2022,indigenous,1571,53.9,21.96,24.13,twitter,indigenous_twitter_
+2016,european,13566,22.08,36.56,41.36,reddit,european_reddit_
+2004,african,4142,58.16,36.88,4.95,reddit,african_reddit_
+2013,asian,19926,59.73,42.84,-2.57,facebook,asian_facebook_
+2017,middle eastern,6552,16.59,46.51,36.89,tiktok,middle eastern_tiktok_
+2024,hispanic,19578,39.72,38.11,22.17,reddit,hispanic_reddit_
+2011,european,3487,33.42,20.28,46.3,facebook,european_facebook_
+2006,middle eastern,19562,43.21,42.6,14.19,reddit,middle eastern_reddit_
+2006,european,16412,31.95,37.73,30.31,instagram,european_instagram_
+2022,african,4627,58.13,31.08,10.79,tiktok,african_tiktok_
+2006,african,6265,18.41,22.48,59.11,facebook,african_facebook_
+2021,indigenous,12463,42.99,26.58,30.43,linkedin,indigenous_linkedin_
+2020,middle eastern,5389,56.63,37.58,5.79,instagram,middle eastern_instagram_
+2023,hispanic,8032,15.72,21.92,62.36,tiktok,hispanic_tiktok_
+2013,indigenous,18885,34.02,44.98,21.01,instagram,indigenous_instagram_
+2009,asian,7602,54.44,23.63,21.94,linkedin,asian_linkedin_
+2017,indigenous,10313,41.89,23.68,34.43,tiktok,indigenous_tiktok_
+2013,european,2291,14.08,41.35,44.57,instagram,european_instagram_
+2022,indigenous,15372,21.43,33.75,44.83,tiktok,indigenous_tiktok_
+2022,middle eastern,10237,53.67,31.85,14.48,twitter,middle eastern_twitter_
+2011,european,3810,44.46,33.02,22.52,tiktok,european_tiktok_
+2005,asian,10313,18.86,28.8,52.34,facebook,asian_facebook_
+2024,hispanic,12138,37,45.5,17.5,linkedin,hispanic_linkedin_
+2009,european,16301,56.48,21.59,21.93,tiktok,european_tiktok_
+2018,hispanic,6595,13.48,39.04,47.48,instagram,hispanic_instagram_
+2017,asian,3397,56.09,24.99,18.92,linkedin,asian_linkedin_
+2013,african,19374,39.08,34.93,25.99,linkedin,african_linkedin_
+2021,asian,7209,17.76,49.67,32.57,instagram,asian_instagram_
+2014,middle eastern,2524,37.93,35.81,26.25,instagram,middle eastern_instagram_
+2004,african,2394,31.98,37.76,30.26,twitter,african_twitter_
+2021,middle eastern,4502,35.38,29.1,35.52,instagram,middle eastern_instagram_
+2005,hispanic,4247,52.05,43.4,4.55,instagram,hispanic_instagram_
+2016,indigenous,12631,13.19,48.23,38.58,youtube,indigenous_youtube_
+2009,indigenous,2669,26.47,32.61,40.92,instagram,indigenous_instagram_
+2005,african,5902,31.58,26.64,41.78,tiktok,african_tiktok_
+2011,indigenous,19364,48.34,31.97,19.7,linkedin,indigenous_linkedin_
+2014,indigenous,18444,51.47,42.49,6.05,instagram,indigenous_instagram_
+2008,asian,18483,26.59,29.51,43.9,twitter,asian_twitter_
+2005,european,10947,57.41,29.53,13.06,tiktok,european_tiktok_
+2017,middle eastern,14395,24.61,33.41,41.97,facebook,middle eastern_facebook_
+2020,middle eastern,17378,15.32,39.81,44.87,tiktok,middle eastern_tiktok_
+2006,indigenous,2939,59.79,28.01,12.21,instagram,indigenous_instagram_
+2022,african,1338,32.42,27.57,40.01,twitter,african_twitter_
+2010,asian,12110,21.59,31.44,46.97,facebook,asian_facebook_
+2019,middle eastern,10272,22.27,41.2,36.53,reddit,middle eastern_reddit_
+2017,european,18773,44.21,31.46,24.33,facebook,european_facebook_
+2018,indigenous,15730,32.53,20.11,47.37,youtube,indigenous_youtube_
+2020,asian,3847,47.94,22.41,29.66,facebook,asian_facebook_
+2015,hispanic,12463,34.14,33.32,32.54,twitter,hispanic_twitter_
+2017,african,7902,54.86,44.3,0.84,youtube,african_youtube_
+2016,african,19658,35.13,46.38,18.49,twitter,african_twitter_
+2023,african,11433,36.72,30.77,32.51,facebook,african_facebook_
+2007,european,8620,28.93,43.74,27.32,youtube,european_youtube_
+2020,hispanic,16231,49.72,22.19,28.09,instagram,hispanic_instagram_
+2022,asian,4959,14.21,46.06,39.74,tiktok,asian_tiktok_
+2012,asian,17269,37.72,40.12,22.15,facebook,asian_facebook_
+2019,middle eastern,2784,24.06,45.79,30.15,youtube,middle eastern_youtube_
+2009,hispanic,18977,33.88,42.49,23.63,instagram,hispanic_instagram_
+2018,european,11979,58.61,36.41,4.98,instagram,european_instagram_
+2007,hispanic,3826,17.59,45.31,37.1,tiktok,hispanic_tiktok_
+2005,hispanic,5564,24.72,49.99,25.29,twitter,hispanic_twitter_
+2015,hispanic,2308,45.89,34.69,19.41,linkedin,hispanic_linkedin_
+2013,african,13541,42.5,34.39,23.12,twitter,african_twitter_
+2009,middle eastern,9709,12.62,42.75,44.63,instagram,middle eastern_instagram_
+2011,asian,5978,22.42,42.18,35.4,instagram,asian_instagram_
+2016,african,17064,37.67,29.32,33.01,linkedin,african_linkedin_
+2005,hispanic,13739,28.71,38.81,32.47,reddit,hispanic_reddit_
+2009,asian,1307,29.83,38.36,31.81,tiktok,asian_tiktok_
+2017,asian,6765,56.04,45.13,-1.18,tiktok,asian_tiktok_
+2018,european,16039,20.54,42.55,36.91,instagram,european_instagram_
+2014,european,12613,34.85,29.17,35.97,reddit,european_reddit_
+2017,indigenous,19040,28.85,41.87,29.29,twitter,indigenous_twitter_
+2018,indigenous,11457,12.86,34.41,52.73,instagram,indigenous_instagram_
+2005,hispanic,17241,45.36,35.2,19.44,linkedin,hispanic_linkedin_
+2023,indigenous,7114,20.81,44.84,34.34,linkedin,indigenous_linkedin_
+2019,hispanic,7928,42.07,20.84,37.09,instagram,hispanic_instagram_
+2021,african,14828,52.1,21.22,26.68,twitter,african_twitter_
+2006,asian,14256,51,30.59,18.41,youtube,asian_youtube_
+2023,middle eastern,8956,37.49,37.75,24.76,linkedin,middle eastern_linkedin_
+2014,asian,11785,35.16,40.8,24.04,reddit,asian_reddit_
+2007,middle eastern,2920,15.08,20.77,64.15,reddit,middle eastern_reddit_
+2021,middle eastern,7571,54.28,22.21,23.51,linkedin,middle eastern_linkedin_
+2020,indigenous,11296,29.1,20.22,50.68,linkedin,indigenous_linkedin_
+2019,middle eastern,15093,46.69,22.55,30.75,reddit,middle eastern_reddit_
+2010,european,14238,34.93,47.33,17.74,instagram,european_instagram_
+2011,middle eastern,17200,37.49,39.04,23.46,linkedin,middle eastern_linkedin_
+2011,indigenous,12162,35.79,30.2,34.01,twitter,indigenous_twitter_
+2020,asian,11552,23.79,45.78,30.43,linkedin,asian_linkedin_
+2006,hispanic,16326,14.58,21.68,63.74,linkedin,hispanic_linkedin_
+2019,hispanic,7996,49.06,38.06,12.87,youtube,hispanic_youtube_
+2007,middle eastern,1752,52.57,27.7,19.73,reddit,middle eastern_reddit_
+2024,african,18309,21.25,32.55,46.2,reddit,african_reddit_
+2007,african,5483,30.27,36.45,33.28,facebook,african_facebook_
+2016,indigenous,11801,11.08,45.76,43.16,reddit,indigenous_reddit_
+2013,indigenous,4830,27.96,30.49,41.56,tiktok,indigenous_tiktok_
+2021,hispanic,14136,55.64,24.57,19.8,twitter,hispanic_twitter_
+2013,asian,14817,59.35,34.58,6.07,linkedin,asian_linkedin_
+2023,middle eastern,13593,25.66,49.56,24.77,linkedin,middle eastern_linkedin_
+2018,middle eastern,4554,17.7,34.88,47.42,tiktok,middle eastern_tiktok_
+2021,middle eastern,17637,26.39,41.98,31.63,facebook,middle eastern_facebook_
+2011,hispanic,3208,40.99,39.47,19.53,youtube,hispanic_youtube_
+2014,middle eastern,3203,10.92,21.49,67.59,tiktok,middle eastern_tiktok_
+2013,european,14066,27.19,49.39,23.42,linkedin,european_linkedin_
+2011,african,7070,24.88,37.56,37.56,linkedin,african_linkedin_
+2018,hispanic,12895,13.1,32.82,54.08,instagram,hispanic_instagram_
+2010,african,3759,52.72,43.69,3.59,facebook,african_facebook_
+2006,hispanic,5618,44.18,42.36,13.46,linkedin,hispanic_linkedin_
+2004,hispanic,7560,37.71,42.08,20.21,instagram,hispanic_instagram_
+2014,european,3827,46.85,34.18,18.98,youtube,european_youtube_
+2016,middle eastern,3818,44.55,40.23,15.22,twitter,middle eastern_twitter_
+2022,hispanic,13406,51.44,21.51,27.05,tiktok,hispanic_tiktok_
+2009,hispanic,3418,56.27,29.98,13.75,facebook,hispanic_facebook_
+2021,african,6576,24.41,21.09,54.49,tiktok,african_tiktok_
+2007,african,18269,46.49,24.84,28.68,youtube,african_youtube_
+2011,indigenous,15099,29.77,43.2,27.02,facebook,indigenous_facebook_
+2024,hispanic,17951,46.1,36.35,17.56,youtube,hispanic_youtube_
+2020,african,19336,29.82,39.34,30.84,linkedin,african_linkedin_
+2024,european,12596,13.47,48.2,38.33,tiktok,european_tiktok_
+2024,indigenous,5598,26.78,33.89,39.33,facebook,indigenous_facebook_
+2019,hispanic,9550,36.48,31.87,31.66,instagram,hispanic_instagram_
+2004,hispanic,19033,40.07,24.99,34.94,facebook,hispanic_facebook_
+2011,european,6537,15.22,27.79,56.99,twitter,european_twitter_
+2022,european,8256,50.72,40.28,9,instagram,european_instagram_
+2018,hispanic,8576,33.76,35.02,31.21,facebook,hispanic_facebook_
+2021,african,12123,44.51,43.69,11.8,facebook,african_facebook_
+2007,asian,16653,22.69,37.2,40.11,tiktok,asian_tiktok_
+2010,asian,2675,56.36,23.46,20.18,facebook,asian_facebook_
+2019,middle eastern,2741,36,27.27,36.73,twitter,middle eastern_twitter_
+2015,asian,16951,40.2,45.05,14.75,youtube,asian_youtube_
+2022,european,17500,24.23,41.46,34.31,youtube,european_youtube_
+2020,hispanic,8705,16.73,25.29,57.98,youtube,hispanic_youtube_
+2014,middle eastern,3549,11.8,35.53,52.67,reddit,middle eastern_reddit_
+2010,hispanic,6665,37.78,46.43,15.79,reddit,hispanic_reddit_
+2017,european,13752,43.45,49.66,6.9,linkedin,european_linkedin_
+2018,european,19673,33.81,20.33,45.86,twitter,european_twitter_
+2019,european,5844,42.57,24.66,32.77,facebook,european_facebook_
+2021,indigenous,8473,49.12,29.34,21.54,youtube,indigenous_youtube_
+2019,hispanic,13074,33.24,31.41,35.35,instagram,hispanic_instagram_
+2008,asian,11183,14.2,25.16,60.64,youtube,asian_youtube_
+2017,indigenous,14455,27.8,48.16,24.04,instagram,indigenous_instagram_
+2008,asian,12962,46.92,30.86,22.22,facebook,asian_facebook_
+2013,middle eastern,13336,24.32,23.04,52.64,reddit,middle eastern_reddit_
+2011,european,19851,58.53,43.86,-2.39,instagram,european_instagram_
+2017,hispanic,17362,37.29,22.05,40.66,twitter,hispanic_twitter_
+2020,african,19693,49.76,43.36,6.88,reddit,african_reddit_
+2008,middle eastern,16386,21.55,43.36,35.08,reddit,middle eastern_reddit_
+2009,hispanic,13920,52.79,42.64,4.57,reddit,hispanic_reddit_
+2023,asian,3656,51.75,39.39,8.86,instagram,asian_instagram_
+2015,european,1766,34.55,49.92,15.54,reddit,european_reddit_
+2005,asian,16998,17.96,39.04,43,facebook,asian_facebook_
+2014,european,4858,39.51,21.68,38.81,tiktok,european_tiktok_
+2004,european,4084,36.78,42.22,21,linkedin,european_linkedin_
+2024,hispanic,5926,33.41,30.72,35.87,reddit,hispanic_reddit_
+2013,european,12873,11.36,30.68,57.96,twitter,european_twitter_
+2021,asian,18613,38.54,25.8,35.65,youtube,asian_youtube_
+2012,african,10805,56.45,34,9.54,linkedin,african_linkedin_
+2022,hispanic,6465,17.29,25.66,57.05,instagram,hispanic_instagram_
+2022,hispanic,19422,46.56,37.9,15.55,linkedin,hispanic_linkedin_
+2011,indigenous,6974,15.62,42.93,41.45,youtube,indigenous_youtube_
+2007,european,4510,52.62,24.08,23.3,instagram,european_instagram_
+2019,middle eastern,13066,16.11,23.08,60.81,tiktok,middle eastern_tiktok_
+2012,asian,19769,19.07,22.09,58.84,twitter,asian_twitter_
+2017,hispanic,9566,36.7,37.16,26.14,linkedin,hispanic_linkedin_
+2014,middle eastern,15939,48.56,31.85,19.59,reddit,middle eastern_reddit_
+2011,indigenous,10390,47.3,41.09,11.6,twitter,indigenous_twitter_
+2017,asian,10121,40.19,21.14,38.66,linkedin,asian_linkedin_
+2021,hispanic,1797,33.2,36.71,30.09,tiktok,hispanic_tiktok_
+2023,asian,19632,33.86,33.47,32.68,facebook,asian_facebook_
+2004,asian,13330,54.67,44.75,0.57,linkedin,asian_linkedin_
+2016,asian,3105,14.73,42.74,42.53,linkedin,asian_linkedin_
+2019,african,13875,29.54,37.33,33.13,tiktok,african_tiktok_
+2010,african,4263,36.79,22.03,41.19,linkedin,african_linkedin_
+2014,asian,6982,27.48,21.73,50.78,twitter,asian_twitter_
+2004,indigenous,2993,41.44,25.94,32.63,tiktok,indigenous_tiktok_
+2013,hispanic,6549,11.67,47.37,40.97,tiktok,hispanic_tiktok_
+2021,hispanic,11210,37.67,35.73,26.6,tiktok,hispanic_tiktok_
+2011,indigenous,3591,22.41,24.28,53.31,facebook,indigenous_facebook_
+2024,african,8765,29.76,39.25,30.99,youtube,african_youtube_
+2021,indigenous,19242,31.85,21.68,46.47,facebook,indigenous_facebook_
+2015,asian,12613,12.97,22.67,64.36,youtube,asian_youtube_
+2024,european,8047,48.7,24.49,26.81,youtube,european_youtube_
+2007,middle eastern,11125,24.35,47.08,28.57,instagram,middle eastern_instagram_
+2016,asian,16824,16.56,37.23,46.21,tiktok,asian_tiktok_
+2018,indigenous,2469,29.01,37.14,33.85,twitter,indigenous_twitter_
+2008,indigenous,16300,58.92,35.74,5.34,facebook,indigenous_facebook_
+2011,asian,18291,24.26,45.53,30.21,instagram,asian_instagram_
+2016,middle eastern,6273,36.93,29.45,33.62,linkedin,middle eastern_linkedin_
+2008,african,9349,22.77,49.21,28.02,reddit,african_reddit_
+2007,asian,13615,33.65,39.45,26.9,instagram,asian_instagram_
+2008,asian,13449,41.06,21.15,37.79,facebook,asian_facebook_
+2009,asian,4658,53.98,36.17,9.85,reddit,asian_reddit_
+2005,middle eastern,7688,13.35,27.69,58.96,instagram,middle eastern_instagram_
+2006,asian,7907,25.97,26.83,47.21,linkedin,asian_linkedin_
+2009,asian,14649,18.21,43.71,38.09,twitter,asian_twitter_
+2022,middle eastern,3325,33.7,31.15,35.15,linkedin,middle eastern_linkedin_
+2018,european,5854,38.08,34.85,27.07,linkedin,european_linkedin_
+2015,european,10091,36.47,37.99,25.54,reddit,european_reddit_
+2022,asian,17879,14.24,20.41,65.35,twitter,asian_twitter_
+2015,indigenous,3526,10.86,35.62,53.51,youtube,indigenous_youtube_
+2023,european,5546,24.12,25.23,50.65,facebook,european_facebook_
+2022,middle eastern,2899,34.66,40.92,24.42,instagram,middle eastern_instagram_
+2014,middle eastern,3243,10.8,29.15,60.05,twitter,middle eastern_twitter_
+2011,asian,13827,35.33,26.21,38.45,youtube,asian_youtube_
+2012,african,9911,54.01,40.41,5.58,twitter,african_twitter_
+2023,european,4621,39.01,39.48,21.51,tiktok,european_tiktok_
+2006,african,11698,39.09,47.47,13.44,linkedin,african_linkedin_
+2006,hispanic,19738,35.77,43.48,20.74,youtube,hispanic_youtube_
+2016,middle eastern,17749,24.94,48.72,26.34,instagram,middle eastern_instagram_
+2008,indigenous,19678,13.36,47.01,39.63,twitter,indigenous_twitter_
+2024,hispanic,18929,46,32.68,21.32,linkedin,hispanic_linkedin_
+2010,african,16177,35.83,48.28,15.89,linkedin,african_linkedin_
+2009,hispanic,19260,14.61,30.43,54.95,twitter,hispanic_twitter_
+2024,european,15460,34.86,39.67,25.47,facebook,european_facebook_
+2005,african,18562,57.3,37.51,5.19,reddit,african_reddit_
+2005,hispanic,6935,35.89,30.3,33.81,facebook,hispanic_facebook_
+2008,african,6437,36.09,21.67,42.24,instagram,african_instagram_
+2019,indigenous,11650,11.62,20.37,68.01,facebook,indigenous_facebook_
+2009,european,19363,18.14,47.82,34.04,reddit,european_reddit_
+2022,hispanic,5015,25.37,32.68,41.95,twitter,hispanic_twitter_
+2017,asian,10354,15.62,27.27,57.11,instagram,asian_instagram_
+2011,indigenous,19190,14.68,47.4,37.92,youtube,indigenous_youtube_
+2020,hispanic,17771,12.59,20.55,66.86,linkedin,hispanic_linkedin_
+2019,african,14142,13.17,46.66,40.17,tiktok,african_tiktok_
+2010,middle eastern,10105,45.05,40.7,14.25,facebook,middle eastern_facebook_
+2015,middle eastern,17063,55.77,36.72,7.51,facebook,middle eastern_facebook_
+2016,middle eastern,14904,55.37,37.85,6.78,tiktok,middle eastern_tiktok_
+2008,african,3650,55.76,33.1,11.14,twitter,african_twitter_
+2024,african,8120,32.87,25.14,42,facebook,african_facebook_
+2004,european,7526,24.4,35.54,40.06,twitter,european_twitter_
+2023,hispanic,9151,14.28,30.79,54.94,linkedin,hispanic_linkedin_
+2023,indigenous,14365,50.28,31.67,18.05,tiktok,indigenous_tiktok_
+2023,european,18170,39,29.46,31.54,instagram,european_instagram_
+2020,asian,18114,44.32,33.27,22.42,reddit,asian_reddit_
+2024,indigenous,8036,25.8,43.25,30.95,linkedin,indigenous_linkedin_
+2010,hispanic,14619,17.81,35.82,46.36,linkedin,hispanic_linkedin_
+2007,european,19119,30.38,41.29,28.33,twitter,european_twitter_
+2006,middle eastern,11061,54.16,21.58,24.26,reddit,middle eastern_reddit_
+2019,middle eastern,2537,44.4,38.53,17.08,reddit,middle eastern_reddit_
+2019,middle eastern,8307,49.55,47.46,2.99,reddit,middle eastern_reddit_
+2005,hispanic,5881,19.98,38.57,41.45,twitter,hispanic_twitter_
+2010,african,19470,44.85,49.16,5.99,twitter,african_twitter_
+2021,asian,7640,32.24,42.53,25.24,twitter,asian_twitter_
+2004,asian,17842,14.11,45.44,40.45,twitter,asian_twitter_
+2022,hispanic,14661,19.53,23.42,57.05,facebook,hispanic_facebook_
+2009,middle eastern,1059,32.68,37.71,29.61,instagram,middle eastern_instagram_
+2017,african,5211,35.78,25.41,38.81,reddit,african_reddit_
+2018,african,17327,52.86,38.03,9.11,instagram,african_instagram_
+2014,middle eastern,12275,22.85,33.47,43.68,facebook,middle eastern_facebook_
+2016,middle eastern,15124,50.83,30.26,18.91,linkedin,middle eastern_linkedin_
+2018,hispanic,5444,25.27,30.68,44.05,instagram,hispanic_instagram_
+2024,indigenous,10617,51.9,38.88,9.22,facebook,indigenous_facebook_
+2014,indigenous,8303,23.66,27.16,49.18,linkedin,indigenous_linkedin_
+2008,asian,10452,32.61,38.17,29.23,linkedin,asian_linkedin_
+2007,african,15958,23.32,33.11,43.57,linkedin,african_linkedin_
+2022,hispanic,11908,49.3,24.45,26.26,youtube,hispanic_youtube_
+2010,middle eastern,1430,25.19,40.36,34.46,instagram,middle eastern_instagram_
+2007,european,2440,56.6,47.48,-4.08,youtube,european_youtube_
+2021,middle eastern,3191,53.56,35.21,11.22,facebook,middle eastern_facebook_
+2006,asian,4506,35.9,24.04,40.06,instagram,asian_instagram_
+2004,middle eastern,10125,56.58,20.57,22.85,reddit,middle eastern_reddit_
+2004,middle eastern,19949,27.6,24.56,47.84,twitter,middle eastern_twitter_
+2007,european,12907,36.1,32.98,30.92,tiktok,european_tiktok_
+2023,middle eastern,14626,46.02,39.76,14.22,instagram,middle eastern_instagram_
+2020,african,13965,41.41,43.8,14.8,reddit,african_reddit_
+2018,african,12397,12.64,46.08,41.29,reddit,african_reddit_
+2010,asian,16104,39.15,30.48,30.37,instagram,asian_instagram_
+2022,hispanic,13813,40.44,27.84,31.72,reddit,hispanic_reddit_
+2018,african,18669,37.43,44.54,18.02,tiktok,african_tiktok_
+2010,asian,14263,50.88,40.15,8.96,youtube,asian_youtube_
+2013,african,17315,14.14,22.82,63.04,tiktok,african_tiktok_
+2014,african,8383,55.19,39.02,5.79,tiktok,african_tiktok_
+2006,african,2619,24.91,35.52,39.57,facebook,african_facebook_
+2018,european,9105,57.86,24.2,17.94,tiktok,european_tiktok_
+2022,middle eastern,2364,52.56,47.29,0.15,reddit,middle eastern_reddit_
+2009,african,3988,17.34,46.38,36.28,facebook,african_facebook_
+2012,middle eastern,19505,21.76,38.88,39.36,instagram,middle eastern_instagram_
+2023,indigenous,7920,54.96,43.22,1.82,youtube,indigenous_youtube_
+2004,european,5522,53.19,20.02,26.79,reddit,european_reddit_
+2020,hispanic,3379,51.52,40.1,8.38,instagram,hispanic_instagram_
+2014,african,18612,53.1,42.05,4.85,reddit,african_reddit_
+2024,middle eastern,2818,52.03,39.36,8.61,reddit,middle eastern_reddit_
+2012,middle eastern,15977,52.45,20.82,26.74,tiktok,middle eastern_tiktok_
+2018,indigenous,11113,31.18,47.61,21.2,youtube,indigenous_youtube_
+2013,asian,16836,23.88,34.21,41.91,youtube,asian_youtube_
+2018,african,15541,18.6,40.26,41.14,tiktok,african_tiktok_
+2016,hispanic,11928,29.53,41.41,29.06,youtube,hispanic_youtube_
+2022,middle eastern,15741,54.66,26.25,19.09,instagram,middle eastern_instagram_
+2006,hispanic,9434,22.34,44.35,33.3,reddit,hispanic_reddit_
+2022,european,10820,53.09,21.79,25.13,twitter,european_twitter_
+2013,hispanic,5424,33.76,45,21.24,reddit,hispanic_reddit_
+2013,asian,2448,14.43,42.48,43.09,instagram,asian_instagram_
+2024,african,16691,32.6,35.44,31.96,tiktok,african_tiktok_
+2024,indigenous,14892,49.69,30.12,20.19,instagram,indigenous_instagram_
+2004,hispanic,7755,25.5,20.65,53.85,twitter,hispanic_twitter_
+2020,hispanic,3143,21.88,44.72,33.4,reddit,hispanic_reddit_
+2004,indigenous,3482,35.56,45.9,18.53,instagram,indigenous_instagram_
+2010,african,12082,50.38,35.11,14.51,tiktok,african_tiktok_
+2020,indigenous,18980,33.92,28.25,37.83,instagram,indigenous_instagram_
+2020,european,2326,33.58,42.21,24.21,twitter,european_twitter_
+2013,middle eastern,8705,40.77,23.42,35.81,tiktok,middle eastern_tiktok_
+2017,european,19803,35.74,35.9,28.35,tiktok,european_tiktok_
+2024,african,17490,22.76,29.94,47.3,reddit,african_reddit_
+2014,hispanic,6544,50.43,32.11,17.46,instagram,hispanic_instagram_
+2013,african,3828,56.08,23.92,20,facebook,african_facebook_
+2023,indigenous,17810,36.07,30.36,33.57,twitter,indigenous_twitter_
+2004,african,7743,48.49,34.84,16.66,tiktok,african_tiktok_
+2019,middle eastern,13452,17.24,46.74,36.02,facebook,middle eastern_facebook_
+2014,hispanic,10842,40.94,29.17,29.89,facebook,hispanic_facebook_
+2006,asian,16197,53.41,26.8,19.79,instagram,asian_instagram_
+2016,asian,4199,51.85,24.14,24.01,facebook,asian_facebook_
+2016,hispanic,8585,35.24,38.67,26.09,twitter,hispanic_twitter_
+2010,asian,3426,18.32,42.15,39.54,twitter,asian_twitter_
+2012,african,11066,20.99,29.17,49.84,instagram,african_instagram_
+2016,asian,3246,38.62,31.42,29.95,instagram,asian_instagram_
+2006,african,14605,18.87,33.41,47.72,youtube,african_youtube_
+2009,middle eastern,3510,51.24,46.04,2.71,reddit,middle eastern_reddit_
+2016,middle eastern,10006,22.23,28.49,49.28,linkedin,middle eastern_linkedin_
+2014,indigenous,14800,31.47,48.93,19.61,instagram,indigenous_instagram_
+2007,indigenous,2240,43.29,39.75,16.96,facebook,indigenous_facebook_
+2014,european,15911,10.21,33.18,56.6,twitter,european_twitter_
+2011,hispanic,2688,16.61,43.83,39.56,youtube,hispanic_youtube_
+2019,hispanic,17914,45.31,39.5,15.18,facebook,hispanic_facebook_
+2014,middle eastern,6799,28.63,26.77,44.6,linkedin,middle eastern_linkedin_
+2024,hispanic,9185,52.97,45.7,1.33,reddit,hispanic_reddit_
+2009,middle eastern,8513,20.11,47.43,32.45,twitter,middle eastern_twitter_
+2007,indigenous,6634,25.49,27.27,47.24,youtube,indigenous_youtube_
+2023,indigenous,1052,24.62,40.03,35.35,facebook,indigenous_facebook_
+2009,middle eastern,16066,21.95,42.85,35.19,linkedin,middle eastern_linkedin_
+2014,asian,5442,32.37,42.32,25.31,tiktok,asian_tiktok_
+2023,european,5402,10.87,39.79,49.35,twitter,european_twitter_
+2014,hispanic,6700,18.64,31,50.35,tiktok,hispanic_tiktok_
+2012,hispanic,1427,49.69,32.32,18,linkedin,hispanic_linkedin_
+2010,european,9802,18.2,29.99,51.8,instagram,european_instagram_
+2013,european,14512,26.2,42.95,30.85,linkedin,european_linkedin_
+2012,hispanic,7119,34.48,20.58,44.93,reddit,hispanic_reddit_
+2013,hispanic,6601,12.62,20.14,67.24,youtube,hispanic_youtube_
+2021,indigenous,6862,31.04,38.81,30.15,youtube,indigenous_youtube_
+2005,african,15645,58.73,48.31,-7.04,instagram,african_instagram_
+2012,asian,10535,22.11,36.56,41.33,youtube,asian_youtube_
+2004,indigenous,4365,33.96,42.54,23.5,reddit,indigenous_reddit_
+2023,asian,2071,31.07,38.84,30.1,tiktok,asian_tiktok_
+2021,european,5672,11.35,45.72,42.93,twitter,european_twitter_
+2009,asian,5048,46.58,25.6,27.82,reddit,asian_reddit_
+2013,middle eastern,5476,25.25,33.08,41.66,facebook,middle eastern_facebook_
+2004,indigenous,9144,42.45,48.06,9.49,youtube,indigenous_youtube_
+2010,middle eastern,2723,54.11,43.23,2.65,youtube,middle eastern_youtube_
+2021,indigenous,1467,40.48,34.26,25.26,linkedin,indigenous_linkedin_
+2010,hispanic,8502,50.8,49.85,-0.65,youtube,hispanic_youtube_
+2004,asian,7516,19.55,21.62,58.83,youtube,asian_youtube_
+2010,african,4265,54.08,23.11,22.81,twitter,african_twitter_
+2021,hispanic,8014,47.85,21.59,30.56,youtube,hispanic_youtube_
+2016,indigenous,4896,31.84,39.52,28.63,facebook,indigenous_facebook_
+2015,indigenous,15583,22.73,22.18,55.09,facebook,indigenous_facebook_
+2009,european,11192,45.82,27.8,26.38,twitter,european_twitter_
+2018,european,5065,48.94,32.55,18.5,twitter,european_twitter_
+2009,indigenous,1826,29.47,30.45,40.08,reddit,indigenous_reddit_
+2020,hispanic,19860,13.72,35.17,51.11,reddit,hispanic_reddit_
+2013,asian,9759,28.79,45.97,25.23,tiktok,asian_tiktok_
+2021,asian,2789,25.32,42.23,32.45,youtube,asian_youtube_
+2011,asian,17780,52.27,34.57,13.16,reddit,asian_reddit_
+2010,asian,8145,26.09,46.06,27.86,instagram,asian_instagram_
+2013,african,8272,30.19,21.05,48.76,reddit,african_reddit_
+2022,european,11055,52.09,32.58,15.33,facebook,european_facebook_
+2021,asian,18880,44.71,43.3,11.98,instagram,asian_instagram_
+2009,african,2326,59.34,37.87,2.8,tiktok,african_tiktok_
+2020,african,15561,45.75,46.15,8.09,instagram,african_instagram_
+2013,indigenous,3933,52.65,23.32,24.03,youtube,indigenous_youtube_
+2016,european,10781,55.67,39.74,4.59,instagram,european_instagram_
+2006,european,16938,10.21,38.83,50.96,linkedin,european_linkedin_
+2008,hispanic,11211,15.85,33.88,50.27,instagram,hispanic_instagram_
+2016,hispanic,10170,56.31,46.62,-2.93,tiktok,hispanic_tiktok_
+2010,middle eastern,5213,52.44,26.18,21.38,reddit,middle eastern_reddit_
+2004,european,16084,17.92,21.82,60.26,youtube,european_youtube_
+2005,african,7464,33.66,42.55,23.79,youtube,african_youtube_
+2004,indigenous,4915,49.12,31.26,19.62,linkedin,indigenous_linkedin_
+2023,middle eastern,18666,23.24,30.92,45.84,reddit,middle eastern_reddit_
+2020,indigenous,13984,17.97,21.37,60.66,twitter,indigenous_twitter_
+2021,middle eastern,1828,52.84,45.68,1.48,youtube,middle eastern_youtube_
+2013,hispanic,7998,28.01,38.65,33.34,twitter,hispanic_twitter_
+2020,african,9103,44.71,31.96,23.33,facebook,african_facebook_
+2023,asian,6337,40.61,42.18,17.21,linkedin,asian_linkedin_
+2006,african,4080,48.29,44.34,7.37,twitter,african_twitter_
+2014,european,8285,16.01,45.19,38.79,tiktok,european_tiktok_
+2008,african,8050,18.85,38.57,42.58,tiktok,african_tiktok_
+2011,african,15787,51.69,41.89,6.42,facebook,african_facebook_
+2020,european,15538,34.43,36.16,29.4,youtube,european_youtube_
+2014,european,17331,39.62,28.69,31.69,reddit,european_reddit_
+2010,indigenous,3028,33.62,47.61,18.77,reddit,indigenous_reddit_
+2011,asian,11438,51.11,40.06,8.83,youtube,asian_youtube_
+2006,african,15444,18.66,46.79,34.55,tiktok,african_tiktok_
+2004,indigenous,14808,16.09,25.1,58.81,youtube,indigenous_youtube_
+2005,european,1865,58.07,27.47,14.46,reddit,european_reddit_
+2016,african,16440,40.48,33.42,26.1,reddit,african_reddit_
+2013,asian,1133,40.98,40.98,18.04,youtube,asian_youtube_
+2015,indigenous,4365,57.38,29.96,12.67,youtube,indigenous_youtube_
+2018,african,2230,34.33,22.79,42.88,linkedin,african_linkedin_
+2007,european,7573,40.9,32.82,26.28,twitter,european_twitter_
+2008,asian,11776,39.28,25.78,34.94,instagram,asian_instagram_
+2007,european,12450,41.32,33.16,25.52,youtube,european_youtube_
+2010,european,9256,43.2,31.48,25.32,youtube,european_youtube_
+2017,european,8546,36.59,23.71,39.7,twitter,european_twitter_
+2017,asian,3688,30.05,44.02,25.93,youtube,asian_youtube_
+2004,hispanic,4515,57.92,25.08,17,instagram,hispanic_instagram_
+2021,middle eastern,15110,54.33,49.8,-4.14,linkedin,middle eastern_linkedin_
+2007,hispanic,1877,32.95,42.77,24.27,linkedin,hispanic_linkedin_
+2004,indigenous,2781,30.28,30.07,39.65,reddit,indigenous_reddit_
+2022,asian,9698,59.51,43.44,-2.95,youtube,asian_youtube_
+2009,indigenous,14763,43.26,26.73,30,linkedin,indigenous_linkedin_
+2007,african,16993,36.94,37.77,25.29,instagram,african_instagram_
+2006,hispanic,15164,32.43,22.86,44.7,reddit,hispanic_reddit_
+2011,hispanic,15192,27.15,43.92,28.94,facebook,hispanic_facebook_
+2015,indigenous,16045,29.21,39.82,30.97,instagram,indigenous_instagram_
+2011,asian,17988,35.12,45.92,18.96,instagram,asian_instagram_
+2019,indigenous,10980,14.31,46.99,38.7,reddit,indigenous_reddit_
+2023,asian,15166,22.62,26.23,51.15,reddit,asian_reddit_
+2019,asian,16561,39.25,45,15.74,instagram,asian_instagram_
+2024,hispanic,12871,24.59,36.86,38.56,twitter,hispanic_twitter_
+2005,african,12709,30.94,35.47,33.59,facebook,african_facebook_
+2010,european,13344,30.19,23.4,46.42,youtube,european_youtube_
+2009,european,5646,40.87,31.38,27.75,facebook,european_facebook_
+2014,asian,19269,45.85,24.39,29.76,instagram,asian_instagram_
+2024,european,19481,57.38,45.72,-3.1,instagram,european_instagram_
+2015,indigenous,12401,42.61,26.38,31.01,instagram,indigenous_instagram_
+2023,indigenous,13364,55.02,31.09,13.89,youtube,indigenous_youtube_
+2010,european,1926,12.78,27.87,59.35,youtube,european_youtube_
+2009,indigenous,8552,21.74,33.25,45.01,instagram,indigenous_instagram_
+2010,european,18367,14.18,39.19,46.63,instagram,european_instagram_
+2018,european,16206,17.72,26.18,56.1,twitter,european_twitter_
+2004,african,2695,30.67,36.6,32.74,tiktok,african_tiktok_
+2024,hispanic,4283,47.99,27.34,24.67,twitter,hispanic_twitter_
+2011,indigenous,19306,59.97,47.68,-7.66,tiktok,indigenous_tiktok_
+2018,hispanic,15781,50.95,31.15,17.9,linkedin,hispanic_linkedin_
+2009,indigenous,3603,53.75,29.63,16.62,tiktok,indigenous_tiktok_
+2005,asian,9478,20.27,36.88,42.84,facebook,asian_facebook_
+2004,middle eastern,14648,35.65,49.56,14.79,reddit,middle eastern_reddit_
+2011,african,16689,11.72,37.66,50.62,instagram,african_instagram_
+2023,indigenous,1271,11.91,39.39,48.7,instagram,indigenous_instagram_
+2011,asian,12926,23.62,32.74,43.64,reddit,asian_reddit_
+2008,hispanic,10988,26.97,45.07,27.96,facebook,hispanic_facebook_
+2009,indigenous,2680,30.98,21.85,47.17,reddit,indigenous_reddit_
+2005,indigenous,2406,22.37,46.19,31.45,instagram,indigenous_instagram_
+2014,indigenous,5227,35.77,38.94,25.29,youtube,indigenous_youtube_
+2024,european,5010,10.49,21.24,68.27,tiktok,european_tiktok_
+2013,middle eastern,14961,45.31,34,20.69,youtube,middle eastern_youtube_
+2013,indigenous,12731,21.81,22.2,55.99,linkedin,indigenous_linkedin_
+2006,asian,4537,55.03,43.84,1.13,instagram,asian_instagram_
+2005,indigenous,13611,31.21,48.73,20.06,reddit,indigenous_reddit_
+2019,african,16415,49.89,24.63,25.48,linkedin,african_linkedin_
+2016,european,3927,39.04,40.58,20.37,youtube,european_youtube_
+2013,middle eastern,6651,21.39,27.97,50.64,youtube,middle eastern_youtube_
+2014,indigenous,19682,54.25,27.65,18.1,twitter,indigenous_twitter_
+2010,hispanic,8336,20.94,21.49,57.56,twitter,hispanic_twitter_
+2010,african,10993,53.66,33.44,12.91,youtube,african_youtube_
+2020,indigenous,7479,37.67,30.32,32.01,linkedin,indigenous_linkedin_
+2008,asian,12151,56.71,31.5,11.79,instagram,asian_instagram_
+2008,asian,7946,22.11,23.59,54.29,facebook,asian_facebook_
+2019,european,5495,32.62,41.15,26.23,reddit,european_reddit_
+2015,asian,3052,56.76,24.26,18.98,reddit,asian_reddit_
+2011,indigenous,13301,22.06,49.38,28.56,facebook,indigenous_facebook_
+2020,indigenous,6770,21.71,41.08,37.21,reddit,indigenous_reddit_
+2008,european,2312,46.68,21.86,31.46,youtube,european_youtube_
+2016,hispanic,4068,14.58,45.48,39.95,youtube,hispanic_youtube_
+2009,asian,1958,12.94,43.19,43.87,reddit,asian_reddit_
+2006,asian,1400,19.59,26.6,53.81,instagram,asian_instagram_
+2013,african,18050,34.08,22.86,43.06,reddit,african_reddit_
+2008,middle eastern,18713,29.11,46.39,24.5,linkedin,middle eastern_linkedin_
+2007,african,19871,37.8,25.93,36.26,twitter,african_twitter_
+2010,middle eastern,16872,13.83,25.52,60.65,linkedin,middle eastern_linkedin_
+2019,african,14333,23.23,49.09,27.68,linkedin,african_linkedin_
+2020,indigenous,1281,21.89,36.29,41.81,facebook,indigenous_facebook_
+2015,hispanic,13949,33.1,33.57,33.33,reddit,hispanic_reddit_
+2013,indigenous,13191,27.66,39.01,33.32,twitter,indigenous_twitter_
+2021,asian,1298,43.63,42,14.37,tiktok,asian_tiktok_
+2004,middle eastern,12141,16.23,24.38,59.38,instagram,middle eastern_instagram_
+2017,african,10566,10.99,45.11,43.9,facebook,african_facebook_
+2012,african,19482,20.42,34.12,45.46,youtube,african_youtube_
+2011,hispanic,13136,56.77,24.85,18.38,tiktok,hispanic_tiktok_
+2020,hispanic,10274,39.93,26.58,33.48,instagram,hispanic_instagram_
+2010,asian,11422,22.57,45.5,31.92,tiktok,asian_tiktok_
+2008,indigenous,15565,47.52,40.3,12.18,twitter,indigenous_twitter_
+2009,middle eastern,7572,56.18,42.01,1.81,reddit,middle eastern_reddit_
+2004,asian,11229,32.89,43.55,23.56,youtube,asian_youtube_
+2020,middle eastern,3384,28.3,42.62,29.08,youtube,middle eastern_youtube_
+2004,asian,12297,46.05,43.92,10.03,tiktok,asian_tiktok_
+2021,indigenous,13875,31.32,23.47,45.21,tiktok,indigenous_tiktok_
+2010,african,19322,58.28,33.67,8.05,reddit,african_reddit_
+2010,asian,14826,14.4,33.8,51.8,reddit,asian_reddit_
+2024,european,15542,14.1,22.47,63.42,youtube,european_youtube_
+2022,indigenous,2882,58.71,22.07,19.22,youtube,indigenous_youtube_
+2013,middle eastern,11857,16.66,32.14,51.2,youtube,middle eastern_youtube_
+2024,african,1223,18.97,47.02,34.01,facebook,african_facebook_
+2017,african,1061,48.09,27.8,24.1,facebook,african_facebook_
+2007,african,1828,39.67,26.29,34.04,twitter,african_twitter_
+2019,european,3276,27.24,35.39,37.36,twitter,european_twitter_
+2016,asian,8298,20.84,49.38,29.78,youtube,asian_youtube_
+2013,asian,5386,16.53,23.83,59.64,linkedin,asian_linkedin_
+2011,indigenous,7858,40.09,46.22,13.7,twitter,indigenous_twitter_
+2024,european,4683,19.19,30.13,50.67,tiktok,european_tiktok_
+2012,european,9396,24.23,46.26,29.5,linkedin,european_linkedin_
+2012,european,15766,12.02,30.54,57.44,linkedin,european_linkedin_
+2006,asian,16569,29.44,24.87,45.7,tiktok,asian_tiktok_
+2007,indigenous,18981,36.9,23.68,39.42,reddit,indigenous_reddit_
+2016,asian,10925,16.11,48.67,35.22,linkedin,asian_linkedin_
+2017,indigenous,14594,30.83,49.91,19.25,linkedin,indigenous_linkedin_
+2021,african,12674,54.33,26.05,19.62,instagram,african_instagram_
+2014,european,9789,26.29,31.08,42.63,twitter,european_twitter_
+2016,african,11532,59.75,43.64,-3.4,facebook,african_facebook_
+2023,middle eastern,11161,18.94,47.83,33.22,tiktok,middle eastern_tiktok_
+2019,hispanic,14789,55.83,45.28,-1.11,linkedin,hispanic_linkedin_
+2014,hispanic,12972,41.81,25.81,32.38,linkedin,hispanic_linkedin_
+2014,indigenous,7030,52.39,24.08,23.52,tiktok,indigenous_tiktok_
+2016,indigenous,9407,55.16,44.64,0.2,instagram,indigenous_instagram_
+2011,african,10633,33.19,49.48,17.33,reddit,african_reddit_
+2010,african,7207,48.56,36.96,14.48,instagram,african_instagram_
+2009,european,14318,17.45,41.3,41.25,reddit,european_reddit_
+2024,middle eastern,6445,12.56,35.43,52.01,twitter,middle eastern_twitter_
+2004,european,9939,14.71,23.4,61.9,tiktok,european_tiktok_
+2017,african,9840,26.06,22.58,51.36,tiktok,african_tiktok_
+2022,european,11399,15.56,42.42,42.02,twitter,european_twitter_
+2015,hispanic,5858,12.95,42.85,44.2,tiktok,hispanic_tiktok_
+2015,european,2852,42.65,22.2,35.15,reddit,european_reddit_
+2017,african,5635,50.72,41.04,8.24,instagram,african_instagram_
+2010,indigenous,3361,50.81,22.53,26.66,youtube,indigenous_youtube_
+2009,hispanic,3695,24.42,45.06,30.52,facebook,hispanic_facebook_
+2013,asian,3356,41.02,49.31,9.67,reddit,asian_reddit_
+2019,african,8662,30.86,31.47,37.67,instagram,african_instagram_
+2011,european,15338,24.1,47.08,28.82,instagram,european_instagram_
+2012,asian,2507,59.05,38.83,2.12,facebook,asian_facebook_
+2021,european,13931,15.54,22.54,61.93,tiktok,european_tiktok_
+2014,hispanic,3024,50.43,35.79,13.79,twitter,hispanic_twitter_
+2017,asian,2706,54.81,36.41,8.77,tiktok,asian_tiktok_
+2011,european,18087,31.37,22.56,46.07,instagram,european_instagram_
+2013,middle eastern,5922,12.94,44.95,42.11,facebook,middle eastern_facebook_
+2021,hispanic,18334,39.92,43.93,16.15,linkedin,hispanic_linkedin_
+2020,indigenous,14231,34.8,31.34,33.86,tiktok,indigenous_tiktok_
+2005,european,8250,12.47,38.67,48.86,tiktok,european_tiktok_
+2009,hispanic,2971,32.15,26.1,41.76,reddit,hispanic_reddit_
+2024,asian,8027,47.56,44.25,8.18,tiktok,asian_tiktok_
+2016,indigenous,10243,17.55,39.83,42.63,linkedin,indigenous_linkedin_
+2013,asian,5185,52.47,30.02,17.51,facebook,asian_facebook_
+2021,european,1596,50.5,44.88,4.62,instagram,european_instagram_
+2018,hispanic,1903,30.71,34.07,35.22,tiktok,hispanic_tiktok_
+2024,middle eastern,15487,12.58,33.21,54.21,tiktok,middle eastern_tiktok_
+2020,asian,12182,10.8,37.52,51.68,facebook,asian_facebook_
+2022,european,6562,16.32,37.98,45.7,tiktok,european_tiktok_
+2017,european,14361,57.91,46.25,-4.15,youtube,european_youtube_
+2010,european,11240,23.08,40.35,36.57,reddit,european_reddit_
+2016,african,17799,22.55,36.05,41.4,tiktok,african_tiktok_
+2020,asian,3983,29.46,43.85,26.69,youtube,asian_youtube_
+2016,african,18525,36.08,24,39.93,instagram,african_instagram_
+2006,indigenous,6171,27.72,35.77,36.51,twitter,indigenous_twitter_
+2011,european,14105,20.89,36.11,43,instagram,european_instagram_
+2019,middle eastern,3605,55.39,43.24,1.37,linkedin,middle eastern_linkedin_
+2006,african,10793,28.13,22.85,49.02,reddit,african_reddit_
+2021,asian,19252,16.83,40.65,42.52,facebook,asian_facebook_
+2020,african,2544,37.09,36.9,26.01,reddit,african_reddit_
+2014,middle eastern,1273,28.83,34.76,36.41,twitter,middle eastern_twitter_
+2016,middle eastern,13289,39.73,20.6,39.66,linkedin,middle eastern_linkedin_
+2021,asian,15392,41.02,21.08,37.9,instagram,asian_instagram_
+2024,asian,12841,38.4,42.28,19.32,linkedin,asian_linkedin_
+2008,african,6445,28.52,30.78,40.71,twitter,african_twitter_
+2006,african,4146,55.87,34.39,9.73,tiktok,african_tiktok_
+2019,indigenous,15741,48.42,45.79,5.78,youtube,indigenous_youtube_
+2004,asian,1286,12.6,28.97,58.43,twitter,asian_twitter_
+2015,asian,5359,51.34,29.31,19.36,instagram,asian_instagram_
+2009,european,5971,39.66,26.93,33.42,linkedin,european_linkedin_
+2020,european,2996,31.44,46.3,22.25,youtube,european_youtube_
+2011,hispanic,13722,42.22,44.11,13.67,tiktok,hispanic_tiktok_
+2009,hispanic,7651,43.89,32.25,23.86,twitter,hispanic_twitter_
+2023,asian,1420,55.28,31.59,13.13,youtube,asian_youtube_
+2009,african,9736,25.29,48.41,26.29,tiktok,african_tiktok_
+2008,asian,10844,50.75,44.11,5.14,twitter,asian_twitter_
+2009,hispanic,8342,44.33,22.95,32.72,reddit,hispanic_reddit_
+2020,european,3334,40.14,36.13,23.73,twitter,european_twitter_
+2024,asian,2870,13.31,25.45,61.24,linkedin,asian_linkedin_
+2012,middle eastern,12214,35.6,45.05,19.36,facebook,middle eastern_facebook_
+2012,european,8815,37.93,35.24,26.83,tiktok,european_tiktok_
+2018,european,15075,29.76,24.57,45.66,linkedin,european_linkedin_
+2008,african,3582,36.23,38.51,25.27,twitter,african_twitter_
+2022,hispanic,1842,40.55,49.22,10.23,linkedin,hispanic_linkedin_
+2011,asian,12254,42.85,33.17,23.98,instagram,asian_instagram_
+2016,african,14650,18.98,40.34,40.68,twitter,african_twitter_
+2023,hispanic,7208,50,32.14,17.86,facebook,hispanic_facebook_
+2020,african,19562,58.49,48.13,-6.62,youtube,african_youtube_
+2024,european,18295,30.41,40.79,28.81,facebook,european_facebook_
+2007,african,12719,40.45,44.03,15.52,facebook,african_facebook_
+2016,indigenous,18282,35.32,39.03,25.65,linkedin,indigenous_linkedin_
+2010,hispanic,12972,39.35,47.13,13.52,reddit,hispanic_reddit_
+2012,asian,3682,41.33,38.66,20.01,linkedin,asian_linkedin_
+2023,hispanic,19918,46.84,22.27,30.89,reddit,hispanic_reddit_
+2015,asian,7501,17.71,44.99,37.3,instagram,asian_instagram_
+2011,african,8670,37.47,22.7,39.83,tiktok,african_tiktok_
+2019,asian,14977,37.68,40.59,21.73,tiktok,asian_tiktok_
+2010,asian,13320,20.2,46.87,32.93,instagram,asian_instagram_
+2019,hispanic,16998,51.34,44.8,3.87,facebook,hispanic_facebook_
+2022,indigenous,5752,18.4,25.46,56.14,reddit,indigenous_reddit_
+2019,asian,17508,52.24,33.88,13.88,reddit,asian_reddit_
+2017,indigenous,18383,14.53,31.86,53.61,linkedin,indigenous_linkedin_
+2013,hispanic,3090,29.41,21.4,49.18,facebook,hispanic_facebook_
+2022,hispanic,16320,54.98,36.65,8.38,reddit,hispanic_reddit_
+2022,indigenous,5993,43.83,33.54,22.63,reddit,indigenous_reddit_
+2024,indigenous,5055,29.48,46.39,24.14,tiktok,indigenous_tiktok_
+2024,hispanic,15575,47.2,47.19,5.6,youtube,hispanic_youtube_
+2004,asian,4175,53.6,33.73,12.67,facebook,asian_facebook_
+2019,middle eastern,4530,32.75,44.32,22.93,reddit,middle eastern_reddit_
+2012,african,17129,33.09,21.85,45.06,instagram,african_instagram_
+2018,asian,19983,44.75,25.82,29.43,reddit,asian_reddit_
+2020,african,14980,32.1,27.87,40.03,youtube,african_youtube_
+2016,indigenous,8591,40.59,20.6,38.8,linkedin,indigenous_linkedin_
+2008,african,18896,15.32,36.95,47.73,instagram,african_instagram_
+2011,european,9477,10.73,39.26,50.01,twitter,european_twitter_
+2023,african,12378,10.55,28.81,60.63,youtube,african_youtube_
+2024,middle eastern,12515,16.98,41.2,41.82,reddit,middle eastern_reddit_
+2024,european,10081,19.94,32.38,47.68,reddit,european_reddit_
+2008,asian,18667,17.46,23.72,58.82,reddit,asian_reddit_
+2015,african,12276,21.38,37.47,41.15,facebook,african_facebook_
+2017,african,5259,59.46,38.56,1.99,twitter,african_twitter_
+2011,asian,1569,53.79,44.72,1.49,facebook,asian_facebook_
+2022,indigenous,13153,45.72,26,28.28,tiktok,indigenous_tiktok_
+2013,european,8237,12.78,49.32,37.9,youtube,european_youtube_
+2012,indigenous,14377,27.9,43.61,28.49,instagram,indigenous_instagram_
+2016,middle eastern,4442,39.26,23.26,37.48,facebook,middle eastern_facebook_
+2014,african,3752,22.99,43.21,33.8,tiktok,african_tiktok_
+2019,indigenous,13959,42.62,26.38,31,reddit,indigenous_reddit_
+2015,african,2695,29.83,37.11,33.06,youtube,african_youtube_
+2019,indigenous,1173,59.78,28.33,11.89,facebook,indigenous_facebook_
+2013,african,17490,21.2,26.61,52.19,linkedin,african_linkedin_
+2024,european,9936,58.38,23.22,18.4,reddit,european_reddit_
+2005,middle eastern,19212,16.86,20.62,62.53,twitter,middle eastern_twitter_
+2009,hispanic,17009,15.67,25.87,58.46,linkedin,hispanic_linkedin_
+2012,asian,1892,33.55,32.21,34.24,facebook,asian_facebook_
+2009,middle eastern,4187,39.99,34.24,25.76,tiktok,middle eastern_tiktok_
+2005,middle eastern,10462,43.32,44.48,12.2,instagram,middle eastern_instagram_
+2008,hispanic,12383,48.07,38.12,13.81,twitter,hispanic_twitter_
+2016,european,2322,20.1,20.7,59.2,twitter,european_twitter_
+2017,middle eastern,3399,16.87,21.73,61.4,youtube,middle eastern_youtube_
+2018,indigenous,6845,30.52,49.34,20.14,youtube,indigenous_youtube_
+2019,hispanic,3946,25.41,28.6,46,tiktok,hispanic_tiktok_
+2011,indigenous,18520,28.97,49.49,21.54,twitter,indigenous_twitter_
+2009,indigenous,6683,26.68,22.41,50.92,facebook,indigenous_facebook_
+2020,indigenous,12285,14.78,45.6,39.62,reddit,indigenous_reddit_
+2016,asian,10424,53.82,37.05,9.13,twitter,asian_twitter_
+2014,indigenous,3396,47.8,29.18,23.03,reddit,indigenous_reddit_
+2017,middle eastern,10265,13.15,42.92,43.93,reddit,middle eastern_reddit_
+2019,asian,16629,41.37,44.43,14.2,youtube,asian_youtube_
+2008,european,19050,29.52,36.36,34.12,reddit,european_reddit_
+2016,asian,19985,34.08,22.93,42.99,linkedin,asian_linkedin_
+2009,asian,6495,29,34.38,36.62,linkedin,asian_linkedin_
+2010,hispanic,6408,32.13,20.25,47.62,youtube,hispanic_youtube_
+2008,middle eastern,9839,53.71,40.07,6.21,youtube,middle eastern_youtube_
+2006,asian,7534,32.32,30.71,36.97,tiktok,asian_tiktok_
+2020,african,17848,40.16,30.03,29.8,facebook,african_facebook_
+2014,european,16156,57.95,40.58,1.48,twitter,european_twitter_
+2022,european,12584,22.36,24.73,52.9,tiktok,european_tiktok_
+2008,european,7931,55.09,43.74,1.17,instagram,european_instagram_
+2015,middle eastern,1023,37.01,39.57,23.41,tiktok,middle eastern_tiktok_
+2017,middle eastern,15784,30.1,35.76,34.14,linkedin,middle eastern_linkedin_
+2009,asian,18171,37.38,47.62,15,facebook,asian_facebook_
+2007,european,9547,58.1,40.59,1.31,instagram,european_instagram_
+2024,african,18264,27.66,22.49,49.85,instagram,african_instagram_
+2022,middle eastern,7448,40.69,20.9,38.41,reddit,middle eastern_reddit_
+2009,african,11785,27.25,31.25,41.5,twitter,african_twitter_
+2004,asian,15026,42.37,40.48,17.16,twitter,asian_twitter_
+2014,european,6110,13.59,48.06,38.36,reddit,european_reddit_
+2024,african,13769,52.19,23.62,24.19,twitter,african_twitter_
+2019,hispanic,9319,21.56,24.67,53.76,youtube,hispanic_youtube_
+2016,european,11783,29.31,29.23,41.46,reddit,european_reddit_
+2006,indigenous,17896,26.81,47.11,26.08,facebook,indigenous_facebook_
+2022,hispanic,1129,53.87,28.98,17.15,tiktok,hispanic_tiktok_
+2008,african,13353,37.28,37.51,25.21,reddit,african_reddit_
+2023,middle eastern,15457,14.47,28.53,57,facebook,middle eastern_facebook_
+2012,african,8180,36.12,32.71,31.17,instagram,african_instagram_
+2010,middle eastern,6607,10.95,33.67,55.37,facebook,middle eastern_facebook_
+2006,asian,4042,48.22,25.73,26.05,reddit,asian_reddit_
+2009,african,1724,29.72,23.97,46.31,twitter,african_twitter_
+2016,asian,17060,39.78,22.62,37.6,reddit,asian_reddit_
+2012,indigenous,13701,35.26,38.65,26.09,linkedin,indigenous_linkedin_
+2014,middle eastern,12745,14.94,42.1,42.96,reddit,middle eastern_reddit_
+2018,african,15611,42.35,35.84,21.81,facebook,african_facebook_
+2005,asian,13060,58.16,39.78,2.06,youtube,asian_youtube_
+2012,asian,14854,22.13,23.11,54.76,facebook,asian_facebook_
+2011,african,9535,55.62,48.91,-4.53,twitter,african_twitter_
+2024,asian,5408,29.85,48.86,21.28,reddit,asian_reddit_
+2023,european,18391,43.94,46.56,9.5,linkedin,european_linkedin_
+2012,european,3507,21.51,37.15,41.34,linkedin,european_linkedin_
+2024,hispanic,7241,42.45,27.42,30.13,twitter,hispanic_twitter_
+2004,african,3364,26.8,47.06,26.13,reddit,african_reddit_
+2020,asian,4106,18.41,48.63,32.96,tiktok,asian_tiktok_
+2016,hispanic,12614,51.83,45.67,2.5,twitter,hispanic_twitter_
+2024,middle eastern,6165,59.24,43.32,-2.56,reddit,middle eastern_reddit_
+2018,asian,14333,27.02,28.84,44.14,instagram,asian_instagram_
+2021,african,14305,50.97,48.74,0.29,youtube,african_youtube_
+2019,asian,14582,15.15,45.52,39.34,instagram,asian_instagram_
+2020,african,16367,50.93,32.22,16.85,instagram,african_instagram_
+2009,asian,14033,35.44,34.03,30.53,linkedin,asian_linkedin_
+2010,hispanic,2244,25.5,22.42,52.08,reddit,hispanic_reddit_
+2021,asian,5724,43.01,42.88,14.11,linkedin,asian_linkedin_
+2005,middle eastern,3666,48.17,31.84,19.99,facebook,middle eastern_facebook_
+2020,middle eastern,1989,55.09,45.05,-0.13,twitter,middle eastern_twitter_
+2014,hispanic,4731,22.93,40.48,36.58,facebook,hispanic_facebook_
+2011,african,13015,19.59,47.69,32.72,youtube,african_youtube_
+2023,indigenous,12071,17.23,31.44,51.32,youtube,indigenous_youtube_
+2016,european,18039,19.83,43.47,36.71,tiktok,european_tiktok_
+2016,hispanic,4528,47.61,35.09,17.29,instagram,hispanic_instagram_
+2012,middle eastern,8467,58.64,37.87,3.5,facebook,middle eastern_facebook_
+2020,african,4932,44.12,23.77,32.11,facebook,african_facebook_
+2009,african,15606,23.73,38.73,37.54,linkedin,african_linkedin_
+2005,asian,2818,16.41,21.95,61.64,instagram,asian_instagram_
+2006,asian,4403,46.72,46.81,6.47,linkedin,asian_linkedin_
+2011,asian,7052,38.64,48.16,13.19,tiktok,asian_tiktok_
+2020,european,17901,35.85,39.92,24.22,instagram,european_instagram_
+2009,hispanic,19898,23.78,31.86,44.36,instagram,hispanic_instagram_
+2018,asian,8086,40.97,31.16,27.87,reddit,asian_reddit_
+2004,asian,5692,29.9,36.4,33.7,instagram,asian_instagram_
+2023,european,8408,27.04,31.95,41.01,instagram,european_instagram_
+2024,indigenous,15747,50.55,43.47,5.98,facebook,indigenous_facebook_
+2012,middle eastern,17832,10.42,27.15,62.43,facebook,middle eastern_facebook_
+2009,indigenous,1503,26.33,41.9,31.77,instagram,indigenous_instagram_
+2013,african,9023,17.41,22.81,59.77,reddit,african_reddit_
+2011,european,8886,15.93,38.2,45.87,reddit,european_reddit_
+2018,asian,16064,45.21,47.54,7.25,tiktok,asian_tiktok_
+2009,hispanic,19591,32.72,38.66,28.63,linkedin,hispanic_linkedin_
+2007,indigenous,10510,41.08,42.29,16.63,twitter,indigenous_twitter_
+2011,asian,18743,48.82,37.98,13.2,facebook,asian_facebook_
+2018,european,12571,21.19,47.85,30.96,facebook,european_facebook_
+2010,asian,17582,55.64,20.37,23.99,linkedin,asian_linkedin_
+2020,african,13280,47.72,33.99,18.29,twitter,african_twitter_
+2007,asian,19216,17.99,49.88,32.13,tiktok,asian_tiktok_
+2013,hispanic,1190,55.22,23.86,20.92,youtube,hispanic_youtube_
+2007,african,16933,26.16,20.6,53.25,instagram,african_instagram_
+2009,middle eastern,8289,43.31,31.95,24.73,youtube,middle eastern_youtube_
+2017,african,6302,11.46,20.38,68.16,tiktok,african_tiktok_
+2024,european,4730,37.15,21.38,41.48,facebook,european_facebook_
+2013,hispanic,9596,46.22,44.53,9.25,twitter,hispanic_twitter_
+2018,european,11443,12.75,36.65,50.6,twitter,european_twitter_
+2011,african,12000,49.67,22.02,28.31,linkedin,african_linkedin_
+2012,asian,9834,57.18,40.11,2.71,youtube,asian_youtube_
+2023,indigenous,8930,30.39,33.13,36.48,instagram,indigenous_instagram_
+2018,african,13490,51.23,32.67,16.1,facebook,african_facebook_
+2007,indigenous,8907,38.97,29.64,31.39,youtube,indigenous_youtube_
+2004,middle eastern,13066,30.8,31.92,37.28,linkedin,middle eastern_linkedin_
+2008,middle eastern,13380,20.49,30.71,48.8,tiktok,middle eastern_tiktok_
+2015,middle eastern,3771,41.58,24.28,34.13,linkedin,middle eastern_linkedin_
+2018,hispanic,6923,22.52,30.3,47.18,instagram,hispanic_instagram_
+2021,european,14059,20.5,39.05,40.45,youtube,european_youtube_
+2009,asian,13753,33.9,25.12,40.99,linkedin,asian_linkedin_
+2014,african,12082,59.22,48.71,-7.93,tiktok,african_tiktok_
+2018,asian,14854,37.58,46.09,16.33,tiktok,asian_tiktok_
+2023,african,16169,37.95,47.55,14.5,instagram,african_instagram_
+2004,asian,7133,46.93,40.23,12.84,youtube,asian_youtube_
+2007,hispanic,5404,28.73,32.87,38.4,linkedin,hispanic_linkedin_
+2008,indigenous,12442,16.07,32.11,51.82,linkedin,indigenous_linkedin_
+2023,asian,2143,39.54,46.07,14.39,reddit,asian_reddit_
+2004,european,13097,49.88,31.62,18.5,linkedin,european_linkedin_
+2007,asian,10822,30.88,28.23,40.89,linkedin,asian_linkedin_
+2016,indigenous,15063,35.39,36.95,27.66,facebook,indigenous_facebook_
+2018,indigenous,18871,25.71,31.39,42.89,instagram,indigenous_instagram_
+2010,asian,3541,32.99,29.27,37.73,reddit,asian_reddit_
+2010,hispanic,17916,38.88,30.99,30.13,tiktok,hispanic_tiktok_
+2007,middle eastern,5203,57.94,33.11,8.95,reddit,middle eastern_reddit_
+2007,hispanic,13334,58.01,20.28,21.71,linkedin,hispanic_linkedin_
+2009,african,10252,52.83,36.99,10.18,instagram,african_instagram_
+2015,asian,5510,28.24,41.37,30.4,youtube,asian_youtube_
+2021,african,18727,43.1,30.77,26.13,reddit,african_reddit_
+2004,european,13443,48.72,48.42,2.85,tiktok,european_tiktok_
+2022,asian,3073,48.37,49.8,1.84,reddit,asian_reddit_
+2007,hispanic,19965,15.64,48.93,35.43,twitter,hispanic_twitter_
+2016,middle eastern,16602,40.98,29.7,29.32,tiktok,middle eastern_tiktok_
+2006,african,10000,47.02,49.17,3.81,instagram,african_instagram_
+2010,middle eastern,14321,28.06,22.11,49.83,linkedin,middle eastern_linkedin_
+2023,middle eastern,7279,57.95,30.22,11.83,linkedin,middle eastern_linkedin_
+2024,asian,19661,44.73,34,21.27,youtube,asian_youtube_
+2022,european,13275,31.09,47.77,21.14,twitter,european_twitter_
+2004,indigenous,8260,42.74,37.04,20.23,tiktok,indigenous_tiktok_
+2021,european,9795,16.31,34.79,48.9,reddit,european_reddit_
+2004,european,3327,32.89,35.86,31.24,linkedin,european_linkedin_
+2023,asian,11271,19.61,23.69,56.7,linkedin,asian_linkedin_
+2022,hispanic,3270,47.31,46.23,6.46,reddit,hispanic_reddit_
+2019,middle eastern,18433,23.91,35.8,40.28,linkedin,middle eastern_linkedin_
+2023,middle eastern,2027,14.68,34.39,50.93,reddit,middle eastern_reddit_
+2024,european,11471,33.99,34.82,31.19,twitter,european_twitter_
+2024,hispanic,11821,45.55,46.33,8.12,facebook,hispanic_facebook_
+2011,african,14019,19.86,42.5,37.63,instagram,african_instagram_
+2008,african,8786,46.22,31.04,22.74,instagram,african_instagram_
+2009,hispanic,16717,44.94,47.66,7.4,instagram,hispanic_instagram_
+2019,indigenous,18237,11.89,35.49,52.62,reddit,indigenous_reddit_
+2010,european,17008,43.71,35.97,20.32,linkedin,european_linkedin_
+2009,asian,12369,13,40.43,46.57,twitter,asian_twitter_
+2013,african,8835,38.31,43.21,18.48,twitter,african_twitter_
+2014,indigenous,7365,52.59,26.96,20.44,facebook,indigenous_facebook_
+2006,indigenous,1885,50.55,32.63,16.82,youtube,indigenous_youtube_
+2018,african,6349,39.03,20.41,40.56,youtube,african_youtube_
+2014,indigenous,14908,49.39,43.6,7.01,youtube,indigenous_youtube_
+2018,asian,8721,41.53,32.55,25.92,instagram,asian_instagram_
+2013,european,13010,49.91,48.91,1.18,facebook,european_facebook_
+2021,asian,19852,55.97,22.83,21.21,instagram,asian_instagram_
+2005,middle eastern,15443,16.56,39.63,43.81,reddit,middle eastern_reddit_
+2007,indigenous,10667,29.27,33.86,36.87,facebook,indigenous_facebook_
+2012,indigenous,9381,59.1,27.3,13.59,reddit,indigenous_reddit_
+2019,hispanic,6932,33.44,27.29,39.27,instagram,hispanic_instagram_
+2023,middle eastern,12282,20.76,44.46,34.78,instagram,middle eastern_instagram_
+2023,african,4762,38.82,29.99,31.18,youtube,african_youtube_
+2015,european,10987,44.44,47.46,8.1,facebook,european_facebook_
+2005,european,15423,45.89,46.4,7.71,tiktok,european_tiktok_
+2021,asian,19888,44.13,20.47,35.41,youtube,asian_youtube_
+2017,asian,9555,32.56,37.03,30.41,linkedin,asian_linkedin_
+2023,middle eastern,14318,46.27,34.08,19.64,instagram,middle eastern_instagram_
+2008,asian,1282,22.53,43.52,33.95,youtube,asian_youtube_
+2014,middle eastern,14254,14.86,43.39,41.75,reddit,middle eastern_reddit_
+2021,indigenous,2535,45.67,22.73,31.6,instagram,indigenous_instagram_
+2024,indigenous,5056,52.84,32.22,14.93,linkedin,indigenous_linkedin_
+2012,indigenous,4451,11.48,40.96,47.56,twitter,indigenous_twitter_
+2018,indigenous,10797,42.67,42.74,14.59,youtube,indigenous_youtube_
+2021,indigenous,7492,38.16,39.06,22.78,facebook,indigenous_facebook_
+2021,european,16481,17.6,27.66,54.75,twitter,european_twitter_
+2018,european,19044,43.24,44.76,12,reddit,european_reddit_
+2005,african,6100,37.91,30.36,31.73,youtube,african_youtube_
+2015,middle eastern,8287,55.06,42.84,2.1,reddit,middle eastern_reddit_
+2020,african,19656,12.03,25.79,62.18,tiktok,african_tiktok_
+2016,middle eastern,6444,45.15,33.16,21.69,youtube,middle eastern_youtube_
+2018,asian,9920,18.4,47.35,34.24,facebook,asian_facebook_
+2024,asian,3007,23.71,22.69,53.61,instagram,asian_instagram_
+2013,indigenous,4561,39.77,26.88,33.35,twitter,indigenous_twitter_
+2013,middle eastern,8361,49.39,33.99,16.63,facebook,middle eastern_facebook_
+2014,african,7854,11.27,32.32,56.41,tiktok,african_tiktok_
+2017,european,1091,33.14,31.81,35.05,instagram,european_instagram_
+2020,asian,4739,20.77,32.76,46.47,twitter,asian_twitter_
+2018,middle eastern,5175,41.32,41.32,17.36,instagram,middle eastern_instagram_
+2005,hispanic,11068,22.43,47.79,29.78,instagram,hispanic_instagram_
+2010,indigenous,5164,16.82,39.65,43.53,instagram,indigenous_instagram_
+2017,european,16744,47.22,37.4,15.38,youtube,european_youtube_
+2021,middle eastern,2796,50.18,42.85,6.98,instagram,middle eastern_instagram_
+2022,hispanic,8060,31.57,34.91,33.52,reddit,hispanic_reddit_
+2013,asian,4470,30.13,25.15,44.72,reddit,asian_reddit_
+2008,european,4459,11.49,20.25,68.25,youtube,european_youtube_
+2019,middle eastern,16279,27.96,31.82,40.22,reddit,middle eastern_reddit_
+2020,african,2524,32.84,21.9,45.26,linkedin,african_linkedin_
+2014,indigenous,7679,19.57,22.84,57.58,youtube,indigenous_youtube_
+2006,european,10174,41.08,22.37,36.56,facebook,european_facebook_
+2019,indigenous,14622,43.92,31.64,24.44,tiktok,indigenous_tiktok_
+2008,asian,12178,27.38,47.5,25.13,tiktok,asian_tiktok_
+2009,european,19838,36.1,48.09,15.81,linkedin,european_linkedin_
+2009,hispanic,16629,42.35,40.89,16.76,tiktok,hispanic_tiktok_
+2024,european,12959,37.63,38.55,23.82,facebook,european_facebook_
+2008,middle eastern,5429,15.38,26.44,58.18,linkedin,middle eastern_linkedin_
+2017,asian,15732,24.5,22.77,52.74,twitter,asian_twitter_
+2009,asian,15481,43.48,45.64,10.88,instagram,asian_instagram_
+2009,african,9251,47.68,39.69,12.62,youtube,african_youtube_
+2015,middle eastern,10967,37.59,25.85,36.55,facebook,middle eastern_facebook_
+2020,african,13184,11.25,28.84,59.91,twitter,african_twitter_
+2004,hispanic,12034,14.73,46.84,38.43,tiktok,hispanic_tiktok_
+2009,indigenous,10309,36.99,26.53,36.48,facebook,indigenous_facebook_
+2013,middle eastern,7130,59.31,32.84,7.85,linkedin,middle eastern_linkedin_
+2016,african,12387,31.44,20.43,48.13,reddit,african_reddit_
+2016,hispanic,2354,18.59,27.65,53.77,youtube,hispanic_youtube_
+2010,indigenous,13067,35.26,30.83,33.91,facebook,indigenous_facebook_
+2020,african,11821,20.57,35.72,43.71,linkedin,african_linkedin_
+2024,asian,2213,41.95,38.02,20.02,linkedin,asian_linkedin_
+2005,middle eastern,3832,22.39,48.41,29.2,linkedin,middle eastern_linkedin_
+2014,hispanic,5853,14.29,23,62.71,instagram,hispanic_instagram_
+2020,african,19597,17.05,41.64,41.31,reddit,african_reddit_
+2011,hispanic,1285,53.5,39.23,7.26,linkedin,hispanic_linkedin_
+2010,asian,16389,58.67,33.14,8.19,facebook,asian_facebook_
+2022,european,1996,34.83,41.25,23.92,twitter,european_twitter_
+2022,indigenous,3549,20.79,30.16,49.06,tiktok,indigenous_tiktok_
+2018,african,14254,13.82,23.54,62.63,twitter,african_twitter_
+2010,hispanic,12800,38.37,24.8,36.83,tiktok,hispanic_tiktok_
+2023,hispanic,4974,18.5,22.53,58.97,reddit,hispanic_reddit_
+2021,middle eastern,7187,56.34,22.99,20.67,tiktok,middle eastern_tiktok_
+2024,african,5204,18.79,37.96,43.25,tiktok,african_tiktok_
+2021,european,19095,56.55,35.22,8.23,instagram,european_instagram_
+2011,middle eastern,2188,58.18,45.59,-3.77,youtube,middle eastern_youtube_
+2021,african,14183,29.75,41.99,28.26,instagram,african_instagram_
+2010,hispanic,13158,38.18,33.91,27.91,tiktok,hispanic_tiktok_
+2004,hispanic,16686,28.29,46.86,24.86,youtube,hispanic_youtube_
+2017,european,11271,43.7,45.5,10.8,facebook,european_facebook_
+2015,middle eastern,15945,44.83,45.36,9.81,twitter,middle eastern_twitter_
+2016,asian,2572,55.96,31.02,13.02,linkedin,asian_linkedin_
+2005,african,15579,30.23,25.8,43.97,reddit,african_reddit_
+2011,middle eastern,3167,53.12,49.63,-2.74,tiktok,middle eastern_tiktok_
+2022,asian,2802,24.14,35.25,40.62,youtube,asian_youtube_
+2016,african,1768,38.78,43.9,17.32,linkedin,african_linkedin_
+2024,european,1256,17.4,48.61,33.98,reddit,european_reddit_
+2020,asian,7082,22.58,42.43,34.99,facebook,asian_facebook_
+2022,european,11251,42.69,44.48,12.83,reddit,european_reddit_
+2013,middle eastern,14326,39.77,23.03,37.2,instagram,middle eastern_instagram_
+2007,middle eastern,18460,11.54,31.83,56.64,youtube,middle eastern_youtube_
+2020,hispanic,1936,13.37,46.19,40.44,linkedin,hispanic_linkedin_
+2018,asian,19288,41.4,42.34,16.26,facebook,asian_facebook_
+2016,african,7600,27.92,45.89,26.19,facebook,african_facebook_
+2005,middle eastern,13455,32.63,43.89,23.48,facebook,middle eastern_facebook_
+2010,european,9175,25.58,32.89,41.53,facebook,european_facebook_
+2018,indigenous,10492,44.78,37.07,18.15,twitter,indigenous_twitter_
+2012,middle eastern,13815,15.4,23.39,61.21,twitter,middle eastern_twitter_
+2004,african,1745,43.22,36.54,20.24,facebook,african_facebook_
+2023,indigenous,9593,51.38,48.7,-0.08,tiktok,indigenous_tiktok_
+2021,hispanic,14882,30.03,33.82,36.15,linkedin,hispanic_linkedin_
+2015,middle eastern,8078,36.35,28.76,34.89,twitter,middle eastern_twitter_
+2005,hispanic,17491,59.1,45.79,-4.9,linkedin,hispanic_linkedin_
+2016,middle eastern,16349,14.58,25.52,59.9,instagram,middle eastern_instagram_
+2010,african,9229,46.78,22.44,30.78,instagram,african_instagram_
+2024,african,1533,58.26,40.24,1.5,tiktok,african_tiktok_
+2019,european,11189,31.14,42.36,26.5,facebook,european_facebook_
+2009,european,17997,58.01,39.57,2.42,linkedin,european_linkedin_
+2023,asian,10608,56.05,40.96,2.99,linkedin,asian_linkedin_
+2018,indigenous,6219,43.71,24.86,31.43,facebook,indigenous_facebook_
+2011,middle eastern,16241,34.29,39.46,26.25,linkedin,middle eastern_linkedin_
+2006,asian,1875,13.81,40.07,46.12,facebook,asian_facebook_
+2019,european,16806,30.47,37.31,32.22,facebook,european_facebook_
+2011,european,10461,19.1,49.27,31.63,linkedin,european_linkedin_
+2023,european,11998,25.82,22.56,51.62,linkedin,european_linkedin_
+2014,european,2510,36.16,46.42,17.43,tiktok,european_tiktok_
+2014,indigenous,8127,15.09,46.38,38.53,twitter,indigenous_twitter_
+2005,asian,13068,36.29,41.62,22.09,linkedin,asian_linkedin_
+2007,middle eastern,7508,34.56,27.71,37.74,twitter,middle eastern_twitter_
+2004,indigenous,14471,36.78,30.47,32.75,tiktok,indigenous_tiktok_
+2005,hispanic,8440,18.64,49.41,31.95,linkedin,hispanic_linkedin_
+2020,hispanic,9585,50.68,36.3,13.02,facebook,hispanic_facebook_
+2006,european,4444,42.1,33.88,24.02,tiktok,european_tiktok_
+2009,middle eastern,11041,28.43,44.61,26.96,instagram,middle eastern_instagram_
+2015,african,8614,35.96,42.2,21.83,tiktok,african_tiktok_
+2010,african,7444,41.55,38.26,20.2,youtube,african_youtube_
+2007,hispanic,10669,30.06,48.85,21.09,tiktok,hispanic_tiktok_
+2022,european,15958,32.14,42.4,25.45,facebook,european_facebook_
+2004,asian,12511,51.2,42.24,6.56,instagram,asian_instagram_
+2008,indigenous,10485,21.34,21.95,56.71,instagram,indigenous_instagram_
+2019,middle eastern,7885,13.18,40.14,46.68,facebook,middle eastern_facebook_
+2017,asian,19366,31.79,49.61,18.61,tiktok,asian_tiktok_
+2016,middle eastern,12143,36.49,37.53,25.99,reddit,middle eastern_reddit_
+2007,asian,9768,36,26.25,37.76,instagram,asian_instagram_
+2023,african,18329,57.27,45.6,-2.86,linkedin,african_linkedin_
+2004,european,6480,20.38,28.15,51.47,tiktok,european_tiktok_
+2018,asian,3399,57.88,26.12,16.01,facebook,asian_facebook_
+2006,african,4901,13.41,22.18,64.41,facebook,african_facebook_
+2004,asian,2810,20.45,45.06,34.49,tiktok,asian_tiktok_
+2004,asian,19484,58.07,47.24,-5.31,tiktok,asian_tiktok_
+2015,european,3143,45.57,21.72,32.71,reddit,european_reddit_
+2016,middle eastern,19157,20.76,40.97,38.28,reddit,middle eastern_reddit_
+2010,hispanic,14300,17.96,20.6,61.44,instagram,hispanic_instagram_
+2010,middle eastern,13864,22.43,25.12,52.45,facebook,middle eastern_facebook_
+2012,asian,10229,14.36,37.19,48.45,twitter,asian_twitter_
+2008,european,10116,30.87,22.65,46.48,facebook,european_facebook_
+2020,middle eastern,3484,57.39,31.84,10.77,tiktok,middle eastern_tiktok_
+2019,asian,2364,48.62,29.59,21.79,youtube,asian_youtube_
+2023,middle eastern,1485,18.82,21.88,59.3,facebook,middle eastern_facebook_
+2007,hispanic,3991,37.68,20.01,42.31,youtube,hispanic_youtube_
+2019,indigenous,19932,55.03,37.59,7.38,twitter,indigenous_twitter_
+2009,indigenous,16104,50.26,41.94,7.8,twitter,indigenous_twitter_
+2008,european,17200,20.39,23.49,56.12,reddit,european_reddit_
+2007,indigenous,4139,33.32,37.54,29.15,youtube,indigenous_youtube_
+2013,indigenous,3286,13.03,45.42,41.56,linkedin,indigenous_linkedin_
+2005,african,9886,11.06,36.95,51.99,facebook,african_facebook_
+2014,hispanic,9002,32.28,28.19,39.53,tiktok,hispanic_tiktok_
+2015,asian,1169,31.81,40.89,27.3,twitter,asian_twitter_
+2011,hispanic,7961,30.71,26.52,42.77,instagram,hispanic_instagram_
+2004,hispanic,19794,36.66,48.75,14.58,youtube,hispanic_youtube_
+2022,middle eastern,12980,38.61,23.16,38.23,facebook,middle eastern_facebook_
+2010,middle eastern,1808,42.44,29.08,28.48,reddit,middle eastern_reddit_
+2008,african,8926,50.76,30.25,18.99,linkedin,african_linkedin_
+2017,african,10264,56.05,35.08,8.87,tiktok,african_tiktok_
+2018,european,16992,47.04,35.81,17.15,tiktok,european_tiktok_
+2018,indigenous,12371,51.86,24.22,23.92,youtube,indigenous_youtube_
+2005,hispanic,14311,30.99,38.47,30.54,twitter,hispanic_twitter_
+2010,indigenous,15096,34.81,44.93,20.26,reddit,indigenous_reddit_
+2014,european,4922,51.29,30.92,17.79,instagram,european_instagram_
+2019,indigenous,8033,36.3,21.74,41.96,twitter,indigenous_twitter_
+2013,european,12117,45.2,45.64,9.16,instagram,european_instagram_
+2012,indigenous,11343,21.97,30.34,47.69,youtube,indigenous_youtube_
+2010,indigenous,8090,56.77,30.26,12.97,reddit,indigenous_reddit_
+2004,asian,16193,40.98,41.6,17.43,facebook,asian_facebook_
+2013,indigenous,15314,31.94,44.54,23.52,twitter,indigenous_twitter_
+2016,middle eastern,11248,17.64,24.94,57.42,facebook,middle eastern_facebook_
+2018,european,12125,36.04,44.48,19.48,reddit,european_reddit_
+2024,european,14993,51.93,20.52,27.54,reddit,european_reddit_
+2009,indigenous,7110,41.11,38.36,20.54,instagram,indigenous_instagram_
+2014,european,15875,47.05,28.64,24.31,instagram,european_instagram_
+2004,asian,15192,47.8,49.16,3.04,instagram,asian_instagram_
+2023,hispanic,15226,48.54,47.58,3.88,facebook,hispanic_facebook_
+2016,hispanic,9216,39.38,42.45,18.17,twitter,hispanic_twitter_
+2012,indigenous,7255,38.85,21.94,39.21,instagram,indigenous_instagram_
+2023,hispanic,4958,53.01,42.41,4.58,tiktok,hispanic_tiktok_
+2006,african,11794,21.61,49.05,29.34,linkedin,african_linkedin_
+2006,european,16529,44.44,32.79,22.77,linkedin,european_linkedin_
+2006,european,15584,51.87,35.3,12.82,youtube,european_youtube_
+2019,european,14017,26.48,37.67,35.84,instagram,european_instagram_
+2023,hispanic,19106,52.75,34.07,13.18,facebook,hispanic_facebook_
+2015,african,18135,19.52,48.1,32.38,youtube,african_youtube_
+2009,asian,13960,47.06,29.99,22.95,instagram,asian_instagram_
+2014,african,4526,49.5,30.15,20.35,linkedin,african_linkedin_
+2023,indigenous,12361,16.3,27.83,55.88,reddit,indigenous_reddit_
+2019,asian,17441,40.65,24.37,34.99,twitter,asian_twitter_
+2020,african,17723,41.34,26.57,32.09,twitter,african_twitter_
+2006,middle eastern,1400,25.37,34.55,40.08,twitter,middle eastern_twitter_
+2024,asian,7307,52.05,42.14,5.81,tiktok,asian_tiktok_
+2017,african,15641,24.03,28.46,47.51,instagram,african_instagram_
+2018,middle eastern,4447,41.42,36.53,22.05,facebook,middle eastern_facebook_
+2022,european,11219,53.24,31.28,15.48,twitter,european_twitter_
+2014,african,8809,29.98,25.86,44.16,youtube,african_youtube_
+2014,european,11346,15.14,44.01,40.85,twitter,european_twitter_
+2017,middle eastern,2140,31.77,37.36,30.87,twitter,middle eastern_twitter_
+2024,european,18134,27.59,40.94,31.47,twitter,european_twitter_
+2004,indigenous,16286,58.81,32.54,8.65,linkedin,indigenous_linkedin_
+2011,middle eastern,11777,15.07,29.47,55.46,linkedin,middle eastern_linkedin_
+2015,indigenous,5910,13.15,44.16,42.69,youtube,indigenous_youtube_
+2023,middle eastern,19127,44.98,34.93,20.09,facebook,middle eastern_facebook_
+2019,indigenous,6266,40.06,40.35,19.59,twitter,indigenous_twitter_
+2019,asian,14701,26.78,44.14,29.07,reddit,asian_reddit_
+2018,european,12486,37.13,31.57,31.29,youtube,european_youtube_
+2016,asian,15495,16.96,33.27,49.77,tiktok,asian_tiktok_
+2015,asian,14027,22.57,42.97,34.46,facebook,asian_facebook_
+2023,african,4984,25.85,44.6,29.54,youtube,african_youtube_
+2023,middle eastern,6052,42.3,31.42,26.29,linkedin,middle eastern_linkedin_
+2006,hispanic,6243,53.33,35.16,11.5,instagram,hispanic_instagram_
+2010,hispanic,17878,42.33,43.45,14.22,reddit,hispanic_reddit_
+2011,middle eastern,9103,25.19,21.1,53.71,instagram,middle eastern_instagram_
+2008,asian,8879,34.95,38.19,26.87,youtube,asian_youtube_
+2022,european,14268,49.38,38.48,12.14,twitter,european_twitter_
+2017,african,6149,13.06,48.16,38.77,tiktok,african_tiktok_
+2024,asian,6675,24.53,26.81,48.67,twitter,asian_twitter_
+2005,african,4631,15.41,37.79,46.8,reddit,african_reddit_
+2016,indigenous,14282,12.27,31.34,56.4,linkedin,indigenous_linkedin_
+2008,middle eastern,17236,57.89,27,15.11,facebook,middle eastern_facebook_
+2019,hispanic,9207,44.12,31.29,24.6,facebook,hispanic_facebook_
+2022,european,11337,49.22,42.82,7.96,youtube,european_youtube_
+2017,european,11526,20.92,37.79,41.29,facebook,european_facebook_
+2019,asian,2530,51.71,34.77,13.53,facebook,asian_facebook_
+2018,african,17856,25.44,33.18,41.38,youtube,african_youtube_
+2010,hispanic,14764,19.45,26.87,53.67,youtube,hispanic_youtube_
+2007,indigenous,17696,20.48,36.35,43.17,twitter,indigenous_twitter_
+2014,middle eastern,8808,16.79,25.33,57.89,reddit,middle eastern_reddit_
+2017,indigenous,6588,24.92,25.88,49.2,twitter,indigenous_twitter_
+2024,middle eastern,15350,40.11,39.35,20.53,youtube,middle eastern_youtube_
+2013,hispanic,1360,55.56,37.64,6.8,twitter,hispanic_twitter_
+2015,european,9736,30.76,23.97,45.26,twitter,european_twitter_
+2008,african,19864,56.35,41.4,2.24,instagram,african_instagram_
+2020,asian,19631,29.51,25.67,44.83,reddit,asian_reddit_
+2009,european,6621,27.7,31.86,40.44,youtube,european_youtube_
+2009,indigenous,3562,48.35,44.16,7.49,reddit,indigenous_reddit_
+2009,indigenous,12749,19.47,42.33,38.19,youtube,indigenous_youtube_
+2016,hispanic,16265,19.97,21.51,58.52,youtube,hispanic_youtube_
+2005,european,6258,22.49,23.51,54,instagram,european_instagram_
+2020,middle eastern,3765,30.05,33.63,36.31,youtube,middle eastern_youtube_
+2021,asian,7400,10.4,43.8,45.81,twitter,asian_twitter_
+2014,hispanic,10385,57.59,27.73,14.68,reddit,hispanic_reddit_
+2004,middle eastern,15041,51.23,22.19,26.58,instagram,middle eastern_instagram_
+2021,african,2742,49.43,41.31,9.26,instagram,african_instagram_
+2016,middle eastern,14456,52.92,37.86,9.23,instagram,middle eastern_instagram_
+2022,middle eastern,1472,29.49,47.67,22.84,tiktok,middle eastern_tiktok_
+2011,asian,8185,19.01,22.09,58.89,instagram,asian_instagram_
+2021,indigenous,8949,19.65,36.88,43.47,instagram,indigenous_instagram_
+2018,asian,13894,59.91,41.85,-1.76,linkedin,asian_linkedin_
+2015,indigenous,18564,12.72,28.26,59.02,reddit,indigenous_reddit_
+2024,hispanic,18568,24.89,44.49,30.62,youtube,hispanic_youtube_
+2023,european,12206,51.33,25.85,22.81,tiktok,european_tiktok_
+2013,indigenous,6249,29.93,21.01,49.07,linkedin,indigenous_linkedin_
+2017,european,3929,52.5,41.16,6.34,facebook,european_facebook_
+2004,hispanic,16090,58.82,34.4,6.78,youtube,hispanic_youtube_
+2015,hispanic,15298,16.08,47.53,36.39,youtube,hispanic_youtube_
+2007,middle eastern,11468,12.96,46.97,40.07,reddit,middle eastern_reddit_
+2016,indigenous,4537,39.61,39.16,21.23,linkedin,indigenous_linkedin_
+2008,indigenous,3706,53.32,29.99,16.69,facebook,indigenous_facebook_
+2020,middle eastern,16040,48.32,44.6,7.08,instagram,middle eastern_instagram_
+2011,indigenous,5062,51.47,47.56,0.97,instagram,indigenous_instagram_
+2018,european,16940,30.53,32.05,37.42,youtube,european_youtube_
+2020,indigenous,14106,21.65,46.07,32.28,linkedin,indigenous_linkedin_
+2017,asian,14183,18.82,23.6,57.58,facebook,asian_facebook_
+2019,european,8902,21.25,44.49,34.26,tiktok,european_tiktok_
+2014,middle eastern,16083,41.25,37.79,20.96,reddit,middle eastern_reddit_
+2007,european,3087,31.63,31.81,36.56,instagram,european_instagram_
+2024,european,1516,27.55,22.09,50.36,youtube,european_youtube_
+2022,asian,8802,56.53,31.64,11.83,twitter,asian_twitter_
+2021,hispanic,19458,37.78,46.78,15.44,tiktok,hispanic_tiktok_
+2021,indigenous,17125,44.91,29.71,25.38,reddit,indigenous_reddit_
+2011,african,8119,59.68,31.98,8.33,youtube,african_youtube_
+2011,hispanic,12499,21.66,23.46,54.87,instagram,hispanic_instagram_
+2019,asian,1260,18.99,23.45,57.56,reddit,asian_reddit_
+2021,middle eastern,19108,37.7,44.89,17.41,linkedin,middle eastern_linkedin_
+2011,middle eastern,11281,53.59,23.84,22.58,twitter,middle eastern_twitter_
+2022,asian,7164,43.03,44.43,12.55,linkedin,asian_linkedin_
+2021,middle eastern,15872,36.77,45.81,17.42,tiktok,middle eastern_tiktok_
+2009,european,7654,13.93,36.33,49.74,youtube,european_youtube_
+2006,european,11092,52.41,37.75,9.84,youtube,european_youtube_
+2010,asian,7945,52.85,27.01,20.14,tiktok,asian_tiktok_
+2024,european,12505,54.26,32.08,13.65,tiktok,european_tiktok_
+2021,european,10263,42.19,36.89,20.91,linkedin,european_linkedin_
+2010,middle eastern,10530,15.18,43.39,41.43,reddit,middle eastern_reddit_
+2005,asian,8478,19.31,48.36,32.32,tiktok,asian_tiktok_
+2023,asian,11148,42.54,42.57,14.9,reddit,asian_reddit_
+2008,asian,4867,33.79,43.03,23.18,linkedin,asian_linkedin_
+2007,asian,18196,55.83,24.72,19.44,reddit,asian_reddit_
+2017,european,1623,22.31,25.1,52.59,facebook,european_facebook_
+2023,indigenous,17280,23.19,36.23,40.57,youtube,indigenous_youtube_
+2024,indigenous,16947,14.62,34.06,51.32,twitter,indigenous_twitter_
+2016,asian,13046,35.25,31,33.75,twitter,asian_twitter_
+2019,european,4439,57.66,32.71,9.63,reddit,european_reddit_
+2004,african,7258,52.35,49.13,-1.48,reddit,african_reddit_
+2007,middle eastern,5195,53.53,41.3,5.17,linkedin,middle eastern_linkedin_
+2021,african,19269,27.52,27.98,44.5,tiktok,african_tiktok_
+2005,indigenous,1325,25.09,47.28,27.64,reddit,indigenous_reddit_
+2014,hispanic,6356,42.16,36.54,21.31,facebook,hispanic_facebook_
+2022,african,3417,43.09,30.59,26.32,reddit,african_reddit_
+2014,european,7903,47.69,22.95,29.36,reddit,european_reddit_
+2007,hispanic,2450,10.13,45.03,44.84,twitter,hispanic_twitter_
+2018,middle eastern,12690,38.77,34.96,26.26,twitter,middle eastern_twitter_
+2005,indigenous,4664,42.01,23,34.98,linkedin,indigenous_linkedin_
+2015,african,5816,35.23,23.85,40.93,youtube,african_youtube_
+2017,african,2203,42.09,27.67,30.24,reddit,african_reddit_
+2006,african,15620,49.52,38.5,11.98,youtube,african_youtube_
+2015,indigenous,4533,54.36,32.65,12.98,reddit,indigenous_reddit_
+2012,european,11415,44.45,35.78,19.77,instagram,european_instagram_
+2005,european,15081,29.64,24.67,45.68,facebook,european_facebook_
+2005,asian,11519,47.63,23.48,28.89,twitter,asian_twitter_
+2018,indigenous,19352,38.65,41.22,20.13,twitter,indigenous_twitter_
+2005,middle eastern,18416,35.25,34.92,29.83,linkedin,middle eastern_linkedin_
+2006,hispanic,15359,49.24,47.25,3.52,instagram,hispanic_instagram_
+2012,middle eastern,18052,25.7,43.8,30.5,youtube,middle eastern_youtube_
+2022,hispanic,12867,35.5,41.57,22.94,facebook,hispanic_facebook_
+2020,asian,18402,12.65,34.78,52.57,reddit,asian_reddit_
+2005,hispanic,13485,19.2,28.49,52.31,tiktok,hispanic_tiktok_
+2015,european,3726,43.86,39.53,16.6,facebook,european_facebook_
+2004,asian,7944,24.51,43.37,32.12,twitter,asian_twitter_
+2007,asian,4395,15.64,48.54,35.82,twitter,asian_twitter_
+2009,african,4672,11.85,30.12,58.03,youtube,african_youtube_
+2019,asian,2309,31.67,27,41.33,reddit,asian_reddit_
+2019,indigenous,12235,14.36,25.94,59.69,twitter,indigenous_twitter_
+2015,european,1427,49.13,28.28,22.59,twitter,european_twitter_
+2004,european,5962,34.13,37.39,28.48,reddit,european_reddit_
+2015,middle eastern,14860,21.13,36.14,42.73,linkedin,middle eastern_linkedin_
+2022,indigenous,14765,48.44,28.27,23.29,reddit,indigenous_reddit_
+2013,african,12200,22.04,26.71,51.26,twitter,african_twitter_
+2021,hispanic,7705,26.32,27.24,46.44,twitter,hispanic_twitter_
+2024,indigenous,10280,57.14,41.5,1.36,facebook,indigenous_facebook_
+2017,indigenous,9825,29.52,46.93,23.55,facebook,indigenous_facebook_
+2010,indigenous,12948,32.01,47.77,20.22,facebook,indigenous_facebook_
+2020,european,1295,57.09,46.62,-3.72,youtube,european_youtube_
+2023,asian,16850,32.23,21.37,46.4,instagram,asian_instagram_
+2011,african,12857,24.78,48.19,27.03,twitter,african_twitter_
+2004,european,4820,16.94,30.62,52.44,twitter,european_twitter_
+2015,african,6300,27.46,24.2,48.34,tiktok,african_tiktok_
+2023,african,6417,30.31,20.57,49.12,facebook,african_facebook_
+2010,hispanic,17263,47.33,41.62,11.04,tiktok,hispanic_tiktok_
+2024,middle eastern,4492,34.91,46.3,18.79,tiktok,middle eastern_tiktok_
+2021,asian,8777,51.05,36.46,12.49,facebook,asian_facebook_
+2006,hispanic,4876,26.64,49.75,23.61,facebook,hispanic_facebook_
+2024,middle eastern,5822,43.39,36.06,20.56,facebook,middle eastern_facebook_
+2021,middle eastern,14629,39.12,31.21,29.67,twitter,middle eastern_twitter_
+2022,indigenous,10782,45.5,23.2,31.3,instagram,indigenous_instagram_
+2016,african,3185,24.59,49.78,25.64,twitter,african_twitter_
+2012,asian,7555,46.54,39.21,14.25,tiktok,asian_tiktok_
+2007,indigenous,18894,40.74,43.96,15.29,youtube,indigenous_youtube_
+2020,african,16802,13.15,48.71,38.15,youtube,african_youtube_
+2007,middle eastern,3966,19.69,36.39,43.92,youtube,middle eastern_youtube_
+2007,asian,2460,34.25,35.36,30.39,linkedin,asian_linkedin_
+2018,african,2956,31.66,37.33,31.01,tiktok,african_tiktok_
+2023,hispanic,13349,57.68,38.63,3.7,instagram,hispanic_instagram_
+2018,middle eastern,18576,34.32,43.15,22.53,instagram,middle eastern_instagram_
+2004,african,15232,30.5,23.72,45.78,tiktok,african_tiktok_
+2008,asian,12008,57.86,37.62,4.51,reddit,asian_reddit_
+2019,middle eastern,7225,38.57,31.38,30.05,instagram,middle eastern_instagram_
+2008,hispanic,10084,39.22,43.62,17.16,youtube,hispanic_youtube_
+2022,european,9030,46.53,20.38,33.08,facebook,european_facebook_
+2024,hispanic,19349,56.16,20.3,23.54,facebook,hispanic_facebook_
+2005,asian,18175,40.52,41.04,18.45,instagram,asian_instagram_
+2023,european,5838,26.81,33.28,39.92,instagram,european_instagram_
+2023,european,16636,21.02,30.94,48.05,facebook,european_facebook_
+2014,indigenous,1297,12.4,49.68,37.92,youtube,indigenous_youtube_
+2012,african,19423,27.82,41.22,30.96,twitter,african_twitter_
+2023,indigenous,18167,22.89,36.52,40.58,youtube,indigenous_youtube_
+2012,european,14492,10.65,37.09,52.26,youtube,european_youtube_
+2010,indigenous,5975,19.17,39.85,40.98,tiktok,indigenous_tiktok_
+2023,european,9445,50.17,38.24,11.59,tiktok,european_tiktok_
+2012,hispanic,8200,24.32,40.16,35.52,youtube,hispanic_youtube_
+2007,african,3466,13.14,46.3,40.56,twitter,african_twitter_
+2020,asian,17172,56.33,22.83,20.84,instagram,asian_instagram_
+2006,middle eastern,8593,16.59,36.41,46.99,facebook,middle eastern_facebook_
+2017,indigenous,6252,45.55,22.8,31.65,youtube,indigenous_youtube_
+2022,middle eastern,10359,34.96,34.39,30.64,twitter,middle eastern_twitter_
+2012,european,6367,35.27,37.32,27.41,facebook,european_facebook_
+2009,european,11701,18.46,43.75,37.79,reddit,european_reddit_
+2020,european,8456,26.78,23.24,49.98,facebook,european_facebook_
+2012,african,11792,15.94,44.07,39.99,tiktok,african_tiktok_
+2005,african,2593,27.16,34.66,38.18,facebook,african_facebook_
+2005,european,19749,44.32,41.24,14.45,instagram,european_instagram_
+2008,african,18500,49.18,32.79,18.03,instagram,african_instagram_
+2015,indigenous,7302,46.92,28.48,24.6,twitter,indigenous_twitter_
+2014,middle eastern,9323,57.65,36.54,5.81,reddit,middle eastern_reddit_
+2024,african,4826,28.3,46.05,25.66,facebook,african_facebook_
+2005,asian,2504,51.59,47.47,0.94,instagram,asian_instagram_
+2012,middle eastern,5439,40.03,42,17.96,linkedin,middle eastern_linkedin_
+2007,asian,3031,18.88,27.66,53.46,reddit,asian_reddit_
+2012,hispanic,11541,12.17,40.71,47.12,twitter,hispanic_twitter_
+2008,indigenous,5908,22.9,49.8,27.3,facebook,indigenous_facebook_
+2018,european,15348,49.24,36.49,14.26,facebook,european_facebook_
+2023,african,4447,12.24,47.98,39.79,twitter,african_twitter_
+2020,african,14157,53.61,25.85,20.55,instagram,african_instagram_
+2016,middle eastern,8935,12.41,42.74,44.86,youtube,middle eastern_youtube_
+2022,european,10410,58.71,39.03,2.27,instagram,european_instagram_
+2013,african,2853,47.22,28.32,24.46,reddit,african_reddit_
+2016,indigenous,11692,55.32,43.22,1.45,linkedin,indigenous_linkedin_
+2012,indigenous,5407,13.75,23.34,62.91,youtube,indigenous_youtube_
+2012,european,15927,11.31,32.11,56.59,tiktok,european_tiktok_
+2020,asian,9392,16.76,29.73,53.52,facebook,asian_facebook_
+2007,middle eastern,6792,40.59,43.41,16,youtube,middle eastern_youtube_
+2005,hispanic,3586,13.12,30.04,56.83,twitter,hispanic_twitter_
+2013,middle eastern,19991,13.99,43.47,42.54,instagram,middle eastern_instagram_
+2018,indigenous,15742,34.13,33.93,31.94,linkedin,indigenous_linkedin_
+2012,asian,18855,17.92,21.09,61,linkedin,asian_linkedin_
+2023,african,19272,25.32,29.88,44.8,twitter,african_twitter_
+2020,african,1892,51.79,49.01,-0.8,facebook,african_facebook_
+2013,indigenous,2228,19.81,33.68,46.51,youtube,indigenous_youtube_
+2022,indigenous,15493,24.6,22.93,52.46,instagram,indigenous_instagram_
+2012,european,2176,10.65,35.88,53.46,youtube,european_youtube_
+2006,asian,15151,40.03,38.55,21.42,linkedin,asian_linkedin_
+2011,indigenous,4252,15.9,43.17,40.94,tiktok,indigenous_tiktok_
+2011,european,16552,13.35,24.42,62.22,youtube,european_youtube_
+2022,middle eastern,8568,25.11,41.11,33.78,linkedin,middle eastern_linkedin_
+2011,middle eastern,15455,52.66,25.14,22.2,facebook,middle eastern_facebook_
+2013,indigenous,12332,22.71,41.98,35.31,tiktok,indigenous_tiktok_
+2013,indigenous,11625,20.42,22.8,56.78,tiktok,indigenous_tiktok_
+2004,african,12028,46.49,44.18,9.34,tiktok,african_tiktok_
+2022,indigenous,2564,45.27,33.43,21.3,facebook,indigenous_facebook_
