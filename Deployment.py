@@ -7,7 +7,7 @@ from tensorflow.keras.models import load_model
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 # Load all trained LSTM models for different communities
-model_dir = os.path.dirname(__file__)
+model_dir = os.path.join(os.path.dirname(__file__), "models")
 models = {
     "african": load_model(os.path.join(model_dir, "lstm_model_social_media_representation_african.keras")),
     "asian": load_model(os.path.join(model_dir, "lstm_model_social_media_representation_asian.keras")),
