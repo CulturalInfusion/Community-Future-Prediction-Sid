@@ -1,173 +1,338 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Media Representation Future Forecast For Different Communities</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 20px;
-      background-color: #f9f9f9;
-    }
-    h1, h2 {
-      color: #333;
-    }
-    input, textarea, select, button {
-      width: 100%;
-      padding: 10px;
-      margin-top: 10px;
-      font-size: 16px;
-    }
-    textarea::placeholder {
-      color: #888;
-    }
-    textarea:hover::after {
-      content: attr(title);
-      display: block;
-      position: absolute;
-      background: #eee;
-      padding: 5px;
-      border-radius: 5px;
-      font-size: 14px;
-    }
-    button {
-      background-color: #007BFF;
-      color: white;
-      border: none;
-      cursor: pointer;
-    }
-    button:hover {
-      background-color: #0056b3;
-    }
-    .section {
-      margin-bottom: 40px;
-      padding: 20px;
-      background: white;
-      border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    }
-    #result {
-      margin-top: 20px;
-      font-weight: bold;
-      color: green;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Representation Future Forecast For Different Communities</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        input, textarea, select, button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        textarea {
+            height: 80px;
+            resize: vertical;
+        }
+        textarea::placeholder {
+            color: #888;
+        }
+        button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            cursor: pointer;
+            margin-top: 15px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .section {
+            margin-bottom: 40px;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 4px;
+            min-height: 20px;
+            border-left: 4px solid #007BFF;
+        }
+        label {
+            display: block;
+            margin-top: 15px;
+            margin-bottom: 5px;
+            font-weight: bold;
+            color: #555;
+        }
+        .prediction-item {
+            margin: 5px 0;
+            padding: 5px;
+            background-color: #e9ecef;
+            border-radius: 3px;
+        }
+    </style>
 </head>
 <body>
-  <h1>📈 Community Representation Future Forecast For Different Communities</h1>
+    <h1>📈 Community Representation Future Forecast For Different Communities</h1>
 
-  <div class="section">
-    <h2>📰 News Channels</h2>
-    <form class="forecastForm" data-type="news">
-      <label>Community:</label>
-      <select name="community">
-        <option value="African">African</option>
-        <option value="Asian">Asian</option>
-        <option value="Middle Eastern">Middle Eastern</option>
-        <option value="Indigenous">Indigenous</option>
-        <option value="European">European</option>
-      </select>
+    <div class="section">
+        <h2>📰 News Channels</h2>
+        <form class="forecastForm" data-type="news">
+            <label>Community:</label>
+            <select name="community">
+                <option value="african">African</option>
+                <option value="asian">Asian</option>
+                <option value="middle eastern">Middle Eastern</option>
+                <option value="indigenous">Indigenous</option>
+                <option value="european">European</option>
+                <option value="hispanic">Hispanic</option>
+            </select>
 
-      <label>News Channel:</label>
-      <select name="channel">
-        <option value="BBC">BBC</option>
-        <option value="CNN">CNN</option>
-        <option value="Fox News">Fox News</option>
-        <option value="Al Jazeera">Al Jazeera</option>
-        <option value="ABC">ABC</option>
-      </select>
+            <label>News Channel:</label>
+            <select name="channel">
+                <option value="BBC">BBC</option>
+                <option value="CNN">CNN</option>
+                <option value="Fox News">Fox News</option>
+                <option value="Al Jazeera">Al Jazeera</option>
+                <option value="ABC">ABC</option>
+                <option value="NBC">NBC</option>
+                <option value="Reuters">Reuters</option>
+            </select>
 
-      <label>Input Last 20 Years of Representation (%):</label>
-      <textarea name="values" placeholder="Enter the past 20 years data individually" title="Example: For year(2011-Enter 3,2012-Enter 1,2013-Enter 19,2014-Enter 13,2015- >
-      <button type="submit">Predict News</button>
-      <div class="result"></div>
-    </form>
-  </div>
-  <div class="section">
-    <h2>💬 Social Media Platforms</h2>
-    <form class="forecastForm" data-type="social">
-      <label>Community:</label>
-      <select name="community">
-        <option value="African">African</option>
-        <option value="Asian">Asian</option>
-        <option value="Middle Eastern">Middle Eastern</option>
-        <option value="Indigenous">Indigenous</option>
-        <option value="European">European</option>
-      </select>
+            <label>Input Last 20 Years of Representation (%):</label>
+            <textarea name="values" placeholder="Enter 20 comma-separated values (e.g., 3.1, 3.4, 3.8, 4.2, 4.6, 5.1, 5.5, 5.9, 6.3, 6.7, 7.1, 7.5, 7.9, 8.3, 8.7, 9.1, 9.5, 9.9, 10.3, 10.7)" title="Example: 3.1, 3.4, 3.8, 4.2, 4.6, 5.1, 5.5, 5.9, 6.3, 6.7, 7.1, 7.5, 7.9, 8.3, 8.7, 9.1, 9.5, 9.9, 10.3, 10.7"></textarea>
+            
+            <button type="submit">Predict News Representation</button>
+            <div class="result"></div>
+        </form>
+    </div>
 
-      <label>Platform:</label>
-      <select name="platform">
-        <option value="Twitter">Twitter</option>
-        <option value="Facebook">Facebook</option>
-        <option value="Instagram">Instagram</option>
-        <option value="YouTube">YouTube</option>
-        <option value="Reddit">Reddit</option>
-      </select>
+    <div class="section">
+        <h2>💬 Social Media Platforms</h2>
+        <form class="forecastForm" data-type="social">
+            <label>Community:</label>
+            <select name="community">
+                <option value="african">African</option>
+                <option value="asian">Asian</option>
+                <option value="middle eastern">Middle Eastern</option>
+                <option value="indigenous">Indigenous</option>
+                <option value="european">European</option>
+                <option value="hispanic">Hispanic</option>
+            </select>
 
-      <label>Input Last 20 Years of Representation (%):</label>
-      <textarea name="values" placeholder="Enter the past 20 years data individually" title="Example: For year(2011-Enter 23,2012-Enter 10,2013-Enter 9,2014-Enter 23,2015->
-      <button type="submit">Predict Social Media</button>
-      <div class="result"></div>
-    </form>
-  </div>
+            <label>Platform:</label>
+            <select name="platform">
+                <option value="Twitter">Twitter (X)</option>
+                <option value="Facebook">Facebook</option>
+                <option value="Instagram">Instagram</option>
+                <option value="YouTube">YouTube</option>
+                <option value="Reddit">Reddit</option>
+                <option value="TikTok">TikTok</option>
+                <option value="LinkedIn">LinkedIn</option>
+            </select>
 
-  <div class="section">
-    <h2>🎬 Entertainment Media (TV, Movies)</h2>
-    <form class="forecastForm" data-type="entertainment">
-      <label>Community:</label>
-      <select name="community">
-        <option value="African">African</option>
-        <option value="Asian">Asian</option>
-        <option value="Middle Eastern">Middle Eastern</option>
-        <option value="Indigenous">Indigenous</option>
-        <option value="European">European</option>
-      </select>
+            <label>Input Last 20 Years of Representation (%):</label>
+            <textarea name="values" placeholder="Enter 20 comma-separated values (e.g., 2.1, 2.3, 2.0, 2.5, 2.8, 3.2, 3.0, 3.5, 3.8, 4.1, 4.5, 4.2, 4.8, 5.1, 5.3, 5.6, 5.2, 5.8, 6.1, 6.4)" title="Example: 2.1, 2.3, 2.0, 2.5, 2.8, 3.2, 3.0, 3.5, 3.8, 4.1, 4.5, 4.2, 4.8, 5.1, 5.3, 5.6, 5.2, 5.8, 6.1, 6.4"></textarea>
+            
+            <button type="submit">Predict Social Media Representation</button>
+            <div class="result"></div>
+        </form>
+    </div>
 
-      <label>Entertainment Type:</label>
-      <select name="entertainment">
-        <option value="Hollywood">Hollywood</option>
-        <option value="Bollywood">Bollywood</option>
-        <option value="Spanish TV Shows">Spanish TV Shows</option>
-        <option value="K-Dramas">K-Dramas</option>
-        <option value="Nigerian Cinema">Nigerian Cinema</option>
-      </select>
+    <div class="section">
+        <h2>🎬 Entertainment Media (TV, Movies)</h2>
+        <form class="forecastForm" data-type="entertainment">
+            <label>Community:</label>
+            <select name="community">
+                <option value="african">African</option>
+                <option value="asian">Asian</option>
+                <option value="middle eastern">Middle Eastern</option>
+                <option value="indigenous">Indigenous</option>
+                <option value="european">European</option>
+                <option value="hispanic">Hispanic</option>
+            </select>
 
-      <label>Input Last 20 Years of Representation (%):</label>
-      <textarea name="values" placeholder="Enter the past 20 years data individually" title="Example: For year(2011- Enter 14,2012-Enter 17,2013-Enter 19,2014-Enter 21,201>
-      <button type="submit">Predict Entertainment</button>
-      <div class="result"></div>
-    </form>
-  </div>
+            <label>Entertainment Type:</label>
+            <select name="entertainment">
+                <option value="Hollywood">Hollywood Movies</option>
+                <option value="Bollywood">Bollywood</option>
+                <option value="Spanish TV Shows">Spanish TV Shows</option>
+                <option value="K-Dramas">K-Dramas</option>
+                <option value="Nigerian Cinema">Nigerian Cinema (Nollywood)</option>
+                <option value="British TV">British TV Shows</option>
+                <option value="Netflix Originals">Netflix Originals</option>
+                <option value="Disney Productions">Disney Productions</option>
+            </select>
 
-  <script>
-    document.querySelectorAll(".forecastForm").forEach(form => {
-      form.addEventListener("submit", async function(e) {
-        e.preventDefault();
+            <label>Input Last 20 Years of Representation (%):</label>
+            <textarea name="values" placeholder="Enter 20 comma-separated values (e.g., 1.4, 1.7, 1.9, 2.1, 2.4, 2.7, 3.0, 3.3, 3.6, 3.9, 4.2, 4.5, 4.8, 5.1, 5.4, 5.7, 6.0, 6.3, 6.6, 6.9)" title="Example: 1.4, 1.7, 1.9, 2.1, 2.4, 2.7, 3.0, 3.3, 3.6, 3.9, 4.2, 4.5, 4.8, 5.1, 5.4, 5.7, 6.0, 6.3, 6.6, 6.9"></textarea>
+            
+            <button type="submit">Predict Entertainment Representation</button>
+            <div class="result"></div>
+        </form>
+    </div>
 
-        const community = this.querySelector("select[name='community']").value;
-        const valuesText = this.querySelector("textarea").value;
-        const resultBox = this.querySelector(".result");
-        const values = valuesText.split(',').map(v => parseFloat(v.trim()));
+    <script>
+        document.querySelectorAll(".forecastForm").forEach(form => {
+            form.addEventListener("submit", async function(e) {
+                e.preventDefault();
 
-        if (values.length !== 20 || values.some(isNaN)) {
-          alert("Please enter exactly 20 valid numeric values.");
-          return;
-        }
+                const community = this.querySelector("select[name='community']").value;
+                const valuesText = this.querySelector("textarea").value;
+                const resultBox = this.querySelector(".result");
+                const mediaType = this.getAttribute("data-type");
+                
+                // Get additional form data
+                const channel = this.querySelector("select[name='channel']")?.value || null;
+                const platform = this.querySelector("select[name='platform']")?.value || null;
+                const entertainment = this.querySelector("select[name='entertainment']")?.value || null;
+                
+                // Parse input values
+                const values = valuesText.split(',').map(v => parseFloat(v.trim()) / 100);
 
-        const response = await fetch("/predict", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ input: values, community })
+                if (values.length !== 20 || values.some(isNaN)) {
+                    resultBox.innerHTML = '<span style="color: red; font-weight: bold;">⚠️ Please enter exactly 20 valid numeric values separated by commas.</span>';
+                    return;
+                }
+
+                resultBox.innerHTML = '<span style="color: blue; font-weight: bold;">🔄 Generating predictions...</span>';
+
+                try {
+                    const requestData = {
+                        input: values,
+                        community: community.toLowerCase(),
+                        mediaType: mediaType,
+                        channel: channel,
+                        platform: platform,
+                        entertainment: entertainment
+                    };
+
+                    const response = await fetch("/predict", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify(requestData)
+                    });
+
+                    const data = await response.json();
+                    console.log("API Response:", data);
+                    
+                    if (data.predictions) {
+                        let contextInfo = '';
+                        if (channel) contextInfo = ' for ' + channel;
+                        else if (platform) contextInfo = ' on ' + platform;
+                        else if (entertainment) contextInfo = ' in ' + entertainment;
+
+                        let resultHTML = '<h3>🎯 Predictions for ' + community + ' community' + contextInfo + ':</h3>';
+                        resultHTML += '<div style="margin-top: 15px;">';
+                        
+                        for (const [year, value] of Object.entries(data.predictions)) {
+                            resultHTML += '<div class="prediction-item">';
+                            resultHTML += '<strong>' + year + ':</strong> ' + parseFloat(value).toFixed(2) + '%';
+                            resultHTML += '</div>';
+                        }
+                        resultHTML += '</div>';
+                        
+                        // Add summary
+                        const predictions = Object.values(data.predictions).map(v => parseFloat(v));
+                        const firstYear = predictions[0];
+                        const lastYear = predictions[predictions.length - 1];
+                        const trend = lastYear > firstYear ? '📈 Increasing' : '📉 Decreasing';
+                        const change = (lastYear - firstYear).toFixed(1);
+                        
+                        resultHTML += '<div style="margin-top: 15px; padding: 10px; background-color: #e3f2fd; border-radius: 5px;">';
+                        resultHTML += '<strong>📊 Summary:</strong><br>';
+                        resultHTML += 'Trend: ' + trend + '<br>';
+                        resultHTML += 'Total Change (2025-2035): ' + (change > 0 ? '+' : '') + change + '%';
+                        resultHTML += '</div>';
+                        
+                        resultBox.innerHTML = resultHTML;
+                    } else if (data.error) {
+                        resultBox.innerHTML = '<span style="color: red; font-weight: bold;">❌ Error: ' + data.error + '</span>';
+                        if (data.available_communities) {
+                            resultBox.innerHTML += '<br><small>Available communities: ' + data.available_communities.join(', ') + '</small>';
+                        }
+                    } else {
+                        resultBox.innerHTML = '<span style="color: red; font-weight: bold;">❌ Unknown error occurred</span>';
+                    }
+                } catch (error) {
+                    console.error("Network error:", error);
+                    resultBox.innerHTML = '<span style="color: red; font-weight: bold;">🌐 Network error: ' + error.message + '</span><br><small>Please check your internet connection and try again.</small>';
+                }
+            });
         });
 
-        const data = await response.json();
-        resultBox.innerText = data.prediction
-          ? `Predicted Next-Year Representation: ${data.prediction.toFixed(2)}%`
-          : `Error: ${data.error}`;
-      });
-    });
-  </script>
+        // Add form validation and helper functions
+        document.querySelectorAll('textarea[name="values"]').forEach(textarea => {
+            textarea.addEventListener('blur', function() {
+                const values = this.value.split(',').map(v => v.trim()).filter(v => v !== '');
+                if (values.length > 0 && values.length !== 20) {
+                    this.style.borderColor = '#dc3545';
+                    this.style.backgroundColor = '#fff5f5';
+                } else {
+                    this.style.borderColor = '#ddd';
+                    this.style.backgroundColor = 'white';
+                }
+            });
+        });
+
+        // Add realistic sample data based on community and media type
+          function addSampleData() {
+              const sampleDataSets = {
+                  news: {
+                      african: "1.2, 1.4, 1.1, 1.6, 1.8, 2.1, 2.3, 2.0, 2.4, 2.7, 3.1, 3.4, 3.8, 4.2, 4.6, 5.1, 5.4, 5.8, 6.2, 6.7",
+                      asian: "3.4, 3.8, 4.1, 4.5, 4.9, 5.2, 5.6, 6.0, 6.4, 6.8, 7.2, 7.6, 8.0, 8.4, 8.8, 9.2, 9.6, 10.0, 10.4, 10.8",
+                      "middle eastern": "2.1, 1.8, 1.5, 1.9, 2.3, 2.6, 2.4, 2.8, 3.1, 3.4, 3.7, 4.0, 4.3, 4.6, 4.9, 5.2, 5.5, 5.8, 6.1, 6.4",
+                      indigenous: "0.3, 0.4, 0.2, 0.5, 0.6, 0.8, 0.7, 0.9, 1.1, 1.3, 1.5, 1.7, 1.9, 2.1, 2.3, 2.5, 2.7, 2.9, 3.1, 3.3",
+                      european: "68.5, 67.8, 67.2, 66.5, 65.9, 65.2, 64.6, 63.9, 63.3, 62.6, 62.0, 61.3, 60.7, 60.0, 59.4, 58.7, 58.1, 57.4, 56.8, 56.1",
+                      hispanic: "8.9, 9.2, 9.6, 10.1, 10.5, 10.9, 11.3, 11.7, 12.1, 12.5, 12.9, 13.3, 13.7, 14.1, 14.5, 14.9, 15.3, 15.7, 16.1, 16.5"
+                  },
+                  social: {
+                      african: "8.2, 8.9, 9.6, 10.3, 11.0, 11.7, 12.4, 13.1, 13.8, 14.5, 15.2, 15.9, 16.6, 17.3, 18.0, 18.7, 19.4, 20.1, 20.8, 21.5",
+                      asian: "15.3, 16.1, 16.9, 17.7, 18.5, 19.3, 20.1, 20.9, 21.7, 22.5, 23.3, 24.1, 24.9, 25.7, 26.5, 27.3, 28.1, 28.9, 29.7, 30.5",
+                      "middle eastern": "4.7, 5.1, 5.5, 5.9, 6.3, 6.7, 7.1, 7.5, 7.9, 8.3, 8.7, 9.1, 9.5, 9.9, 10.3, 10.7, 11.1, 11.5, 11.9, 12.3",
+                      indigenous: "1.8, 2.1, 2.4, 2.7, 3.0, 3.3, 3.6, 3.9, 4.2, 4.5, 4.8, 5.1, 5.4, 5.7, 6.0, 6.3, 6.6, 6.9, 7.2, 7.5",
+                      european: "52.6, 51.8, 51.0, 50.2, 49.4, 48.6, 47.8, 47.0, 46.2, 45.4, 44.6, 43.8, 43.0, 42.2, 41.4, 40.6, 39.8, 39.0, 38.2, 37.4",
+                      hispanic: "17.4, 18.0, 18.6, 19.2, 19.8, 20.4, 21.0, 21.6, 22.2, 22.8, 23.4, 24.0, 24.6, 25.2, 25.8, 26.4, 27.0, 27.6, 28.2, 28.8"
+                  },
+                  entertainment: {
+                      african: "3.8, 4.2, 4.6, 5.0, 5.4, 5.8, 6.2, 6.6, 7.0, 7.4, 7.8, 8.2, 8.6, 9.0, 9.4, 9.8, 10.2, 10.6, 11.0, 11.4",
+                      asian: "6.7, 7.3, 7.9, 8.5, 9.1, 9.7, 10.3, 10.9, 11.5, 12.1, 12.7, 13.3, 13.9, 14.5, 15.1, 15.7, 16.3, 16.9, 17.5, 18.1",
+                      "middle eastern": "1.9, 2.1, 2.3, 2.5, 2.7, 2.9, 3.1, 3.3, 3.5, 3.7, 3.9, 4.1, 4.3, 4.5, 4.7, 4.9, 5.1, 5.3, 5.5, 5.7",
+                      indigenous: "0.7, 0.8, 0.9, 1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 2.0, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6",
+                      european: "74.2, 73.1, 72.0, 70.9, 69.8, 68.7, 67.6, 66.5, 65.4, 64.3, 63.2, 62.1, 61.0, 59.9, 58.8, 57.7, 56.6, 55.5, 54.4, 53.3",
+                      hispanic: "12.7, 13.5, 14.3, 15.1, 15.9, 16.7, 17.5, 18.3, 19.1, 19.9, 20.7, 21.5, 22.3, 23.1, 23.9, 24.7, 25.5, 26.3, 27.1, 27.9"
+                  }
+              };
+
+              document.querySelectorAll('.forecastForm').forEach(form => {
+                  const mediaType = form.getAttribute('data-type');
+                  const textarea = form.querySelector('textarea[name="values"]');
+                  const communitySelect = form.querySelector('select[name="community"]');
+                  
+                  const button = document.createElement('button');
+                  button.type = 'button';
+                  button.textContent = 'Use Realistic Sample Data';
+                  button.style.width = 'auto';
+                  button.style.padding = '5px 10px';
+                  button.style.fontSize = '12px';
+                  button.style.marginTop = '5px';
+                  button.style.backgroundColor = '#28a745';
+                  
+                  button.onclick = () => {
+                      const selectedCommunity = communitySelect.value;
+                      const sampleData = sampleDataSets[mediaType][selectedCommunity];
+                      if (sampleData) {
+                          textarea.value = sampleData;
+                          textarea.style.borderColor = '#28a745';
+                          textarea.style.backgroundColor = '#f8fff8';
+                      }
+                  };
+                  
+                  textarea.parentNode.insertBefore(button, textarea.nextSibling);
+              });
+          }
+
+        // Initialize sample data buttons when page loads
+        document.addEventListener('DOMContentLoaded', addSampleData);
+    </script>
 </body>
+</html>
